@@ -1,0 +1,12 @@
+----Data----
+https://understat.com/league/EPL/2023
+https://statsbomb.com/soccer-metrics/expected-goals-xg-explained/
+
+----Learn----
+https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd
+https://www.youtube.com/watch?v=nFn4_nA_yk8
+
+
+---Tips and Articals---
+https://medium.com/@buildingblocks/deep-xg-training-your-own-expected-goals-xg-deep-learning-model-cbb9b9eb5465
+https://medium.com/@francisdragulet/building-an-expected-goals-soccer-model-using-machine-learning-decision-trees-and-xgboost-416b350288b2
