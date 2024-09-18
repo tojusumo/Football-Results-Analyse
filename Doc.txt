@@ -13,3 +13,5 @@ https://medium.com/@francisdragulet/building-an-expected-goals-soccer-model-usin
 
 ----Questions----
 What is the objective of our program? Have a good percentage of success in predicting the winner? Only on the number of goals?
+
+Objectif : faire une étape ou un palier du projet par semaine minimum !
