@@ -1,26 +1,47 @@
-----Data----
-https://understat.com/league/EPL/2023
-https://statsbomb.com/soccer-metrics/expected-goals-xg-explained/ - payant
+Player
 
-----Learn----
-https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd
-https://www.youtube.com/watch?v=nFn4_nA_yk8
+player_id: int (Primary Key)
+name: string
+date_of_birth: date
+position: string
+nationality: string
+current_club: FK to Club
+contract_start_date: date
+contract_end_date: date
+Club
 
----Tips and Articals---
-https://medium.com/@alf.19x/how-to-build-your-own-expected-goals-xg-model-2bd186dccdf7
-https://medium.com/@buildingblocks/deep-xg-training-your-own-expected-goals-xg-deep-learning-model-cbb9b9eb5465
-https://medium.com/@francisdragulet/building-an-expected-goals-soccer-model-using-machine-learning-decision-trees-and-xgboost-416b350288b2
+club_id: int (Primary Key)
+club_name: string
+founded: date
+stadium: string
+city: string
+country: string
+competitions: Association with Competition (Many-to-Many)
+Competition
 
-----Questions----
-What is the objective of our program? Have a good percentage of success in predicting the winner? Only on the number of goals?
+competition_id: int (Primary Key)
+name: string
+type: string (e.g., "Domestic", "International")
+season_start: date
+season_end: date
+clubs: Association with Club (Many-to-Many)
+Match
 
-Objectif : faire une étape ou un palier du projet par semaine minimum !
+match_id: int (Primary Key)
+date: date
+stadium: string
+home_team: FK to Club (association)
+away_team: FK to Club (association)
+competition_id: FK to Competition (association)
+home_team_score: int
+away_team_score: int
+PlayerPerformance (Link between Match and Player)
 
-----SCRAPING----
-
-Réaliser le scraping de Transfermarkt (à déterminer) avec un fichier pour : 
-- Résultat de match
-- Fait de match (buteur, passeur, carton, sortie, entrée, blessure, compo)
-- Composition / match (début de match uniquement) 
-- Transferts
-- Évolution de la valeur marchande / joueur
+performance_id: int (Primary Key)
+match_id: FK to Match (association)
+player_id: FK to Player (association)
+minutes_played: int
+goals: int
+assists: int
+yellow_cards: int
+red_cards: int
