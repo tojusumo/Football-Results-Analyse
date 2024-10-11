@@ -1,6 +1,8 @@
-from sqlalchemy import Column,ForeignKey,Integer,String
+from sqlalchemy import Boolean, Column,ForeignKey,Integer,String
 from db.base import Base
+from sqlalchemy.ext.declarative import declarative_base
 
+Base = declarative_base()
 
 
 class Player(Base):
@@ -17,3 +19,13 @@ class Player(Base):
     contract_end_date = Column(String)
     
     
+class Club(Base):
+    __tablename__ = "club"
+    
+    
+    club_id = Column(Integer,primary_key=True,index=True)
+    club_name = Column(String)
+    founded = Column(String)
+    stadium = Column(String)
+    city = Column(String)
+    country = Column(String)

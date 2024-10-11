@@ -1,5 +1,5 @@
 from sqlalchemy import Column, Integer, String
-from db import Base
+from db.base import Base
 
 
 class Competition(Base):

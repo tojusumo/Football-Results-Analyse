@@ -1,11 +1,11 @@
 from sqlalchemy import Column, Float, ForeignKey, Integer, String
 
-from db import Base
+from db.base import Base
 
 
 class Transfer(Base):
     __tablename__ = 'transfer'
-    transfer_id = Column(Integer,primarykey=True,index=True)
+    transfer_id = Column(Integer,primary_key=True,index=True)
     player_id = Column(Integer,ForeignKey("player.player_id"))
     club_out_id = Column(Integer,ForeignKey("team.team_id"))
     club_in_id = Column(Integer,ForeignKey("team.team_id"))

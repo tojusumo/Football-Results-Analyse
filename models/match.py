@@ -1,6 +1,6 @@
 from sqlalchemy import Column, ForeignKey, Integer, String
 
-from db import Base
+from db.base import Base
 
 
 class Match(Base):
