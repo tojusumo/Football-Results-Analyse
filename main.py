@@ -1,7 +1,7 @@
 from fastapi import FastAPI,HTTPException,Depends
 from pydantic import BaseModel
 from typing import List,Optional
-from models import Player
+from models import Player,Club
 from db.base import engine,SessionLocal
 from sqlalchemy.orm import Session
 
@@ -39,7 +39,7 @@ def get_db():
 
 @app.post("/club/", response_model=ClubBase)
 async def add_club(club: ClubBase, db: Session = Depends(get_db)):
-    db_club = player.Club(
+    db_club = Club(
         club_name=club.club_name,
         founded=club.founded,
         stadium=club.stadium,
