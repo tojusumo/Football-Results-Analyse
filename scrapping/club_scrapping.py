@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import time
 
 # Define league and seasons
 leagues = {
@@ -18,13 +19,24 @@ seasons = [f"{year}-{year + 1}" for year in range(2010, current_year + 1)]
 # Initialize a list to hold team data
 clubs = []
 
+# Request counter
+request_counter = 0
+
 # Loop through each league and each season
 for league_name, base_url in leagues.items():
     for season in seasons:
         url = f"{base_url}{season}/{season}-{league_name.replace(' ', '-')}-Stats"
         print(f"Scraping {league_name} for the season {season}...")
 
+        # Make the request
         response = requests.get(url)
+        request_counter += 1
+        
+        # Check for rate limiting
+        if request_counter > 10:
+            print("Reached request limit. Sleeping for 60 seconds...")
+            time.sleep(60)  # Sleep for a minute after 10 requests
+            request_counter = 0  # Reset the counter after sleeping
 
         if response.status_code != 200:
             print(f"Failed to retrieve data for {league_name} in the season {season}. Status code: {response.status_code}")
@@ -51,8 +63,7 @@ for league_name, base_url in leagues.items():
                 if not any(club['club_link'] == club_link for club in clubs):
                     clubs.append({
                         'club_name': club_name,
-                        'club_link': club_link,
-                        'season': season  # Add season for context
+                        'club_link': club_link
                     })
                 else:
                     print(f"Duplicate link found: {club_link} for {club_name} in season {season}")  # Debugging message for duplicates

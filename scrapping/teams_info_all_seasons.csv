@@ -1,535 +1,1467 @@
-club_name,club_link,season
-Arsenal,https://fbref.com/en/squads/18bb7c10/2010-2011/Arsenal-Stats,2010-2011
-Aston Villa,https://fbref.com/en/squads/8602292d/2010-2011/Aston-Villa-Stats,2010-2011
-Birmingham City,https://fbref.com/en/squads/ec79b7c2/2010-2011/Birmingham-City-Stats,2010-2011
-Blackburn,https://fbref.com/en/squads/e090f40b/2010-2011/Blackburn-Rovers-Stats,2010-2011
-Blackpool,https://fbref.com/en/squads/7cbf5cb4/2010-2011/Blackpool-Stats,2010-2011
-Bolton,https://fbref.com/en/squads/445d3104/2010-2011/Bolton-Wanderers-Stats,2010-2011
-Chelsea,https://fbref.com/en/squads/cff3d9bb/2010-2011/Chelsea-Stats,2010-2011
-Everton,https://fbref.com/en/squads/d3fd31cc/2010-2011/Everton-Stats,2010-2011
-Fulham,https://fbref.com/en/squads/fd962109/2010-2011/Fulham-Stats,2010-2011
-Liverpool,https://fbref.com/en/squads/822bd0ba/2010-2011/Liverpool-Stats,2010-2011
-Manchester City,https://fbref.com/en/squads/b8fd03ef/2010-2011/Manchester-City-Stats,2010-2011
-Manchester Utd,https://fbref.com/en/squads/19538871/2010-2011/Manchester-United-Stats,2010-2011
-Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2010-2011/Newcastle-United-Stats,2010-2011
-Stoke City,https://fbref.com/en/squads/17892952/2010-2011/Stoke-City-Stats,2010-2011
-Sunderland,https://fbref.com/en/squads/8ef52968/2010-2011/Sunderland-Stats,2010-2011
-Tottenham,https://fbref.com/en/squads/361ca564/2010-2011/Tottenham-Hotspur-Stats,2010-2011
-West Brom,https://fbref.com/en/squads/60c6b05f/2010-2011/West-Bromwich-Albion-Stats,2010-2011
-West Ham,https://fbref.com/en/squads/7c21e445/2010-2011/West-Ham-United-Stats,2010-2011
-Wigan Athletic,https://fbref.com/en/squads/e59ddc76/2010-2011/Wigan-Athletic-Stats,2010-2011
-Wolves,https://fbref.com/en/squads/8cec06e1/2010-2011/Wolverhampton-Wanderers-Stats,2010-2011
-Arsenal,https://fbref.com/en/squads/18bb7c10/2011-2012/Arsenal-Stats,2011-2012
-Aston Villa,https://fbref.com/en/squads/8602292d/2011-2012/Aston-Villa-Stats,2011-2012
-Blackburn,https://fbref.com/en/squads/e090f40b/2011-2012/Blackburn-Rovers-Stats,2011-2012
-Bolton,https://fbref.com/en/squads/445d3104/2011-2012/Bolton-Wanderers-Stats,2011-2012
-Chelsea,https://fbref.com/en/squads/cff3d9bb/2011-2012/Chelsea-Stats,2011-2012
-Everton,https://fbref.com/en/squads/d3fd31cc/2011-2012/Everton-Stats,2011-2012
-Fulham,https://fbref.com/en/squads/fd962109/2011-2012/Fulham-Stats,2011-2012
-Liverpool,https://fbref.com/en/squads/822bd0ba/2011-2012/Liverpool-Stats,2011-2012
-Manchester City,https://fbref.com/en/squads/b8fd03ef/2011-2012/Manchester-City-Stats,2011-2012
-Manchester Utd,https://fbref.com/en/squads/19538871/2011-2012/Manchester-United-Stats,2011-2012
-Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2011-2012/Newcastle-United-Stats,2011-2012
-Norwich City,https://fbref.com/en/squads/1c781004/2011-2012/Norwich-City-Stats,2011-2012
-QPR,https://fbref.com/en/squads/a757999c/2011-2012/Queens-Park-Rangers-Stats,2011-2012
-Stoke City,https://fbref.com/en/squads/17892952/2011-2012/Stoke-City-Stats,2011-2012
-Sunderland,https://fbref.com/en/squads/8ef52968/2011-2012/Sunderland-Stats,2011-2012
-Swansea City,https://fbref.com/en/squads/fb10988f/2011-2012/Swansea-City-Stats,2011-2012
-Tottenham,https://fbref.com/en/squads/361ca564/2011-2012/Tottenham-Hotspur-Stats,2011-2012
-West Brom,https://fbref.com/en/squads/60c6b05f/2011-2012/West-Bromwich-Albion-Stats,2011-2012
-Wigan Athletic,https://fbref.com/en/squads/e59ddc76/2011-2012/Wigan-Athletic-Stats,2011-2012
-Wolves,https://fbref.com/en/squads/8cec06e1/2011-2012/Wolverhampton-Wanderers-Stats,2011-2012
-Arsenal,https://fbref.com/en/squads/18bb7c10/2012-2013/Arsenal-Stats,2012-2013
-Aston Villa,https://fbref.com/en/squads/8602292d/2012-2013/Aston-Villa-Stats,2012-2013
-Chelsea,https://fbref.com/en/squads/cff3d9bb/2012-2013/Chelsea-Stats,2012-2013
-Everton,https://fbref.com/en/squads/d3fd31cc/2012-2013/Everton-Stats,2012-2013
-Fulham,https://fbref.com/en/squads/fd962109/2012-2013/Fulham-Stats,2012-2013
-Liverpool,https://fbref.com/en/squads/822bd0ba/2012-2013/Liverpool-Stats,2012-2013
-Manchester City,https://fbref.com/en/squads/b8fd03ef/2012-2013/Manchester-City-Stats,2012-2013
-Manchester Utd,https://fbref.com/en/squads/19538871/2012-2013/Manchester-United-Stats,2012-2013
-Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2012-2013/Newcastle-United-Stats,2012-2013
-Norwich City,https://fbref.com/en/squads/1c781004/2012-2013/Norwich-City-Stats,2012-2013
-QPR,https://fbref.com/en/squads/a757999c/2012-2013/Queens-Park-Rangers-Stats,2012-2013
-Reading,https://fbref.com/en/squads/b0ac61ff/2012-2013/Reading-Stats,2012-2013
-Southampton,https://fbref.com/en/squads/33c895d4/2012-2013/Southampton-Stats,2012-2013
-Stoke City,https://fbref.com/en/squads/17892952/2012-2013/Stoke-City-Stats,2012-2013
-Sunderland,https://fbref.com/en/squads/8ef52968/2012-2013/Sunderland-Stats,2012-2013
-Swansea City,https://fbref.com/en/squads/fb10988f/2012-2013/Swansea-City-Stats,2012-2013
-Tottenham,https://fbref.com/en/squads/361ca564/2012-2013/Tottenham-Hotspur-Stats,2012-2013
-West Brom,https://fbref.com/en/squads/60c6b05f/2012-2013/West-Bromwich-Albion-Stats,2012-2013
-West Ham,https://fbref.com/en/squads/7c21e445/2012-2013/West-Ham-United-Stats,2012-2013
-Wigan Athletic,https://fbref.com/en/squads/e59ddc76/2012-2013/Wigan-Athletic-Stats,2012-2013
-Arsenal,https://fbref.com/en/squads/18bb7c10/2013-2014/Arsenal-Stats,2013-2014
-Aston Villa,https://fbref.com/en/squads/8602292d/2013-2014/Aston-Villa-Stats,2013-2014
-Cardiff City,https://fbref.com/en/squads/75fae011/2013-2014/Cardiff-City-Stats,2013-2014
-Chelsea,https://fbref.com/en/squads/cff3d9bb/2013-2014/Chelsea-Stats,2013-2014
-Crystal Palace,https://fbref.com/en/squads/47c64c55/2013-2014/Crystal-Palace-Stats,2013-2014
-Everton,https://fbref.com/en/squads/d3fd31cc/2013-2014/Everton-Stats,2013-2014
-Fulham,https://fbref.com/en/squads/fd962109/2013-2014/Fulham-Stats,2013-2014
-Hull City,https://fbref.com/en/squads/bd8769d1/2013-2014/Hull-City-Stats,2013-2014
-Liverpool,https://fbref.com/en/squads/822bd0ba/2013-2014/Liverpool-Stats,2013-2014
-Manchester City,https://fbref.com/en/squads/b8fd03ef/2013-2014/Manchester-City-Stats,2013-2014
-Manchester Utd,https://fbref.com/en/squads/19538871/2013-2014/Manchester-United-Stats,2013-2014
-Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2013-2014/Newcastle-United-Stats,2013-2014
-Norwich City,https://fbref.com/en/squads/1c781004/2013-2014/Norwich-City-Stats,2013-2014
-Southampton,https://fbref.com/en/squads/33c895d4/2013-2014/Southampton-Stats,2013-2014
-Stoke City,https://fbref.com/en/squads/17892952/2013-2014/Stoke-City-Stats,2013-2014
-Sunderland,https://fbref.com/en/squads/8ef52968/2013-2014/Sunderland-Stats,2013-2014
-Swansea City,https://fbref.com/en/squads/fb10988f/2013-2014/Swansea-City-Stats,2013-2014
-Tottenham,https://fbref.com/en/squads/361ca564/2013-2014/Tottenham-Hotspur-Stats,2013-2014
-West Brom,https://fbref.com/en/squads/60c6b05f/2013-2014/West-Bromwich-Albion-Stats,2013-2014
-West Ham,https://fbref.com/en/squads/7c21e445/2013-2014/West-Ham-United-Stats,2013-2014
-Arsenal,https://fbref.com/en/squads/18bb7c10/2014-2015/Arsenal-Stats,2014-2015
-Aston Villa,https://fbref.com/en/squads/8602292d/2014-2015/Aston-Villa-Stats,2014-2015
-Burnley,https://fbref.com/en/squads/943e8050/2014-2015/Burnley-Stats,2014-2015
-Chelsea,https://fbref.com/en/squads/cff3d9bb/2014-2015/Chelsea-Stats,2014-2015
-Crystal Palace,https://fbref.com/en/squads/47c64c55/2014-2015/Crystal-Palace-Stats,2014-2015
-Everton,https://fbref.com/en/squads/d3fd31cc/2014-2015/Everton-Stats,2014-2015
-Hull City,https://fbref.com/en/squads/bd8769d1/2014-2015/Hull-City-Stats,2014-2015
-Leicester City,https://fbref.com/en/squads/a2d435b3/2014-2015/Leicester-City-Stats,2014-2015
-Liverpool,https://fbref.com/en/squads/822bd0ba/2014-2015/Liverpool-Stats,2014-2015
-Manchester City,https://fbref.com/en/squads/b8fd03ef/2014-2015/Manchester-City-Stats,2014-2015
-Manchester Utd,https://fbref.com/en/squads/19538871/2014-2015/Manchester-United-Stats,2014-2015
-Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2014-2015/Newcastle-United-Stats,2014-2015
-QPR,https://fbref.com/en/squads/a757999c/2014-2015/Queens-Park-Rangers-Stats,2014-2015
-Southampton,https://fbref.com/en/squads/33c895d4/2014-2015/Southampton-Stats,2014-2015
-Stoke City,https://fbref.com/en/squads/17892952/2014-2015/Stoke-City-Stats,2014-2015
-Sunderland,https://fbref.com/en/squads/8ef52968/2014-2015/Sunderland-Stats,2014-2015
-Swansea City,https://fbref.com/en/squads/fb10988f/2014-2015/Swansea-City-Stats,2014-2015
-Tottenham,https://fbref.com/en/squads/361ca564/2014-2015/Tottenham-Hotspur-Stats,2014-2015
-West Brom,https://fbref.com/en/squads/60c6b05f/2014-2015/West-Bromwich-Albion-Stats,2014-2015
-West Ham,https://fbref.com/en/squads/7c21e445/2014-2015/West-Ham-United-Stats,2014-2015
-Arsenal,https://fbref.com/en/squads/18bb7c10/2015-2016/Arsenal-Stats,2015-2016
-Aston Villa,https://fbref.com/en/squads/8602292d/2015-2016/Aston-Villa-Stats,2015-2016
-Bournemouth,https://fbref.com/en/squads/4ba7cbea/2015-2016/Bournemouth-Stats,2015-2016
-Chelsea,https://fbref.com/en/squads/cff3d9bb/2015-2016/Chelsea-Stats,2015-2016
-Crystal Palace,https://fbref.com/en/squads/47c64c55/2015-2016/Crystal-Palace-Stats,2015-2016
-Everton,https://fbref.com/en/squads/d3fd31cc/2015-2016/Everton-Stats,2015-2016
-Leicester City,https://fbref.com/en/squads/a2d435b3/2015-2016/Leicester-City-Stats,2015-2016
-Liverpool,https://fbref.com/en/squads/822bd0ba/2015-2016/Liverpool-Stats,2015-2016
-Manchester City,https://fbref.com/en/squads/b8fd03ef/2015-2016/Manchester-City-Stats,2015-2016
-Manchester Utd,https://fbref.com/en/squads/19538871/2015-2016/Manchester-United-Stats,2015-2016
-Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2015-2016/Newcastle-United-Stats,2015-2016
-Norwich City,https://fbref.com/en/squads/1c781004/2015-2016/Norwich-City-Stats,2015-2016
-Southampton,https://fbref.com/en/squads/33c895d4/2015-2016/Southampton-Stats,2015-2016
-Stoke City,https://fbref.com/en/squads/17892952/2015-2016/Stoke-City-Stats,2015-2016
-Sunderland,https://fbref.com/en/squads/8ef52968/2015-2016/Sunderland-Stats,2015-2016
-Swansea City,https://fbref.com/en/squads/fb10988f/2015-2016/Swansea-City-Stats,2015-2016
-Tottenham,https://fbref.com/en/squads/361ca564/2015-2016/Tottenham-Hotspur-Stats,2015-2016
-Watford,https://fbref.com/en/squads/2abfe087/2015-2016/Watford-Stats,2015-2016
-West Brom,https://fbref.com/en/squads/60c6b05f/2015-2016/West-Bromwich-Albion-Stats,2015-2016
-West Ham,https://fbref.com/en/squads/7c21e445/2015-2016/West-Ham-United-Stats,2015-2016
-Arsenal,https://fbref.com/en/squads/18bb7c10/2016-2017/Arsenal-Stats,2016-2017
-Bournemouth,https://fbref.com/en/squads/4ba7cbea/2016-2017/Bournemouth-Stats,2016-2017
-Burnley,https://fbref.com/en/squads/943e8050/2016-2017/Burnley-Stats,2016-2017
-Chelsea,https://fbref.com/en/squads/cff3d9bb/2016-2017/Chelsea-Stats,2016-2017
-Crystal Palace,https://fbref.com/en/squads/47c64c55/2016-2017/Crystal-Palace-Stats,2016-2017
-Everton,https://fbref.com/en/squads/d3fd31cc/2016-2017/Everton-Stats,2016-2017
-Hull City,https://fbref.com/en/squads/bd8769d1/2016-2017/Hull-City-Stats,2016-2017
-Leicester City,https://fbref.com/en/squads/a2d435b3/2016-2017/Leicester-City-Stats,2016-2017
-Liverpool,https://fbref.com/en/squads/822bd0ba/2016-2017/Liverpool-Stats,2016-2017
-Manchester City,https://fbref.com/en/squads/b8fd03ef/2016-2017/Manchester-City-Stats,2016-2017
-Manchester Utd,https://fbref.com/en/squads/19538871/2016-2017/Manchester-United-Stats,2016-2017
-Middlesbrough,https://fbref.com/en/squads/7f59c601/2016-2017/Middlesbrough-Stats,2016-2017
-Southampton,https://fbref.com/en/squads/33c895d4/2016-2017/Southampton-Stats,2016-2017
-Stoke City,https://fbref.com/en/squads/17892952/2016-2017/Stoke-City-Stats,2016-2017
-Sunderland,https://fbref.com/en/squads/8ef52968/2016-2017/Sunderland-Stats,2016-2017
-Swansea City,https://fbref.com/en/squads/fb10988f/2016-2017/Swansea-City-Stats,2016-2017
-Tottenham,https://fbref.com/en/squads/361ca564/2016-2017/Tottenham-Hotspur-Stats,2016-2017
-Watford,https://fbref.com/en/squads/2abfe087/2016-2017/Watford-Stats,2016-2017
-West Brom,https://fbref.com/en/squads/60c6b05f/2016-2017/West-Bromwich-Albion-Stats,2016-2017
-West Ham,https://fbref.com/en/squads/7c21e445/2016-2017/West-Ham-United-Stats,2016-2017
-Arsenal,https://fbref.com/en/squads/18bb7c10/2017-2018/Arsenal-Stats,2017-2018
-Bournemouth,https://fbref.com/en/squads/4ba7cbea/2017-2018/Bournemouth-Stats,2017-2018
-Brighton,https://fbref.com/en/squads/d07537b9/2017-2018/Brighton-and-Hove-Albion-Stats,2017-2018
-Burnley,https://fbref.com/en/squads/943e8050/2017-2018/Burnley-Stats,2017-2018
-Chelsea,https://fbref.com/en/squads/cff3d9bb/2017-2018/Chelsea-Stats,2017-2018
-Crystal Palace,https://fbref.com/en/squads/47c64c55/2017-2018/Crystal-Palace-Stats,2017-2018
-Everton,https://fbref.com/en/squads/d3fd31cc/2017-2018/Everton-Stats,2017-2018
-Huddersfield,https://fbref.com/en/squads/f5922ca5/2017-2018/Huddersfield-Town-Stats,2017-2018
-Leicester City,https://fbref.com/en/squads/a2d435b3/2017-2018/Leicester-City-Stats,2017-2018
-Liverpool,https://fbref.com/en/squads/822bd0ba/2017-2018/Liverpool-Stats,2017-2018
-Manchester City,https://fbref.com/en/squads/b8fd03ef/2017-2018/Manchester-City-Stats,2017-2018
-Manchester Utd,https://fbref.com/en/squads/19538871/2017-2018/Manchester-United-Stats,2017-2018
-Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2017-2018/Newcastle-United-Stats,2017-2018
-Southampton,https://fbref.com/en/squads/33c895d4/2017-2018/Southampton-Stats,2017-2018
-Stoke City,https://fbref.com/en/squads/17892952/2017-2018/Stoke-City-Stats,2017-2018
-Swansea City,https://fbref.com/en/squads/fb10988f/2017-2018/Swansea-City-Stats,2017-2018
-Tottenham,https://fbref.com/en/squads/361ca564/2017-2018/Tottenham-Hotspur-Stats,2017-2018
-Watford,https://fbref.com/en/squads/2abfe087/2017-2018/Watford-Stats,2017-2018
-West Brom,https://fbref.com/en/squads/60c6b05f/2017-2018/West-Bromwich-Albion-Stats,2017-2018
-West Ham,https://fbref.com/en/squads/7c21e445/2017-2018/West-Ham-United-Stats,2017-2018
-Arsenal,https://fbref.com/en/squads/18bb7c10/2018-2019/Arsenal-Stats,2018-2019
-Bournemouth,https://fbref.com/en/squads/4ba7cbea/2018-2019/Bournemouth-Stats,2018-2019
-Brighton,https://fbref.com/en/squads/d07537b9/2018-2019/Brighton-and-Hove-Albion-Stats,2018-2019
-Burnley,https://fbref.com/en/squads/943e8050/2018-2019/Burnley-Stats,2018-2019
-Cardiff City,https://fbref.com/en/squads/75fae011/2018-2019/Cardiff-City-Stats,2018-2019
-Chelsea,https://fbref.com/en/squads/cff3d9bb/2018-2019/Chelsea-Stats,2018-2019
-Crystal Palace,https://fbref.com/en/squads/47c64c55/2018-2019/Crystal-Palace-Stats,2018-2019
-Everton,https://fbref.com/en/squads/d3fd31cc/2018-2019/Everton-Stats,2018-2019
-Fulham,https://fbref.com/en/squads/fd962109/2018-2019/Fulham-Stats,2018-2019
-Huddersfield,https://fbref.com/en/squads/f5922ca5/2018-2019/Huddersfield-Town-Stats,2018-2019
-Leicester City,https://fbref.com/en/squads/a2d435b3/2018-2019/Leicester-City-Stats,2018-2019
-Liverpool,https://fbref.com/en/squads/822bd0ba/2018-2019/Liverpool-Stats,2018-2019
-Manchester City,https://fbref.com/en/squads/b8fd03ef/2018-2019/Manchester-City-Stats,2018-2019
-Manchester Utd,https://fbref.com/en/squads/19538871/2018-2019/Manchester-United-Stats,2018-2019
-Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2018-2019/Newcastle-United-Stats,2018-2019
-Southampton,https://fbref.com/en/squads/33c895d4/2018-2019/Southampton-Stats,2018-2019
-Tottenham,https://fbref.com/en/squads/361ca564/2018-2019/Tottenham-Hotspur-Stats,2018-2019
-Watford,https://fbref.com/en/squads/2abfe087/2018-2019/Watford-Stats,2018-2019
-West Ham,https://fbref.com/en/squads/7c21e445/2018-2019/West-Ham-United-Stats,2018-2019
-Wolves,https://fbref.com/en/squads/8cec06e1/2018-2019/Wolverhampton-Wanderers-Stats,2018-2019
-Arsenal,https://fbref.com/en/squads/18bb7c10/2019-2020/Arsenal-Stats,2019-2020
-Aston Villa,https://fbref.com/en/squads/8602292d/2019-2020/Aston-Villa-Stats,2019-2020
-Bournemouth,https://fbref.com/en/squads/4ba7cbea/2019-2020/Bournemouth-Stats,2019-2020
-Brighton,https://fbref.com/en/squads/d07537b9/2019-2020/Brighton-and-Hove-Albion-Stats,2019-2020
-Burnley,https://fbref.com/en/squads/943e8050/2019-2020/Burnley-Stats,2019-2020
-Chelsea,https://fbref.com/en/squads/cff3d9bb/2019-2020/Chelsea-Stats,2019-2020
-Crystal Palace,https://fbref.com/en/squads/47c64c55/2019-2020/Crystal-Palace-Stats,2019-2020
-Everton,https://fbref.com/en/squads/d3fd31cc/2019-2020/Everton-Stats,2019-2020
-Leicester City,https://fbref.com/en/squads/a2d435b3/2019-2020/Leicester-City-Stats,2019-2020
-Liverpool,https://fbref.com/en/squads/822bd0ba/2019-2020/Liverpool-Stats,2019-2020
-Manchester City,https://fbref.com/en/squads/b8fd03ef/2019-2020/Manchester-City-Stats,2019-2020
-Manchester Utd,https://fbref.com/en/squads/19538871/2019-2020/Manchester-United-Stats,2019-2020
-Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2019-2020/Newcastle-United-Stats,2019-2020
-Norwich City,https://fbref.com/en/squads/1c781004/2019-2020/Norwich-City-Stats,2019-2020
-Sheffield Utd,https://fbref.com/en/squads/1df6b87e/2019-2020/Sheffield-United-Stats,2019-2020
-Southampton,https://fbref.com/en/squads/33c895d4/2019-2020/Southampton-Stats,2019-2020
-Tottenham,https://fbref.com/en/squads/361ca564/2019-2020/Tottenham-Hotspur-Stats,2019-2020
-Watford,https://fbref.com/en/squads/2abfe087/2019-2020/Watford-Stats,2019-2020
-West Ham,https://fbref.com/en/squads/7c21e445/2019-2020/West-Ham-United-Stats,2019-2020
-Wolves,https://fbref.com/en/squads/8cec06e1/2019-2020/Wolverhampton-Wanderers-Stats,2019-2020
-Arsenal,https://fbref.com/en/squads/18bb7c10/2020-2021/Arsenal-Stats,2020-2021
-Aston Villa,https://fbref.com/en/squads/8602292d/2020-2021/Aston-Villa-Stats,2020-2021
-Brighton,https://fbref.com/en/squads/d07537b9/2020-2021/Brighton-and-Hove-Albion-Stats,2020-2021
-Burnley,https://fbref.com/en/squads/943e8050/2020-2021/Burnley-Stats,2020-2021
-Chelsea,https://fbref.com/en/squads/cff3d9bb/2020-2021/Chelsea-Stats,2020-2021
-Crystal Palace,https://fbref.com/en/squads/47c64c55/2020-2021/Crystal-Palace-Stats,2020-2021
-Everton,https://fbref.com/en/squads/d3fd31cc/2020-2021/Everton-Stats,2020-2021
-Fulham,https://fbref.com/en/squads/fd962109/2020-2021/Fulham-Stats,2020-2021
-Leeds United,https://fbref.com/en/squads/5bfb9659/2020-2021/Leeds-United-Stats,2020-2021
-Leicester City,https://fbref.com/en/squads/a2d435b3/2020-2021/Leicester-City-Stats,2020-2021
-Liverpool,https://fbref.com/en/squads/822bd0ba/2020-2021/Liverpool-Stats,2020-2021
-Manchester City,https://fbref.com/en/squads/b8fd03ef/2020-2021/Manchester-City-Stats,2020-2021
-Manchester Utd,https://fbref.com/en/squads/19538871/2020-2021/Manchester-United-Stats,2020-2021
-Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2020-2021/Newcastle-United-Stats,2020-2021
-Sheffield Utd,https://fbref.com/en/squads/1df6b87e/2020-2021/Sheffield-United-Stats,2020-2021
-Southampton,https://fbref.com/en/squads/33c895d4/2020-2021/Southampton-Stats,2020-2021
-Tottenham,https://fbref.com/en/squads/361ca564/2020-2021/Tottenham-Hotspur-Stats,2020-2021
-West Brom,https://fbref.com/en/squads/60c6b05f/2020-2021/West-Bromwich-Albion-Stats,2020-2021
-West Ham,https://fbref.com/en/squads/7c21e445/2020-2021/West-Ham-United-Stats,2020-2021
-Wolves,https://fbref.com/en/squads/8cec06e1/2020-2021/Wolverhampton-Wanderers-Stats,2020-2021
-Arsenal,https://fbref.com/en/squads/18bb7c10/2021-2022/Arsenal-Stats,2021-2022
-Aston Villa,https://fbref.com/en/squads/8602292d/2021-2022/Aston-Villa-Stats,2021-2022
-Brentford,https://fbref.com/en/squads/cd051869/2021-2022/Brentford-Stats,2021-2022
-Brighton,https://fbref.com/en/squads/d07537b9/2021-2022/Brighton-and-Hove-Albion-Stats,2021-2022
-Burnley,https://fbref.com/en/squads/943e8050/2021-2022/Burnley-Stats,2021-2022
-Chelsea,https://fbref.com/en/squads/cff3d9bb/2021-2022/Chelsea-Stats,2021-2022
-Crystal Palace,https://fbref.com/en/squads/47c64c55/2021-2022/Crystal-Palace-Stats,2021-2022
-Everton,https://fbref.com/en/squads/d3fd31cc/2021-2022/Everton-Stats,2021-2022
-Leeds United,https://fbref.com/en/squads/5bfb9659/2021-2022/Leeds-United-Stats,2021-2022
-Leicester City,https://fbref.com/en/squads/a2d435b3/2021-2022/Leicester-City-Stats,2021-2022
-Liverpool,https://fbref.com/en/squads/822bd0ba/2021-2022/Liverpool-Stats,2021-2022
-Manchester City,https://fbref.com/en/squads/b8fd03ef/2021-2022/Manchester-City-Stats,2021-2022
-Manchester Utd,https://fbref.com/en/squads/19538871/2021-2022/Manchester-United-Stats,2021-2022
-Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2021-2022/Newcastle-United-Stats,2021-2022
-Norwich City,https://fbref.com/en/squads/1c781004/2021-2022/Norwich-City-Stats,2021-2022
-Southampton,https://fbref.com/en/squads/33c895d4/2021-2022/Southampton-Stats,2021-2022
-Tottenham,https://fbref.com/en/squads/361ca564/2021-2022/Tottenham-Hotspur-Stats,2021-2022
-Watford,https://fbref.com/en/squads/2abfe087/2021-2022/Watford-Stats,2021-2022
-West Ham,https://fbref.com/en/squads/7c21e445/2021-2022/West-Ham-United-Stats,2021-2022
-Wolves,https://fbref.com/en/squads/8cec06e1/2021-2022/Wolverhampton-Wanderers-Stats,2021-2022
-Arsenal,https://fbref.com/en/squads/18bb7c10/2022-2023/Arsenal-Stats,2022-2023
-Aston Villa,https://fbref.com/en/squads/8602292d/2022-2023/Aston-Villa-Stats,2022-2023
-Bournemouth,https://fbref.com/en/squads/4ba7cbea/2022-2023/Bournemouth-Stats,2022-2023
-Brentford,https://fbref.com/en/squads/cd051869/2022-2023/Brentford-Stats,2022-2023
-Brighton,https://fbref.com/en/squads/d07537b9/2022-2023/Brighton-and-Hove-Albion-Stats,2022-2023
-Chelsea,https://fbref.com/en/squads/cff3d9bb/2022-2023/Chelsea-Stats,2022-2023
-Crystal Palace,https://fbref.com/en/squads/47c64c55/2022-2023/Crystal-Palace-Stats,2022-2023
-Everton,https://fbref.com/en/squads/d3fd31cc/2022-2023/Everton-Stats,2022-2023
-Fulham,https://fbref.com/en/squads/fd962109/2022-2023/Fulham-Stats,2022-2023
-Leeds United,https://fbref.com/en/squads/5bfb9659/2022-2023/Leeds-United-Stats,2022-2023
-Leicester City,https://fbref.com/en/squads/a2d435b3/2022-2023/Leicester-City-Stats,2022-2023
-Liverpool,https://fbref.com/en/squads/822bd0ba/2022-2023/Liverpool-Stats,2022-2023
-Manchester City,https://fbref.com/en/squads/b8fd03ef/2022-2023/Manchester-City-Stats,2022-2023
-Manchester Utd,https://fbref.com/en/squads/19538871/2022-2023/Manchester-United-Stats,2022-2023
-Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2022-2023/Newcastle-United-Stats,2022-2023
-Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2022-2023/Nottingham-Forest-Stats,2022-2023
-Southampton,https://fbref.com/en/squads/33c895d4/2022-2023/Southampton-Stats,2022-2023
-Tottenham,https://fbref.com/en/squads/361ca564/2022-2023/Tottenham-Hotspur-Stats,2022-2023
-West Ham,https://fbref.com/en/squads/7c21e445/2022-2023/West-Ham-United-Stats,2022-2023
-Wolves,https://fbref.com/en/squads/8cec06e1/2022-2023/Wolverhampton-Wanderers-Stats,2022-2023
-Arsenal,https://fbref.com/en/squads/18bb7c10/2023-2024/Arsenal-Stats,2023-2024
-Aston Villa,https://fbref.com/en/squads/8602292d/2023-2024/Aston-Villa-Stats,2023-2024
-Bournemouth,https://fbref.com/en/squads/4ba7cbea/2023-2024/Bournemouth-Stats,2023-2024
-Brentford,https://fbref.com/en/squads/cd051869/2023-2024/Brentford-Stats,2023-2024
-Brighton,https://fbref.com/en/squads/d07537b9/2023-2024/Brighton-and-Hove-Albion-Stats,2023-2024
-Burnley,https://fbref.com/en/squads/943e8050/2023-2024/Burnley-Stats,2023-2024
-Chelsea,https://fbref.com/en/squads/cff3d9bb/2023-2024/Chelsea-Stats,2023-2024
-Crystal Palace,https://fbref.com/en/squads/47c64c55/2023-2024/Crystal-Palace-Stats,2023-2024
-Everton,https://fbref.com/en/squads/d3fd31cc/2023-2024/Everton-Stats,2023-2024
-Fulham,https://fbref.com/en/squads/fd962109/2023-2024/Fulham-Stats,2023-2024
-Liverpool,https://fbref.com/en/squads/822bd0ba/2023-2024/Liverpool-Stats,2023-2024
-Luton Town,https://fbref.com/en/squads/e297cd13/2023-2024/Luton-Town-Stats,2023-2024
-Manchester City,https://fbref.com/en/squads/b8fd03ef/2023-2024/Manchester-City-Stats,2023-2024
-Manchester Utd,https://fbref.com/en/squads/19538871/2023-2024/Manchester-United-Stats,2023-2024
-Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2023-2024/Newcastle-United-Stats,2023-2024
-Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2023-2024/Nottingham-Forest-Stats,2023-2024
-Sheffield Utd,https://fbref.com/en/squads/1df6b87e/2023-2024/Sheffield-United-Stats,2023-2024
-Tottenham,https://fbref.com/en/squads/361ca564/2023-2024/Tottenham-Hotspur-Stats,2023-2024
-West Ham,https://fbref.com/en/squads/7c21e445/2023-2024/West-Ham-United-Stats,2023-2024
-Wolves,https://fbref.com/en/squads/8cec06e1/2023-2024/Wolverhampton-Wanderers-Stats,2023-2024
-Arsenal,https://fbref.com/en/squads/18bb7c10/Arsenal-Stats,2024-2025
-Aston Villa,https://fbref.com/en/squads/8602292d/Aston-Villa-Stats,2024-2025
-Bournemouth,https://fbref.com/en/squads/4ba7cbea/Bournemouth-Stats,2024-2025
-Brentford,https://fbref.com/en/squads/cd051869/Brentford-Stats,2024-2025
-Brighton,https://fbref.com/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats,2024-2025
-Chelsea,https://fbref.com/en/squads/cff3d9bb/Chelsea-Stats,2024-2025
-Crystal Palace,https://fbref.com/en/squads/47c64c55/Crystal-Palace-Stats,2024-2025
-Everton,https://fbref.com/en/squads/d3fd31cc/Everton-Stats,2024-2025
-Fulham,https://fbref.com/en/squads/fd962109/Fulham-Stats,2024-2025
-Ipswich Town,https://fbref.com/en/squads/b74092de/Ipswich-Town-Stats,2024-2025
-Leicester City,https://fbref.com/en/squads/a2d435b3/Leicester-City-Stats,2024-2025
-Liverpool,https://fbref.com/en/squads/822bd0ba/Liverpool-Stats,2024-2025
-Manchester City,https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats,2024-2025
-Manchester Utd,https://fbref.com/en/squads/19538871/Manchester-United-Stats,2024-2025
-Newcastle Utd,https://fbref.com/en/squads/b2b47a98/Newcastle-United-Stats,2024-2025
-Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/Nottingham-Forest-Stats,2024-2025
-Southampton,https://fbref.com/en/squads/33c895d4/Southampton-Stats,2024-2025
-Tottenham,https://fbref.com/en/squads/361ca564/Tottenham-Hotspur-Stats,2024-2025
-West Ham,https://fbref.com/en/squads/7c21e445/West-Ham-United-Stats,2024-2025
-Wolves,https://fbref.com/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats,2024-2025
-Bayern Munich,https://fbref.com/en/squads/054efa67/2010-2011/Bayern-Munich-Stats,2010-2011
-Dortmund,https://fbref.com/en/squads/add600ae/2010-2011/Dortmund-Stats,2010-2011
-Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2010-2011/Eintracht-Frankfurt-Stats,2010-2011
-Freiburg,https://fbref.com/en/squads/a486e511/2010-2011/Freiburg-Stats,2010-2011
-Gladbach,https://fbref.com/en/squads/32f3ee20/2010-2011/Monchengladbach-Stats,2010-2011
-Hamburger SV,https://fbref.com/en/squads/26790c6a/2010-2011/Hamburger-SV-Stats,2010-2011
-Hannover 96,https://fbref.com/en/squads/60b5e41f/2010-2011/Hannover-96-Stats,2010-2011
-Hoffenheim,https://fbref.com/en/squads/033ea6b8/2010-2011/Hoffenheim-Stats,2010-2011
-Kaiserslautern,https://fbref.com/en/squads/73a27a73/2010-2011/Kaiserslautern-Stats,2010-2011
-Köln,https://fbref.com/en/squads/bc357bf7/2010-2011/Koln-Stats,2010-2011
-Leverkusen,https://fbref.com/en/squads/c7a9f859/2010-2011/Bayer-Leverkusen-Stats,2010-2011
-Mainz 05,https://fbref.com/en/squads/a224b06a/2010-2011/Mainz-05-Stats,2010-2011
-Nürnberg,https://fbref.com/en/squads/6f2c108c/2010-2011/Nurnberg-Stats,2010-2011
-Schalke 04,https://fbref.com/en/squads/c539e393/2010-2011/Schalke-04-Stats,2010-2011
-St. Pauli,https://fbref.com/en/squads/54864664/2010-2011/St-Pauli-Stats,2010-2011
-Stuttgart,https://fbref.com/en/squads/598bc722/2010-2011/Stuttgart-Stats,2010-2011
-Werder Bremen,https://fbref.com/en/squads/62add3bf/2010-2011/Werder-Bremen-Stats,2010-2011
-Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2010-2011/Wolfsburg-Stats,2010-2011
-Augsburg,https://fbref.com/en/squads/0cdc4311/2011-2012/Augsburg-Stats,2011-2012
-Bayern Munich,https://fbref.com/en/squads/054efa67/2011-2012/Bayern-Munich-Stats,2011-2012
-Dortmund,https://fbref.com/en/squads/add600ae/2011-2012/Dortmund-Stats,2011-2012
-Freiburg,https://fbref.com/en/squads/a486e511/2011-2012/Freiburg-Stats,2011-2012
-Gladbach,https://fbref.com/en/squads/32f3ee20/2011-2012/Monchengladbach-Stats,2011-2012
-Hamburger SV,https://fbref.com/en/squads/26790c6a/2011-2012/Hamburger-SV-Stats,2011-2012
-Hannover 96,https://fbref.com/en/squads/60b5e41f/2011-2012/Hannover-96-Stats,2011-2012
-Hertha BSC,https://fbref.com/en/squads/2818f8bc/2011-2012/Hertha-BSC-Stats,2011-2012
-Hoffenheim,https://fbref.com/en/squads/033ea6b8/2011-2012/Hoffenheim-Stats,2011-2012
-Kaiserslautern,https://fbref.com/en/squads/73a27a73/2011-2012/Kaiserslautern-Stats,2011-2012
-Köln,https://fbref.com/en/squads/bc357bf7/2011-2012/Koln-Stats,2011-2012
-Leverkusen,https://fbref.com/en/squads/c7a9f859/2011-2012/Bayer-Leverkusen-Stats,2011-2012
-Mainz 05,https://fbref.com/en/squads/a224b06a/2011-2012/Mainz-05-Stats,2011-2012
-Nürnberg,https://fbref.com/en/squads/6f2c108c/2011-2012/Nurnberg-Stats,2011-2012
-Schalke 04,https://fbref.com/en/squads/c539e393/2011-2012/Schalke-04-Stats,2011-2012
-Stuttgart,https://fbref.com/en/squads/598bc722/2011-2012/Stuttgart-Stats,2011-2012
-Werder Bremen,https://fbref.com/en/squads/62add3bf/2011-2012/Werder-Bremen-Stats,2011-2012
-Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2011-2012/Wolfsburg-Stats,2011-2012
-Augsburg,https://fbref.com/en/squads/0cdc4311/2012-2013/Augsburg-Stats,2012-2013
-Bayern Munich,https://fbref.com/en/squads/054efa67/2012-2013/Bayern-Munich-Stats,2012-2013
-Dortmund,https://fbref.com/en/squads/add600ae/2012-2013/Dortmund-Stats,2012-2013
-Düsseldorf,https://fbref.com/en/squads/b1278397/2012-2013/Dusseldorf-Stats,2012-2013
-Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2012-2013/Eintracht-Frankfurt-Stats,2012-2013
-Freiburg,https://fbref.com/en/squads/a486e511/2012-2013/Freiburg-Stats,2012-2013
-Gladbach,https://fbref.com/en/squads/32f3ee20/2012-2013/Monchengladbach-Stats,2012-2013
-Greuther Fürth,https://fbref.com/en/squads/12192a4c/2012-2013/Greuther-Furth-Stats,2012-2013
-Hamburger SV,https://fbref.com/en/squads/26790c6a/2012-2013/Hamburger-SV-Stats,2012-2013
-Hannover 96,https://fbref.com/en/squads/60b5e41f/2012-2013/Hannover-96-Stats,2012-2013
-Hoffenheim,https://fbref.com/en/squads/033ea6b8/2012-2013/Hoffenheim-Stats,2012-2013
-Leverkusen,https://fbref.com/en/squads/c7a9f859/2012-2013/Bayer-Leverkusen-Stats,2012-2013
-Mainz 05,https://fbref.com/en/squads/a224b06a/2012-2013/Mainz-05-Stats,2012-2013
-Nürnberg,https://fbref.com/en/squads/6f2c108c/2012-2013/Nurnberg-Stats,2012-2013
-Schalke 04,https://fbref.com/en/squads/c539e393/2012-2013/Schalke-04-Stats,2012-2013
-Stuttgart,https://fbref.com/en/squads/598bc722/2012-2013/Stuttgart-Stats,2012-2013
-Werder Bremen,https://fbref.com/en/squads/62add3bf/2012-2013/Werder-Bremen-Stats,2012-2013
-Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2012-2013/Wolfsburg-Stats,2012-2013
-Augsburg,https://fbref.com/en/squads/0cdc4311/2013-2014/Augsburg-Stats,2013-2014
-Bayern Munich,https://fbref.com/en/squads/054efa67/2013-2014/Bayern-Munich-Stats,2013-2014
-Braunschweig,https://fbref.com/en/squads/8107958d/2013-2014/Eintracht-Braunschweig-Stats,2013-2014
-Dortmund,https://fbref.com/en/squads/add600ae/2013-2014/Dortmund-Stats,2013-2014
-Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2013-2014/Eintracht-Frankfurt-Stats,2013-2014
-Freiburg,https://fbref.com/en/squads/a486e511/2013-2014/Freiburg-Stats,2013-2014
-Gladbach,https://fbref.com/en/squads/32f3ee20/2013-2014/Monchengladbach-Stats,2013-2014
-Hamburger SV,https://fbref.com/en/squads/26790c6a/2013-2014/Hamburger-SV-Stats,2013-2014
-Hannover 96,https://fbref.com/en/squads/60b5e41f/2013-2014/Hannover-96-Stats,2013-2014
-Hertha BSC,https://fbref.com/en/squads/2818f8bc/2013-2014/Hertha-BSC-Stats,2013-2014
-Hoffenheim,https://fbref.com/en/squads/033ea6b8/2013-2014/Hoffenheim-Stats,2013-2014
-Leverkusen,https://fbref.com/en/squads/c7a9f859/2013-2014/Bayer-Leverkusen-Stats,2013-2014
-Mainz 05,https://fbref.com/en/squads/a224b06a/2013-2014/Mainz-05-Stats,2013-2014
-Nürnberg,https://fbref.com/en/squads/6f2c108c/2013-2014/Nurnberg-Stats,2013-2014
-Schalke 04,https://fbref.com/en/squads/c539e393/2013-2014/Schalke-04-Stats,2013-2014
-Stuttgart,https://fbref.com/en/squads/598bc722/2013-2014/Stuttgart-Stats,2013-2014
-Werder Bremen,https://fbref.com/en/squads/62add3bf/2013-2014/Werder-Bremen-Stats,2013-2014
-Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2013-2014/Wolfsburg-Stats,2013-2014
-Augsburg,https://fbref.com/en/squads/0cdc4311/2014-2015/Augsburg-Stats,2014-2015
-Bayern Munich,https://fbref.com/en/squads/054efa67/2014-2015/Bayern-Munich-Stats,2014-2015
-Dortmund,https://fbref.com/en/squads/add600ae/2014-2015/Dortmund-Stats,2014-2015
-Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2014-2015/Eintracht-Frankfurt-Stats,2014-2015
-Freiburg,https://fbref.com/en/squads/a486e511/2014-2015/Freiburg-Stats,2014-2015
-Gladbach,https://fbref.com/en/squads/32f3ee20/2014-2015/Monchengladbach-Stats,2014-2015
-Hamburger SV,https://fbref.com/en/squads/26790c6a/2014-2015/Hamburger-SV-Stats,2014-2015
-Hannover 96,https://fbref.com/en/squads/60b5e41f/2014-2015/Hannover-96-Stats,2014-2015
-Hertha BSC,https://fbref.com/en/squads/2818f8bc/2014-2015/Hertha-BSC-Stats,2014-2015
-Hoffenheim,https://fbref.com/en/squads/033ea6b8/2014-2015/Hoffenheim-Stats,2014-2015
-Köln,https://fbref.com/en/squads/bc357bf7/2014-2015/Koln-Stats,2014-2015
-Leverkusen,https://fbref.com/en/squads/c7a9f859/2014-2015/Bayer-Leverkusen-Stats,2014-2015
-Mainz 05,https://fbref.com/en/squads/a224b06a/2014-2015/Mainz-05-Stats,2014-2015
-Paderborn 07,https://fbref.com/en/squads/d9f93f02/2014-2015/Paderborn-07-Stats,2014-2015
-Schalke 04,https://fbref.com/en/squads/c539e393/2014-2015/Schalke-04-Stats,2014-2015
-Stuttgart,https://fbref.com/en/squads/598bc722/2014-2015/Stuttgart-Stats,2014-2015
-Werder Bremen,https://fbref.com/en/squads/62add3bf/2014-2015/Werder-Bremen-Stats,2014-2015
-Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2014-2015/Wolfsburg-Stats,2014-2015
-Augsburg,https://fbref.com/en/squads/0cdc4311/2015-2016/Augsburg-Stats,2015-2016
-Bayern Munich,https://fbref.com/en/squads/054efa67/2015-2016/Bayern-Munich-Stats,2015-2016
-Darmstadt 98,https://fbref.com/en/squads/6a6967fc/2015-2016/Darmstadt-98-Stats,2015-2016
-Dortmund,https://fbref.com/en/squads/add600ae/2015-2016/Dortmund-Stats,2015-2016
-Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2015-2016/Eintracht-Frankfurt-Stats,2015-2016
-Gladbach,https://fbref.com/en/squads/32f3ee20/2015-2016/Monchengladbach-Stats,2015-2016
-Hamburger SV,https://fbref.com/en/squads/26790c6a/2015-2016/Hamburger-SV-Stats,2015-2016
-Hannover 96,https://fbref.com/en/squads/60b5e41f/2015-2016/Hannover-96-Stats,2015-2016
-Hertha BSC,https://fbref.com/en/squads/2818f8bc/2015-2016/Hertha-BSC-Stats,2015-2016
-Hoffenheim,https://fbref.com/en/squads/033ea6b8/2015-2016/Hoffenheim-Stats,2015-2016
-Ingolstadt 04,https://fbref.com/en/squads/12eb2039/2015-2016/Ingolstadt-04-Stats,2015-2016
-Köln,https://fbref.com/en/squads/bc357bf7/2015-2016/Koln-Stats,2015-2016
-Leverkusen,https://fbref.com/en/squads/c7a9f859/2015-2016/Bayer-Leverkusen-Stats,2015-2016
-Mainz 05,https://fbref.com/en/squads/a224b06a/2015-2016/Mainz-05-Stats,2015-2016
-Schalke 04,https://fbref.com/en/squads/c539e393/2015-2016/Schalke-04-Stats,2015-2016
-Stuttgart,https://fbref.com/en/squads/598bc722/2015-2016/Stuttgart-Stats,2015-2016
-Werder Bremen,https://fbref.com/en/squads/62add3bf/2015-2016/Werder-Bremen-Stats,2015-2016
-Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2015-2016/Wolfsburg-Stats,2015-2016
-Augsburg,https://fbref.com/en/squads/0cdc4311/2016-2017/Augsburg-Stats,2016-2017
-Bayern Munich,https://fbref.com/en/squads/054efa67/2016-2017/Bayern-Munich-Stats,2016-2017
-Darmstadt 98,https://fbref.com/en/squads/6a6967fc/2016-2017/Darmstadt-98-Stats,2016-2017
-Dortmund,https://fbref.com/en/squads/add600ae/2016-2017/Dortmund-Stats,2016-2017
-Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2016-2017/Eintracht-Frankfurt-Stats,2016-2017
-Freiburg,https://fbref.com/en/squads/a486e511/2016-2017/Freiburg-Stats,2016-2017
-Gladbach,https://fbref.com/en/squads/32f3ee20/2016-2017/Monchengladbach-Stats,2016-2017
-Hamburger SV,https://fbref.com/en/squads/26790c6a/2016-2017/Hamburger-SV-Stats,2016-2017
-Hertha BSC,https://fbref.com/en/squads/2818f8bc/2016-2017/Hertha-BSC-Stats,2016-2017
-Hoffenheim,https://fbref.com/en/squads/033ea6b8/2016-2017/Hoffenheim-Stats,2016-2017
-Ingolstadt 04,https://fbref.com/en/squads/12eb2039/2016-2017/Ingolstadt-04-Stats,2016-2017
-Köln,https://fbref.com/en/squads/bc357bf7/2016-2017/Koln-Stats,2016-2017
-Leverkusen,https://fbref.com/en/squads/c7a9f859/2016-2017/Bayer-Leverkusen-Stats,2016-2017
-Mainz 05,https://fbref.com/en/squads/a224b06a/2016-2017/Mainz-05-Stats,2016-2017
-RB Leipzig,https://fbref.com/en/squads/acbb6a5b/2016-2017/RB-Leipzig-Stats,2016-2017
-Schalke 04,https://fbref.com/en/squads/c539e393/2016-2017/Schalke-04-Stats,2016-2017
-Werder Bremen,https://fbref.com/en/squads/62add3bf/2016-2017/Werder-Bremen-Stats,2016-2017
-Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2016-2017/Wolfsburg-Stats,2016-2017
-Augsburg,https://fbref.com/en/squads/0cdc4311/2017-2018/Augsburg-Stats,2017-2018
-Bayern Munich,https://fbref.com/en/squads/054efa67/2017-2018/Bayern-Munich-Stats,2017-2018
-Dortmund,https://fbref.com/en/squads/add600ae/2017-2018/Dortmund-Stats,2017-2018
-Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2017-2018/Eintracht-Frankfurt-Stats,2017-2018
-Freiburg,https://fbref.com/en/squads/a486e511/2017-2018/Freiburg-Stats,2017-2018
-Gladbach,https://fbref.com/en/squads/32f3ee20/2017-2018/Monchengladbach-Stats,2017-2018
-Hamburger SV,https://fbref.com/en/squads/26790c6a/2017-2018/Hamburger-SV-Stats,2017-2018
-Hannover 96,https://fbref.com/en/squads/60b5e41f/2017-2018/Hannover-96-Stats,2017-2018
-Hertha BSC,https://fbref.com/en/squads/2818f8bc/2017-2018/Hertha-BSC-Stats,2017-2018
-Hoffenheim,https://fbref.com/en/squads/033ea6b8/2017-2018/Hoffenheim-Stats,2017-2018
-Köln,https://fbref.com/en/squads/bc357bf7/2017-2018/Koln-Stats,2017-2018
-Leverkusen,https://fbref.com/en/squads/c7a9f859/2017-2018/Bayer-Leverkusen-Stats,2017-2018
-Mainz 05,https://fbref.com/en/squads/a224b06a/2017-2018/Mainz-05-Stats,2017-2018
-RB Leipzig,https://fbref.com/en/squads/acbb6a5b/2017-2018/RB-Leipzig-Stats,2017-2018
-Schalke 04,https://fbref.com/en/squads/c539e393/2017-2018/Schalke-04-Stats,2017-2018
-Stuttgart,https://fbref.com/en/squads/598bc722/2017-2018/Stuttgart-Stats,2017-2018
-Werder Bremen,https://fbref.com/en/squads/62add3bf/2017-2018/Werder-Bremen-Stats,2017-2018
-Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2017-2018/Wolfsburg-Stats,2017-2018
-Augsburg,https://fbref.com/en/squads/0cdc4311/2018-2019/Augsburg-Stats,2018-2019
-Bayern Munich,https://fbref.com/en/squads/054efa67/2018-2019/Bayern-Munich-Stats,2018-2019
-Dortmund,https://fbref.com/en/squads/add600ae/2018-2019/Dortmund-Stats,2018-2019
-Düsseldorf,https://fbref.com/en/squads/b1278397/2018-2019/Dusseldorf-Stats,2018-2019
-Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2018-2019/Eintracht-Frankfurt-Stats,2018-2019
-Freiburg,https://fbref.com/en/squads/a486e511/2018-2019/Freiburg-Stats,2018-2019
-Gladbach,https://fbref.com/en/squads/32f3ee20/2018-2019/Monchengladbach-Stats,2018-2019
-Hannover 96,https://fbref.com/en/squads/60b5e41f/2018-2019/Hannover-96-Stats,2018-2019
-Hertha BSC,https://fbref.com/en/squads/2818f8bc/2018-2019/Hertha-BSC-Stats,2018-2019
-Hoffenheim,https://fbref.com/en/squads/033ea6b8/2018-2019/Hoffenheim-Stats,2018-2019
-Leverkusen,https://fbref.com/en/squads/c7a9f859/2018-2019/Bayer-Leverkusen-Stats,2018-2019
-Mainz 05,https://fbref.com/en/squads/a224b06a/2018-2019/Mainz-05-Stats,2018-2019
-Nürnberg,https://fbref.com/en/squads/6f2c108c/2018-2019/Nurnberg-Stats,2018-2019
-RB Leipzig,https://fbref.com/en/squads/acbb6a5b/2018-2019/RB-Leipzig-Stats,2018-2019
-Schalke 04,https://fbref.com/en/squads/c539e393/2018-2019/Schalke-04-Stats,2018-2019
-Stuttgart,https://fbref.com/en/squads/598bc722/2018-2019/Stuttgart-Stats,2018-2019
-Werder Bremen,https://fbref.com/en/squads/62add3bf/2018-2019/Werder-Bremen-Stats,2018-2019
-Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2018-2019/Wolfsburg-Stats,2018-2019
-Augsburg,https://fbref.com/en/squads/0cdc4311/2019-2020/Augsburg-Stats,2019-2020
-Bayern Munich,https://fbref.com/en/squads/054efa67/2019-2020/Bayern-Munich-Stats,2019-2020
-Dortmund,https://fbref.com/en/squads/add600ae/2019-2020/Dortmund-Stats,2019-2020
-Düsseldorf,https://fbref.com/en/squads/b1278397/2019-2020/Dusseldorf-Stats,2019-2020
-Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2019-2020/Eintracht-Frankfurt-Stats,2019-2020
-Freiburg,https://fbref.com/en/squads/a486e511/2019-2020/Freiburg-Stats,2019-2020
-Gladbach,https://fbref.com/en/squads/32f3ee20/2019-2020/Monchengladbach-Stats,2019-2020
-Hertha BSC,https://fbref.com/en/squads/2818f8bc/2019-2020/Hertha-BSC-Stats,2019-2020
-Hoffenheim,https://fbref.com/en/squads/033ea6b8/2019-2020/Hoffenheim-Stats,2019-2020
-Köln,https://fbref.com/en/squads/bc357bf7/2019-2020/Koln-Stats,2019-2020
-Leverkusen,https://fbref.com/en/squads/c7a9f859/2019-2020/Bayer-Leverkusen-Stats,2019-2020
-Mainz 05,https://fbref.com/en/squads/a224b06a/2019-2020/Mainz-05-Stats,2019-2020
-Paderborn 07,https://fbref.com/en/squads/d9f93f02/2019-2020/Paderborn-07-Stats,2019-2020
-RB Leipzig,https://fbref.com/en/squads/acbb6a5b/2019-2020/RB-Leipzig-Stats,2019-2020
-Schalke 04,https://fbref.com/en/squads/c539e393/2019-2020/Schalke-04-Stats,2019-2020
-Union Berlin,https://fbref.com/en/squads/7a41008f/2019-2020/Union-Berlin-Stats,2019-2020
-Werder Bremen,https://fbref.com/en/squads/62add3bf/2019-2020/Werder-Bremen-Stats,2019-2020
-Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2019-2020/Wolfsburg-Stats,2019-2020
-Arminia,https://fbref.com/en/squads/247c4b67/2020-2021/Arminia-Stats,2020-2021
-Augsburg,https://fbref.com/en/squads/0cdc4311/2020-2021/Augsburg-Stats,2020-2021
-Bayern Munich,https://fbref.com/en/squads/054efa67/2020-2021/Bayern-Munich-Stats,2020-2021
-Dortmund,https://fbref.com/en/squads/add600ae/2020-2021/Dortmund-Stats,2020-2021
-Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2020-2021/Eintracht-Frankfurt-Stats,2020-2021
-Freiburg,https://fbref.com/en/squads/a486e511/2020-2021/Freiburg-Stats,2020-2021
-Gladbach,https://fbref.com/en/squads/32f3ee20/2020-2021/Monchengladbach-Stats,2020-2021
-Hertha BSC,https://fbref.com/en/squads/2818f8bc/2020-2021/Hertha-BSC-Stats,2020-2021
-Hoffenheim,https://fbref.com/en/squads/033ea6b8/2020-2021/Hoffenheim-Stats,2020-2021
-Köln,https://fbref.com/en/squads/bc357bf7/2020-2021/Koln-Stats,2020-2021
-Leverkusen,https://fbref.com/en/squads/c7a9f859/2020-2021/Bayer-Leverkusen-Stats,2020-2021
-Mainz 05,https://fbref.com/en/squads/a224b06a/2020-2021/Mainz-05-Stats,2020-2021
-RB Leipzig,https://fbref.com/en/squads/acbb6a5b/2020-2021/RB-Leipzig-Stats,2020-2021
-Schalke 04,https://fbref.com/en/squads/c539e393/2020-2021/Schalke-04-Stats,2020-2021
-Stuttgart,https://fbref.com/en/squads/598bc722/2020-2021/Stuttgart-Stats,2020-2021
-Union Berlin,https://fbref.com/en/squads/7a41008f/2020-2021/Union-Berlin-Stats,2020-2021
-Werder Bremen,https://fbref.com/en/squads/62add3bf/2020-2021/Werder-Bremen-Stats,2020-2021
-Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2020-2021/Wolfsburg-Stats,2020-2021
-Arminia,https://fbref.com/en/squads/247c4b67/2021-2022/Arminia-Stats,2021-2022
-Augsburg,https://fbref.com/en/squads/0cdc4311/2021-2022/Augsburg-Stats,2021-2022
-Bayern Munich,https://fbref.com/en/squads/054efa67/2021-2022/Bayern-Munich-Stats,2021-2022
-Bochum,https://fbref.com/en/squads/b42c6323/2021-2022/Bochum-Stats,2021-2022
-Dortmund,https://fbref.com/en/squads/add600ae/2021-2022/Dortmund-Stats,2021-2022
-Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2021-2022/Eintracht-Frankfurt-Stats,2021-2022
-Freiburg,https://fbref.com/en/squads/a486e511/2021-2022/Freiburg-Stats,2021-2022
-Gladbach,https://fbref.com/en/squads/32f3ee20/2021-2022/Monchengladbach-Stats,2021-2022
-Greuther Fürth,https://fbref.com/en/squads/12192a4c/2021-2022/Greuther-Furth-Stats,2021-2022
-Hertha BSC,https://fbref.com/en/squads/2818f8bc/2021-2022/Hertha-BSC-Stats,2021-2022
-Hoffenheim,https://fbref.com/en/squads/033ea6b8/2021-2022/Hoffenheim-Stats,2021-2022
-Köln,https://fbref.com/en/squads/bc357bf7/2021-2022/Koln-Stats,2021-2022
-Leverkusen,https://fbref.com/en/squads/c7a9f859/2021-2022/Bayer-Leverkusen-Stats,2021-2022
-Mainz 05,https://fbref.com/en/squads/a224b06a/2021-2022/Mainz-05-Stats,2021-2022
-RB Leipzig,https://fbref.com/en/squads/acbb6a5b/2021-2022/RB-Leipzig-Stats,2021-2022
-Stuttgart,https://fbref.com/en/squads/598bc722/2021-2022/Stuttgart-Stats,2021-2022
-Union Berlin,https://fbref.com/en/squads/7a41008f/2021-2022/Union-Berlin-Stats,2021-2022
-Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2021-2022/Wolfsburg-Stats,2021-2022
-Augsburg,https://fbref.com/en/squads/0cdc4311/2022-2023/Augsburg-Stats,2022-2023
-Bayern Munich,https://fbref.com/en/squads/054efa67/2022-2023/Bayern-Munich-Stats,2022-2023
-Bochum,https://fbref.com/en/squads/b42c6323/2022-2023/Bochum-Stats,2022-2023
-Dortmund,https://fbref.com/en/squads/add600ae/2022-2023/Dortmund-Stats,2022-2023
-Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2022-2023/Eintracht-Frankfurt-Stats,2022-2023
-Freiburg,https://fbref.com/en/squads/a486e511/2022-2023/Freiburg-Stats,2022-2023
-Gladbach,https://fbref.com/en/squads/32f3ee20/2022-2023/Monchengladbach-Stats,2022-2023
-Hertha BSC,https://fbref.com/en/squads/2818f8bc/2022-2023/Hertha-BSC-Stats,2022-2023
-Hoffenheim,https://fbref.com/en/squads/033ea6b8/2022-2023/Hoffenheim-Stats,2022-2023
-Köln,https://fbref.com/en/squads/bc357bf7/2022-2023/Koln-Stats,2022-2023
-Leverkusen,https://fbref.com/en/squads/c7a9f859/2022-2023/Bayer-Leverkusen-Stats,2022-2023
-Mainz 05,https://fbref.com/en/squads/a224b06a/2022-2023/Mainz-05-Stats,2022-2023
-RB Leipzig,https://fbref.com/en/squads/acbb6a5b/2022-2023/RB-Leipzig-Stats,2022-2023
-Schalke 04,https://fbref.com/en/squads/c539e393/2022-2023/Schalke-04-Stats,2022-2023
-Stuttgart,https://fbref.com/en/squads/598bc722/2022-2023/Stuttgart-Stats,2022-2023
-Union Berlin,https://fbref.com/en/squads/7a41008f/2022-2023/Union-Berlin-Stats,2022-2023
-Werder Bremen,https://fbref.com/en/squads/62add3bf/2022-2023/Werder-Bremen-Stats,2022-2023
-Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2022-2023/Wolfsburg-Stats,2022-2023
+club_name,club_link
+Arsenal,https://fbref.com/en/squads/18bb7c10/2010-2011/Arsenal-Stats
+Aston Villa,https://fbref.com/en/squads/8602292d/2010-2011/Aston-Villa-Stats
+Birmingham City,https://fbref.com/en/squads/ec79b7c2/2010-2011/Birmingham-City-Stats
+Blackburn,https://fbref.com/en/squads/e090f40b/2010-2011/Blackburn-Rovers-Stats
+Blackpool,https://fbref.com/en/squads/7cbf5cb4/2010-2011/Blackpool-Stats
+Bolton,https://fbref.com/en/squads/445d3104/2010-2011/Bolton-Wanderers-Stats
+Chelsea,https://fbref.com/en/squads/cff3d9bb/2010-2011/Chelsea-Stats
+Everton,https://fbref.com/en/squads/d3fd31cc/2010-2011/Everton-Stats
+Fulham,https://fbref.com/en/squads/fd962109/2010-2011/Fulham-Stats
+Liverpool,https://fbref.com/en/squads/822bd0ba/2010-2011/Liverpool-Stats
+Manchester City,https://fbref.com/en/squads/b8fd03ef/2010-2011/Manchester-City-Stats
+Manchester Utd,https://fbref.com/en/squads/19538871/2010-2011/Manchester-United-Stats
+Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2010-2011/Newcastle-United-Stats
+Stoke City,https://fbref.com/en/squads/17892952/2010-2011/Stoke-City-Stats
+Sunderland,https://fbref.com/en/squads/8ef52968/2010-2011/Sunderland-Stats
+Tottenham,https://fbref.com/en/squads/361ca564/2010-2011/Tottenham-Hotspur-Stats
+West Brom,https://fbref.com/en/squads/60c6b05f/2010-2011/West-Bromwich-Albion-Stats
+West Ham,https://fbref.com/en/squads/7c21e445/2010-2011/West-Ham-United-Stats
+Wigan Athletic,https://fbref.com/en/squads/e59ddc76/2010-2011/Wigan-Athletic-Stats
+Wolves,https://fbref.com/en/squads/8cec06e1/2010-2011/Wolverhampton-Wanderers-Stats
+Arsenal,https://fbref.com/en/squads/18bb7c10/2011-2012/Arsenal-Stats
+Aston Villa,https://fbref.com/en/squads/8602292d/2011-2012/Aston-Villa-Stats
+Blackburn,https://fbref.com/en/squads/e090f40b/2011-2012/Blackburn-Rovers-Stats
+Bolton,https://fbref.com/en/squads/445d3104/2011-2012/Bolton-Wanderers-Stats
+Chelsea,https://fbref.com/en/squads/cff3d9bb/2011-2012/Chelsea-Stats
+Everton,https://fbref.com/en/squads/d3fd31cc/2011-2012/Everton-Stats
+Fulham,https://fbref.com/en/squads/fd962109/2011-2012/Fulham-Stats
+Liverpool,https://fbref.com/en/squads/822bd0ba/2011-2012/Liverpool-Stats
+Manchester City,https://fbref.com/en/squads/b8fd03ef/2011-2012/Manchester-City-Stats
+Manchester Utd,https://fbref.com/en/squads/19538871/2011-2012/Manchester-United-Stats
+Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2011-2012/Newcastle-United-Stats
+Norwich City,https://fbref.com/en/squads/1c781004/2011-2012/Norwich-City-Stats
+QPR,https://fbref.com/en/squads/a757999c/2011-2012/Queens-Park-Rangers-Stats
+Stoke City,https://fbref.com/en/squads/17892952/2011-2012/Stoke-City-Stats
+Sunderland,https://fbref.com/en/squads/8ef52968/2011-2012/Sunderland-Stats
+Swansea City,https://fbref.com/en/squads/fb10988f/2011-2012/Swansea-City-Stats
+Tottenham,https://fbref.com/en/squads/361ca564/2011-2012/Tottenham-Hotspur-Stats
+West Brom,https://fbref.com/en/squads/60c6b05f/2011-2012/West-Bromwich-Albion-Stats
+Wigan Athletic,https://fbref.com/en/squads/e59ddc76/2011-2012/Wigan-Athletic-Stats
+Wolves,https://fbref.com/en/squads/8cec06e1/2011-2012/Wolverhampton-Wanderers-Stats
+Arsenal,https://fbref.com/en/squads/18bb7c10/2012-2013/Arsenal-Stats
+Aston Villa,https://fbref.com/en/squads/8602292d/2012-2013/Aston-Villa-Stats
+Chelsea,https://fbref.com/en/squads/cff3d9bb/2012-2013/Chelsea-Stats
+Everton,https://fbref.com/en/squads/d3fd31cc/2012-2013/Everton-Stats
+Fulham,https://fbref.com/en/squads/fd962109/2012-2013/Fulham-Stats
+Liverpool,https://fbref.com/en/squads/822bd0ba/2012-2013/Liverpool-Stats
+Manchester City,https://fbref.com/en/squads/b8fd03ef/2012-2013/Manchester-City-Stats
+Manchester Utd,https://fbref.com/en/squads/19538871/2012-2013/Manchester-United-Stats
+Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2012-2013/Newcastle-United-Stats
+Norwich City,https://fbref.com/en/squads/1c781004/2012-2013/Norwich-City-Stats
+QPR,https://fbref.com/en/squads/a757999c/2012-2013/Queens-Park-Rangers-Stats
+Reading,https://fbref.com/en/squads/b0ac61ff/2012-2013/Reading-Stats
+Southampton,https://fbref.com/en/squads/33c895d4/2012-2013/Southampton-Stats
+Stoke City,https://fbref.com/en/squads/17892952/2012-2013/Stoke-City-Stats
+Sunderland,https://fbref.com/en/squads/8ef52968/2012-2013/Sunderland-Stats
+Swansea City,https://fbref.com/en/squads/fb10988f/2012-2013/Swansea-City-Stats
+Tottenham,https://fbref.com/en/squads/361ca564/2012-2013/Tottenham-Hotspur-Stats
+West Brom,https://fbref.com/en/squads/60c6b05f/2012-2013/West-Bromwich-Albion-Stats
+West Ham,https://fbref.com/en/squads/7c21e445/2012-2013/West-Ham-United-Stats
+Wigan Athletic,https://fbref.com/en/squads/e59ddc76/2012-2013/Wigan-Athletic-Stats
+Arsenal,https://fbref.com/en/squads/18bb7c10/2013-2014/Arsenal-Stats
+Aston Villa,https://fbref.com/en/squads/8602292d/2013-2014/Aston-Villa-Stats
+Cardiff City,https://fbref.com/en/squads/75fae011/2013-2014/Cardiff-City-Stats
+Chelsea,https://fbref.com/en/squads/cff3d9bb/2013-2014/Chelsea-Stats
+Crystal Palace,https://fbref.com/en/squads/47c64c55/2013-2014/Crystal-Palace-Stats
+Everton,https://fbref.com/en/squads/d3fd31cc/2013-2014/Everton-Stats
+Fulham,https://fbref.com/en/squads/fd962109/2013-2014/Fulham-Stats
+Hull City,https://fbref.com/en/squads/bd8769d1/2013-2014/Hull-City-Stats
+Liverpool,https://fbref.com/en/squads/822bd0ba/2013-2014/Liverpool-Stats
+Manchester City,https://fbref.com/en/squads/b8fd03ef/2013-2014/Manchester-City-Stats
+Manchester Utd,https://fbref.com/en/squads/19538871/2013-2014/Manchester-United-Stats
+Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2013-2014/Newcastle-United-Stats
+Norwich City,https://fbref.com/en/squads/1c781004/2013-2014/Norwich-City-Stats
+Southampton,https://fbref.com/en/squads/33c895d4/2013-2014/Southampton-Stats
+Stoke City,https://fbref.com/en/squads/17892952/2013-2014/Stoke-City-Stats
+Sunderland,https://fbref.com/en/squads/8ef52968/2013-2014/Sunderland-Stats
+Swansea City,https://fbref.com/en/squads/fb10988f/2013-2014/Swansea-City-Stats
+Tottenham,https://fbref.com/en/squads/361ca564/2013-2014/Tottenham-Hotspur-Stats
+West Brom,https://fbref.com/en/squads/60c6b05f/2013-2014/West-Bromwich-Albion-Stats
+West Ham,https://fbref.com/en/squads/7c21e445/2013-2014/West-Ham-United-Stats
+Arsenal,https://fbref.com/en/squads/18bb7c10/2014-2015/Arsenal-Stats
+Aston Villa,https://fbref.com/en/squads/8602292d/2014-2015/Aston-Villa-Stats
+Burnley,https://fbref.com/en/squads/943e8050/2014-2015/Burnley-Stats
+Chelsea,https://fbref.com/en/squads/cff3d9bb/2014-2015/Chelsea-Stats
+Crystal Palace,https://fbref.com/en/squads/47c64c55/2014-2015/Crystal-Palace-Stats
+Everton,https://fbref.com/en/squads/d3fd31cc/2014-2015/Everton-Stats
+Hull City,https://fbref.com/en/squads/bd8769d1/2014-2015/Hull-City-Stats
+Leicester City,https://fbref.com/en/squads/a2d435b3/2014-2015/Leicester-City-Stats
+Liverpool,https://fbref.com/en/squads/822bd0ba/2014-2015/Liverpool-Stats
+Manchester City,https://fbref.com/en/squads/b8fd03ef/2014-2015/Manchester-City-Stats
+Manchester Utd,https://fbref.com/en/squads/19538871/2014-2015/Manchester-United-Stats
+Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2014-2015/Newcastle-United-Stats
+QPR,https://fbref.com/en/squads/a757999c/2014-2015/Queens-Park-Rangers-Stats
+Southampton,https://fbref.com/en/squads/33c895d4/2014-2015/Southampton-Stats
+Stoke City,https://fbref.com/en/squads/17892952/2014-2015/Stoke-City-Stats
+Sunderland,https://fbref.com/en/squads/8ef52968/2014-2015/Sunderland-Stats
+Swansea City,https://fbref.com/en/squads/fb10988f/2014-2015/Swansea-City-Stats
+Tottenham,https://fbref.com/en/squads/361ca564/2014-2015/Tottenham-Hotspur-Stats
+West Brom,https://fbref.com/en/squads/60c6b05f/2014-2015/West-Bromwich-Albion-Stats
+West Ham,https://fbref.com/en/squads/7c21e445/2014-2015/West-Ham-United-Stats
+Arsenal,https://fbref.com/en/squads/18bb7c10/2015-2016/Arsenal-Stats
+Aston Villa,https://fbref.com/en/squads/8602292d/2015-2016/Aston-Villa-Stats
+Bournemouth,https://fbref.com/en/squads/4ba7cbea/2015-2016/Bournemouth-Stats
+Chelsea,https://fbref.com/en/squads/cff3d9bb/2015-2016/Chelsea-Stats
+Crystal Palace,https://fbref.com/en/squads/47c64c55/2015-2016/Crystal-Palace-Stats
+Everton,https://fbref.com/en/squads/d3fd31cc/2015-2016/Everton-Stats
+Leicester City,https://fbref.com/en/squads/a2d435b3/2015-2016/Leicester-City-Stats
+Liverpool,https://fbref.com/en/squads/822bd0ba/2015-2016/Liverpool-Stats
+Manchester City,https://fbref.com/en/squads/b8fd03ef/2015-2016/Manchester-City-Stats
+Manchester Utd,https://fbref.com/en/squads/19538871/2015-2016/Manchester-United-Stats
+Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2015-2016/Newcastle-United-Stats
+Norwich City,https://fbref.com/en/squads/1c781004/2015-2016/Norwich-City-Stats
+Southampton,https://fbref.com/en/squads/33c895d4/2015-2016/Southampton-Stats
+Stoke City,https://fbref.com/en/squads/17892952/2015-2016/Stoke-City-Stats
+Sunderland,https://fbref.com/en/squads/8ef52968/2015-2016/Sunderland-Stats
+Swansea City,https://fbref.com/en/squads/fb10988f/2015-2016/Swansea-City-Stats
+Tottenham,https://fbref.com/en/squads/361ca564/2015-2016/Tottenham-Hotspur-Stats
+Watford,https://fbref.com/en/squads/2abfe087/2015-2016/Watford-Stats
+West Brom,https://fbref.com/en/squads/60c6b05f/2015-2016/West-Bromwich-Albion-Stats
+West Ham,https://fbref.com/en/squads/7c21e445/2015-2016/West-Ham-United-Stats
+Arsenal,https://fbref.com/en/squads/18bb7c10/2016-2017/Arsenal-Stats
+Bournemouth,https://fbref.com/en/squads/4ba7cbea/2016-2017/Bournemouth-Stats
+Burnley,https://fbref.com/en/squads/943e8050/2016-2017/Burnley-Stats
+Chelsea,https://fbref.com/en/squads/cff3d9bb/2016-2017/Chelsea-Stats
+Crystal Palace,https://fbref.com/en/squads/47c64c55/2016-2017/Crystal-Palace-Stats
+Everton,https://fbref.com/en/squads/d3fd31cc/2016-2017/Everton-Stats
+Hull City,https://fbref.com/en/squads/bd8769d1/2016-2017/Hull-City-Stats
+Leicester City,https://fbref.com/en/squads/a2d435b3/2016-2017/Leicester-City-Stats
+Liverpool,https://fbref.com/en/squads/822bd0ba/2016-2017/Liverpool-Stats
+Manchester City,https://fbref.com/en/squads/b8fd03ef/2016-2017/Manchester-City-Stats
+Manchester Utd,https://fbref.com/en/squads/19538871/2016-2017/Manchester-United-Stats
+Middlesbrough,https://fbref.com/en/squads/7f59c601/2016-2017/Middlesbrough-Stats
+Southampton,https://fbref.com/en/squads/33c895d4/2016-2017/Southampton-Stats
+Stoke City,https://fbref.com/en/squads/17892952/2016-2017/Stoke-City-Stats
+Sunderland,https://fbref.com/en/squads/8ef52968/2016-2017/Sunderland-Stats
+Swansea City,https://fbref.com/en/squads/fb10988f/2016-2017/Swansea-City-Stats
+Tottenham,https://fbref.com/en/squads/361ca564/2016-2017/Tottenham-Hotspur-Stats
+Watford,https://fbref.com/en/squads/2abfe087/2016-2017/Watford-Stats
+West Brom,https://fbref.com/en/squads/60c6b05f/2016-2017/West-Bromwich-Albion-Stats
+West Ham,https://fbref.com/en/squads/7c21e445/2016-2017/West-Ham-United-Stats
+Arsenal,https://fbref.com/en/squads/18bb7c10/2017-2018/Arsenal-Stats
+Bournemouth,https://fbref.com/en/squads/4ba7cbea/2017-2018/Bournemouth-Stats
+Brighton,https://fbref.com/en/squads/d07537b9/2017-2018/Brighton-and-Hove-Albion-Stats
+Burnley,https://fbref.com/en/squads/943e8050/2017-2018/Burnley-Stats
+Chelsea,https://fbref.com/en/squads/cff3d9bb/2017-2018/Chelsea-Stats
+Crystal Palace,https://fbref.com/en/squads/47c64c55/2017-2018/Crystal-Palace-Stats
+Everton,https://fbref.com/en/squads/d3fd31cc/2017-2018/Everton-Stats
+Huddersfield,https://fbref.com/en/squads/f5922ca5/2017-2018/Huddersfield-Town-Stats
+Leicester City,https://fbref.com/en/squads/a2d435b3/2017-2018/Leicester-City-Stats
+Liverpool,https://fbref.com/en/squads/822bd0ba/2017-2018/Liverpool-Stats
+Manchester City,https://fbref.com/en/squads/b8fd03ef/2017-2018/Manchester-City-Stats
+Manchester Utd,https://fbref.com/en/squads/19538871/2017-2018/Manchester-United-Stats
+Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2017-2018/Newcastle-United-Stats
+Southampton,https://fbref.com/en/squads/33c895d4/2017-2018/Southampton-Stats
+Stoke City,https://fbref.com/en/squads/17892952/2017-2018/Stoke-City-Stats
+Swansea City,https://fbref.com/en/squads/fb10988f/2017-2018/Swansea-City-Stats
+Tottenham,https://fbref.com/en/squads/361ca564/2017-2018/Tottenham-Hotspur-Stats
+Watford,https://fbref.com/en/squads/2abfe087/2017-2018/Watford-Stats
+West Brom,https://fbref.com/en/squads/60c6b05f/2017-2018/West-Bromwich-Albion-Stats
+West Ham,https://fbref.com/en/squads/7c21e445/2017-2018/West-Ham-United-Stats
+Arsenal,https://fbref.com/en/squads/18bb7c10/2018-2019/Arsenal-Stats
+Bournemouth,https://fbref.com/en/squads/4ba7cbea/2018-2019/Bournemouth-Stats
+Brighton,https://fbref.com/en/squads/d07537b9/2018-2019/Brighton-and-Hove-Albion-Stats
+Burnley,https://fbref.com/en/squads/943e8050/2018-2019/Burnley-Stats
+Cardiff City,https://fbref.com/en/squads/75fae011/2018-2019/Cardiff-City-Stats
+Chelsea,https://fbref.com/en/squads/cff3d9bb/2018-2019/Chelsea-Stats
+Crystal Palace,https://fbref.com/en/squads/47c64c55/2018-2019/Crystal-Palace-Stats
+Everton,https://fbref.com/en/squads/d3fd31cc/2018-2019/Everton-Stats
+Fulham,https://fbref.com/en/squads/fd962109/2018-2019/Fulham-Stats
+Huddersfield,https://fbref.com/en/squads/f5922ca5/2018-2019/Huddersfield-Town-Stats
+Leicester City,https://fbref.com/en/squads/a2d435b3/2018-2019/Leicester-City-Stats
+Liverpool,https://fbref.com/en/squads/822bd0ba/2018-2019/Liverpool-Stats
+Manchester City,https://fbref.com/en/squads/b8fd03ef/2018-2019/Manchester-City-Stats
+Manchester Utd,https://fbref.com/en/squads/19538871/2018-2019/Manchester-United-Stats
+Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2018-2019/Newcastle-United-Stats
+Southampton,https://fbref.com/en/squads/33c895d4/2018-2019/Southampton-Stats
+Tottenham,https://fbref.com/en/squads/361ca564/2018-2019/Tottenham-Hotspur-Stats
+Watford,https://fbref.com/en/squads/2abfe087/2018-2019/Watford-Stats
+West Ham,https://fbref.com/en/squads/7c21e445/2018-2019/West-Ham-United-Stats
+Wolves,https://fbref.com/en/squads/8cec06e1/2018-2019/Wolverhampton-Wanderers-Stats
+Arsenal,https://fbref.com/en/squads/18bb7c10/2019-2020/Arsenal-Stats
+Aston Villa,https://fbref.com/en/squads/8602292d/2019-2020/Aston-Villa-Stats
+Bournemouth,https://fbref.com/en/squads/4ba7cbea/2019-2020/Bournemouth-Stats
+Brighton,https://fbref.com/en/squads/d07537b9/2019-2020/Brighton-and-Hove-Albion-Stats
+Burnley,https://fbref.com/en/squads/943e8050/2019-2020/Burnley-Stats
+Chelsea,https://fbref.com/en/squads/cff3d9bb/2019-2020/Chelsea-Stats
+Crystal Palace,https://fbref.com/en/squads/47c64c55/2019-2020/Crystal-Palace-Stats
+Everton,https://fbref.com/en/squads/d3fd31cc/2019-2020/Everton-Stats
+Leicester City,https://fbref.com/en/squads/a2d435b3/2019-2020/Leicester-City-Stats
+Liverpool,https://fbref.com/en/squads/822bd0ba/2019-2020/Liverpool-Stats
+Manchester City,https://fbref.com/en/squads/b8fd03ef/2019-2020/Manchester-City-Stats
+Manchester Utd,https://fbref.com/en/squads/19538871/2019-2020/Manchester-United-Stats
+Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2019-2020/Newcastle-United-Stats
+Norwich City,https://fbref.com/en/squads/1c781004/2019-2020/Norwich-City-Stats
+Sheffield Utd,https://fbref.com/en/squads/1df6b87e/2019-2020/Sheffield-United-Stats
+Southampton,https://fbref.com/en/squads/33c895d4/2019-2020/Southampton-Stats
+Tottenham,https://fbref.com/en/squads/361ca564/2019-2020/Tottenham-Hotspur-Stats
+Watford,https://fbref.com/en/squads/2abfe087/2019-2020/Watford-Stats
+West Ham,https://fbref.com/en/squads/7c21e445/2019-2020/West-Ham-United-Stats
+Wolves,https://fbref.com/en/squads/8cec06e1/2019-2020/Wolverhampton-Wanderers-Stats
+Arsenal,https://fbref.com/en/squads/18bb7c10/2020-2021/Arsenal-Stats
+Aston Villa,https://fbref.com/en/squads/8602292d/2020-2021/Aston-Villa-Stats
+Brighton,https://fbref.com/en/squads/d07537b9/2020-2021/Brighton-and-Hove-Albion-Stats
+Burnley,https://fbref.com/en/squads/943e8050/2020-2021/Burnley-Stats
+Chelsea,https://fbref.com/en/squads/cff3d9bb/2020-2021/Chelsea-Stats
+Crystal Palace,https://fbref.com/en/squads/47c64c55/2020-2021/Crystal-Palace-Stats
+Everton,https://fbref.com/en/squads/d3fd31cc/2020-2021/Everton-Stats
+Fulham,https://fbref.com/en/squads/fd962109/2020-2021/Fulham-Stats
+Leeds United,https://fbref.com/en/squads/5bfb9659/2020-2021/Leeds-United-Stats
+Leicester City,https://fbref.com/en/squads/a2d435b3/2020-2021/Leicester-City-Stats
+Liverpool,https://fbref.com/en/squads/822bd0ba/2020-2021/Liverpool-Stats
+Manchester City,https://fbref.com/en/squads/b8fd03ef/2020-2021/Manchester-City-Stats
+Manchester Utd,https://fbref.com/en/squads/19538871/2020-2021/Manchester-United-Stats
+Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2020-2021/Newcastle-United-Stats
+Sheffield Utd,https://fbref.com/en/squads/1df6b87e/2020-2021/Sheffield-United-Stats
+Southampton,https://fbref.com/en/squads/33c895d4/2020-2021/Southampton-Stats
+Tottenham,https://fbref.com/en/squads/361ca564/2020-2021/Tottenham-Hotspur-Stats
+West Brom,https://fbref.com/en/squads/60c6b05f/2020-2021/West-Bromwich-Albion-Stats
+West Ham,https://fbref.com/en/squads/7c21e445/2020-2021/West-Ham-United-Stats
+Wolves,https://fbref.com/en/squads/8cec06e1/2020-2021/Wolverhampton-Wanderers-Stats
+Arsenal,https://fbref.com/en/squads/18bb7c10/2021-2022/Arsenal-Stats
+Aston Villa,https://fbref.com/en/squads/8602292d/2021-2022/Aston-Villa-Stats
+Brentford,https://fbref.com/en/squads/cd051869/2021-2022/Brentford-Stats
+Brighton,https://fbref.com/en/squads/d07537b9/2021-2022/Brighton-and-Hove-Albion-Stats
+Burnley,https://fbref.com/en/squads/943e8050/2021-2022/Burnley-Stats
+Chelsea,https://fbref.com/en/squads/cff3d9bb/2021-2022/Chelsea-Stats
+Crystal Palace,https://fbref.com/en/squads/47c64c55/2021-2022/Crystal-Palace-Stats
+Everton,https://fbref.com/en/squads/d3fd31cc/2021-2022/Everton-Stats
+Leeds United,https://fbref.com/en/squads/5bfb9659/2021-2022/Leeds-United-Stats
+Leicester City,https://fbref.com/en/squads/a2d435b3/2021-2022/Leicester-City-Stats
+Liverpool,https://fbref.com/en/squads/822bd0ba/2021-2022/Liverpool-Stats
+Manchester City,https://fbref.com/en/squads/b8fd03ef/2021-2022/Manchester-City-Stats
+Manchester Utd,https://fbref.com/en/squads/19538871/2021-2022/Manchester-United-Stats
+Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2021-2022/Newcastle-United-Stats
+Norwich City,https://fbref.com/en/squads/1c781004/2021-2022/Norwich-City-Stats
+Southampton,https://fbref.com/en/squads/33c895d4/2021-2022/Southampton-Stats
+Tottenham,https://fbref.com/en/squads/361ca564/2021-2022/Tottenham-Hotspur-Stats
+Watford,https://fbref.com/en/squads/2abfe087/2021-2022/Watford-Stats
+West Ham,https://fbref.com/en/squads/7c21e445/2021-2022/West-Ham-United-Stats
+Wolves,https://fbref.com/en/squads/8cec06e1/2021-2022/Wolverhampton-Wanderers-Stats
+Arsenal,https://fbref.com/en/squads/18bb7c10/2022-2023/Arsenal-Stats
+Aston Villa,https://fbref.com/en/squads/8602292d/2022-2023/Aston-Villa-Stats
+Bournemouth,https://fbref.com/en/squads/4ba7cbea/2022-2023/Bournemouth-Stats
+Brentford,https://fbref.com/en/squads/cd051869/2022-2023/Brentford-Stats
+Brighton,https://fbref.com/en/squads/d07537b9/2022-2023/Brighton-and-Hove-Albion-Stats
+Chelsea,https://fbref.com/en/squads/cff3d9bb/2022-2023/Chelsea-Stats
+Crystal Palace,https://fbref.com/en/squads/47c64c55/2022-2023/Crystal-Palace-Stats
+Everton,https://fbref.com/en/squads/d3fd31cc/2022-2023/Everton-Stats
+Fulham,https://fbref.com/en/squads/fd962109/2022-2023/Fulham-Stats
+Leeds United,https://fbref.com/en/squads/5bfb9659/2022-2023/Leeds-United-Stats
+Leicester City,https://fbref.com/en/squads/a2d435b3/2022-2023/Leicester-City-Stats
+Liverpool,https://fbref.com/en/squads/822bd0ba/2022-2023/Liverpool-Stats
+Manchester City,https://fbref.com/en/squads/b8fd03ef/2022-2023/Manchester-City-Stats
+Manchester Utd,https://fbref.com/en/squads/19538871/2022-2023/Manchester-United-Stats
+Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2022-2023/Newcastle-United-Stats
+Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2022-2023/Nottingham-Forest-Stats
+Southampton,https://fbref.com/en/squads/33c895d4/2022-2023/Southampton-Stats
+Tottenham,https://fbref.com/en/squads/361ca564/2022-2023/Tottenham-Hotspur-Stats
+West Ham,https://fbref.com/en/squads/7c21e445/2022-2023/West-Ham-United-Stats
+Wolves,https://fbref.com/en/squads/8cec06e1/2022-2023/Wolverhampton-Wanderers-Stats
+Arsenal,https://fbref.com/en/squads/18bb7c10/2023-2024/Arsenal-Stats
+Aston Villa,https://fbref.com/en/squads/8602292d/2023-2024/Aston-Villa-Stats
+Bournemouth,https://fbref.com/en/squads/4ba7cbea/2023-2024/Bournemouth-Stats
+Brentford,https://fbref.com/en/squads/cd051869/2023-2024/Brentford-Stats
+Brighton,https://fbref.com/en/squads/d07537b9/2023-2024/Brighton-and-Hove-Albion-Stats
+Burnley,https://fbref.com/en/squads/943e8050/2023-2024/Burnley-Stats
+Chelsea,https://fbref.com/en/squads/cff3d9bb/2023-2024/Chelsea-Stats
+Crystal Palace,https://fbref.com/en/squads/47c64c55/2023-2024/Crystal-Palace-Stats
+Everton,https://fbref.com/en/squads/d3fd31cc/2023-2024/Everton-Stats
+Fulham,https://fbref.com/en/squads/fd962109/2023-2024/Fulham-Stats
+Liverpool,https://fbref.com/en/squads/822bd0ba/2023-2024/Liverpool-Stats
+Luton Town,https://fbref.com/en/squads/e297cd13/2023-2024/Luton-Town-Stats
+Manchester City,https://fbref.com/en/squads/b8fd03ef/2023-2024/Manchester-City-Stats
+Manchester Utd,https://fbref.com/en/squads/19538871/2023-2024/Manchester-United-Stats
+Newcastle Utd,https://fbref.com/en/squads/b2b47a98/2023-2024/Newcastle-United-Stats
+Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/2023-2024/Nottingham-Forest-Stats
+Sheffield Utd,https://fbref.com/en/squads/1df6b87e/2023-2024/Sheffield-United-Stats
+Tottenham,https://fbref.com/en/squads/361ca564/2023-2024/Tottenham-Hotspur-Stats
+West Ham,https://fbref.com/en/squads/7c21e445/2023-2024/West-Ham-United-Stats
+Wolves,https://fbref.com/en/squads/8cec06e1/2023-2024/Wolverhampton-Wanderers-Stats
+Arsenal,https://fbref.com/en/squads/18bb7c10/Arsenal-Stats
+Aston Villa,https://fbref.com/en/squads/8602292d/Aston-Villa-Stats
+Bournemouth,https://fbref.com/en/squads/4ba7cbea/Bournemouth-Stats
+Brentford,https://fbref.com/en/squads/cd051869/Brentford-Stats
+Brighton,https://fbref.com/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats
+Chelsea,https://fbref.com/en/squads/cff3d9bb/Chelsea-Stats
+Crystal Palace,https://fbref.com/en/squads/47c64c55/Crystal-Palace-Stats
+Everton,https://fbref.com/en/squads/d3fd31cc/Everton-Stats
+Fulham,https://fbref.com/en/squads/fd962109/Fulham-Stats
+Ipswich Town,https://fbref.com/en/squads/b74092de/Ipswich-Town-Stats
+Leicester City,https://fbref.com/en/squads/a2d435b3/Leicester-City-Stats
+Liverpool,https://fbref.com/en/squads/822bd0ba/Liverpool-Stats
+Manchester City,https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats
+Manchester Utd,https://fbref.com/en/squads/19538871/Manchester-United-Stats
+Newcastle Utd,https://fbref.com/en/squads/b2b47a98/Newcastle-United-Stats
+Nott'ham Forest,https://fbref.com/en/squads/e4a775cb/Nottingham-Forest-Stats
+Southampton,https://fbref.com/en/squads/33c895d4/Southampton-Stats
+Tottenham,https://fbref.com/en/squads/361ca564/Tottenham-Hotspur-Stats
+West Ham,https://fbref.com/en/squads/7c21e445/West-Ham-United-Stats
+Wolves,https://fbref.com/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats
+Bayern Munich,https://fbref.com/en/squads/054efa67/2010-2011/Bayern-Munich-Stats
+Dortmund,https://fbref.com/en/squads/add600ae/2010-2011/Dortmund-Stats
+Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2010-2011/Eintracht-Frankfurt-Stats
+Freiburg,https://fbref.com/en/squads/a486e511/2010-2011/Freiburg-Stats
+Gladbach,https://fbref.com/en/squads/32f3ee20/2010-2011/Monchengladbach-Stats
+Hamburger SV,https://fbref.com/en/squads/26790c6a/2010-2011/Hamburger-SV-Stats
+Hannover 96,https://fbref.com/en/squads/60b5e41f/2010-2011/Hannover-96-Stats
+Hoffenheim,https://fbref.com/en/squads/033ea6b8/2010-2011/Hoffenheim-Stats
+Kaiserslautern,https://fbref.com/en/squads/73a27a73/2010-2011/Kaiserslautern-Stats
+Köln,https://fbref.com/en/squads/bc357bf7/2010-2011/Koln-Stats
+Leverkusen,https://fbref.com/en/squads/c7a9f859/2010-2011/Bayer-Leverkusen-Stats
+Mainz 05,https://fbref.com/en/squads/a224b06a/2010-2011/Mainz-05-Stats
+Nürnberg,https://fbref.com/en/squads/6f2c108c/2010-2011/Nurnberg-Stats
+Schalke 04,https://fbref.com/en/squads/c539e393/2010-2011/Schalke-04-Stats
+St. Pauli,https://fbref.com/en/squads/54864664/2010-2011/St-Pauli-Stats
+Stuttgart,https://fbref.com/en/squads/598bc722/2010-2011/Stuttgart-Stats
+Werder Bremen,https://fbref.com/en/squads/62add3bf/2010-2011/Werder-Bremen-Stats
+Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2010-2011/Wolfsburg-Stats
+Augsburg,https://fbref.com/en/squads/0cdc4311/2011-2012/Augsburg-Stats
+Bayern Munich,https://fbref.com/en/squads/054efa67/2011-2012/Bayern-Munich-Stats
+Dortmund,https://fbref.com/en/squads/add600ae/2011-2012/Dortmund-Stats
+Freiburg,https://fbref.com/en/squads/a486e511/2011-2012/Freiburg-Stats
+Gladbach,https://fbref.com/en/squads/32f3ee20/2011-2012/Monchengladbach-Stats
+Hamburger SV,https://fbref.com/en/squads/26790c6a/2011-2012/Hamburger-SV-Stats
+Hannover 96,https://fbref.com/en/squads/60b5e41f/2011-2012/Hannover-96-Stats
+Hertha BSC,https://fbref.com/en/squads/2818f8bc/2011-2012/Hertha-BSC-Stats
+Hoffenheim,https://fbref.com/en/squads/033ea6b8/2011-2012/Hoffenheim-Stats
+Kaiserslautern,https://fbref.com/en/squads/73a27a73/2011-2012/Kaiserslautern-Stats
+Köln,https://fbref.com/en/squads/bc357bf7/2011-2012/Koln-Stats
+Leverkusen,https://fbref.com/en/squads/c7a9f859/2011-2012/Bayer-Leverkusen-Stats
+Mainz 05,https://fbref.com/en/squads/a224b06a/2011-2012/Mainz-05-Stats
+Nürnberg,https://fbref.com/en/squads/6f2c108c/2011-2012/Nurnberg-Stats
+Schalke 04,https://fbref.com/en/squads/c539e393/2011-2012/Schalke-04-Stats
+Stuttgart,https://fbref.com/en/squads/598bc722/2011-2012/Stuttgart-Stats
+Werder Bremen,https://fbref.com/en/squads/62add3bf/2011-2012/Werder-Bremen-Stats
+Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2011-2012/Wolfsburg-Stats
+Augsburg,https://fbref.com/en/squads/0cdc4311/2012-2013/Augsburg-Stats
+Bayern Munich,https://fbref.com/en/squads/054efa67/2012-2013/Bayern-Munich-Stats
+Dortmund,https://fbref.com/en/squads/add600ae/2012-2013/Dortmund-Stats
+Düsseldorf,https://fbref.com/en/squads/b1278397/2012-2013/Dusseldorf-Stats
+Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2012-2013/Eintracht-Frankfurt-Stats
+Freiburg,https://fbref.com/en/squads/a486e511/2012-2013/Freiburg-Stats
+Gladbach,https://fbref.com/en/squads/32f3ee20/2012-2013/Monchengladbach-Stats
+Greuther Fürth,https://fbref.com/en/squads/12192a4c/2012-2013/Greuther-Furth-Stats
+Hamburger SV,https://fbref.com/en/squads/26790c6a/2012-2013/Hamburger-SV-Stats
+Hannover 96,https://fbref.com/en/squads/60b5e41f/2012-2013/Hannover-96-Stats
+Hoffenheim,https://fbref.com/en/squads/033ea6b8/2012-2013/Hoffenheim-Stats
+Leverkusen,https://fbref.com/en/squads/c7a9f859/2012-2013/Bayer-Leverkusen-Stats
+Mainz 05,https://fbref.com/en/squads/a224b06a/2012-2013/Mainz-05-Stats
+Nürnberg,https://fbref.com/en/squads/6f2c108c/2012-2013/Nurnberg-Stats
+Schalke 04,https://fbref.com/en/squads/c539e393/2012-2013/Schalke-04-Stats
+Stuttgart,https://fbref.com/en/squads/598bc722/2012-2013/Stuttgart-Stats
+Werder Bremen,https://fbref.com/en/squads/62add3bf/2012-2013/Werder-Bremen-Stats
+Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2012-2013/Wolfsburg-Stats
+Augsburg,https://fbref.com/en/squads/0cdc4311/2013-2014/Augsburg-Stats
+Bayern Munich,https://fbref.com/en/squads/054efa67/2013-2014/Bayern-Munich-Stats
+Braunschweig,https://fbref.com/en/squads/8107958d/2013-2014/Eintracht-Braunschweig-Stats
+Dortmund,https://fbref.com/en/squads/add600ae/2013-2014/Dortmund-Stats
+Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2013-2014/Eintracht-Frankfurt-Stats
+Freiburg,https://fbref.com/en/squads/a486e511/2013-2014/Freiburg-Stats
+Gladbach,https://fbref.com/en/squads/32f3ee20/2013-2014/Monchengladbach-Stats
+Hamburger SV,https://fbref.com/en/squads/26790c6a/2013-2014/Hamburger-SV-Stats
+Hannover 96,https://fbref.com/en/squads/60b5e41f/2013-2014/Hannover-96-Stats
+Hertha BSC,https://fbref.com/en/squads/2818f8bc/2013-2014/Hertha-BSC-Stats
+Hoffenheim,https://fbref.com/en/squads/033ea6b8/2013-2014/Hoffenheim-Stats
+Leverkusen,https://fbref.com/en/squads/c7a9f859/2013-2014/Bayer-Leverkusen-Stats
+Mainz 05,https://fbref.com/en/squads/a224b06a/2013-2014/Mainz-05-Stats
+Nürnberg,https://fbref.com/en/squads/6f2c108c/2013-2014/Nurnberg-Stats
+Schalke 04,https://fbref.com/en/squads/c539e393/2013-2014/Schalke-04-Stats
+Stuttgart,https://fbref.com/en/squads/598bc722/2013-2014/Stuttgart-Stats
+Werder Bremen,https://fbref.com/en/squads/62add3bf/2013-2014/Werder-Bremen-Stats
+Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2013-2014/Wolfsburg-Stats
+Augsburg,https://fbref.com/en/squads/0cdc4311/2014-2015/Augsburg-Stats
+Bayern Munich,https://fbref.com/en/squads/054efa67/2014-2015/Bayern-Munich-Stats
+Dortmund,https://fbref.com/en/squads/add600ae/2014-2015/Dortmund-Stats
+Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2014-2015/Eintracht-Frankfurt-Stats
+Freiburg,https://fbref.com/en/squads/a486e511/2014-2015/Freiburg-Stats
+Gladbach,https://fbref.com/en/squads/32f3ee20/2014-2015/Monchengladbach-Stats
+Hamburger SV,https://fbref.com/en/squads/26790c6a/2014-2015/Hamburger-SV-Stats
+Hannover 96,https://fbref.com/en/squads/60b5e41f/2014-2015/Hannover-96-Stats
+Hertha BSC,https://fbref.com/en/squads/2818f8bc/2014-2015/Hertha-BSC-Stats
+Hoffenheim,https://fbref.com/en/squads/033ea6b8/2014-2015/Hoffenheim-Stats
+Köln,https://fbref.com/en/squads/bc357bf7/2014-2015/Koln-Stats
+Leverkusen,https://fbref.com/en/squads/c7a9f859/2014-2015/Bayer-Leverkusen-Stats
+Mainz 05,https://fbref.com/en/squads/a224b06a/2014-2015/Mainz-05-Stats
+Paderborn 07,https://fbref.com/en/squads/d9f93f02/2014-2015/Paderborn-07-Stats
+Schalke 04,https://fbref.com/en/squads/c539e393/2014-2015/Schalke-04-Stats
+Stuttgart,https://fbref.com/en/squads/598bc722/2014-2015/Stuttgart-Stats
+Werder Bremen,https://fbref.com/en/squads/62add3bf/2014-2015/Werder-Bremen-Stats
+Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2014-2015/Wolfsburg-Stats
+Augsburg,https://fbref.com/en/squads/0cdc4311/2015-2016/Augsburg-Stats
+Bayern Munich,https://fbref.com/en/squads/054efa67/2015-2016/Bayern-Munich-Stats
+Darmstadt 98,https://fbref.com/en/squads/6a6967fc/2015-2016/Darmstadt-98-Stats
+Dortmund,https://fbref.com/en/squads/add600ae/2015-2016/Dortmund-Stats
+Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2015-2016/Eintracht-Frankfurt-Stats
+Gladbach,https://fbref.com/en/squads/32f3ee20/2015-2016/Monchengladbach-Stats
+Hamburger SV,https://fbref.com/en/squads/26790c6a/2015-2016/Hamburger-SV-Stats
+Hannover 96,https://fbref.com/en/squads/60b5e41f/2015-2016/Hannover-96-Stats
+Hertha BSC,https://fbref.com/en/squads/2818f8bc/2015-2016/Hertha-BSC-Stats
+Hoffenheim,https://fbref.com/en/squads/033ea6b8/2015-2016/Hoffenheim-Stats
+Ingolstadt 04,https://fbref.com/en/squads/12eb2039/2015-2016/Ingolstadt-04-Stats
+Köln,https://fbref.com/en/squads/bc357bf7/2015-2016/Koln-Stats
+Leverkusen,https://fbref.com/en/squads/c7a9f859/2015-2016/Bayer-Leverkusen-Stats
+Mainz 05,https://fbref.com/en/squads/a224b06a/2015-2016/Mainz-05-Stats
+Schalke 04,https://fbref.com/en/squads/c539e393/2015-2016/Schalke-04-Stats
+Stuttgart,https://fbref.com/en/squads/598bc722/2015-2016/Stuttgart-Stats
+Werder Bremen,https://fbref.com/en/squads/62add3bf/2015-2016/Werder-Bremen-Stats
+Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2015-2016/Wolfsburg-Stats
+Augsburg,https://fbref.com/en/squads/0cdc4311/2016-2017/Augsburg-Stats
+Bayern Munich,https://fbref.com/en/squads/054efa67/2016-2017/Bayern-Munich-Stats
+Darmstadt 98,https://fbref.com/en/squads/6a6967fc/2016-2017/Darmstadt-98-Stats
+Dortmund,https://fbref.com/en/squads/add600ae/2016-2017/Dortmund-Stats
+Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2016-2017/Eintracht-Frankfurt-Stats
+Freiburg,https://fbref.com/en/squads/a486e511/2016-2017/Freiburg-Stats
+Gladbach,https://fbref.com/en/squads/32f3ee20/2016-2017/Monchengladbach-Stats
+Hamburger SV,https://fbref.com/en/squads/26790c6a/2016-2017/Hamburger-SV-Stats
+Hertha BSC,https://fbref.com/en/squads/2818f8bc/2016-2017/Hertha-BSC-Stats
+Hoffenheim,https://fbref.com/en/squads/033ea6b8/2016-2017/Hoffenheim-Stats
+Ingolstadt 04,https://fbref.com/en/squads/12eb2039/2016-2017/Ingolstadt-04-Stats
+Köln,https://fbref.com/en/squads/bc357bf7/2016-2017/Koln-Stats
+Leverkusen,https://fbref.com/en/squads/c7a9f859/2016-2017/Bayer-Leverkusen-Stats
+Mainz 05,https://fbref.com/en/squads/a224b06a/2016-2017/Mainz-05-Stats
+RB Leipzig,https://fbref.com/en/squads/acbb6a5b/2016-2017/RB-Leipzig-Stats
+Schalke 04,https://fbref.com/en/squads/c539e393/2016-2017/Schalke-04-Stats
+Werder Bremen,https://fbref.com/en/squads/62add3bf/2016-2017/Werder-Bremen-Stats
+Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2016-2017/Wolfsburg-Stats
+Augsburg,https://fbref.com/en/squads/0cdc4311/2017-2018/Augsburg-Stats
+Bayern Munich,https://fbref.com/en/squads/054efa67/2017-2018/Bayern-Munich-Stats
+Dortmund,https://fbref.com/en/squads/add600ae/2017-2018/Dortmund-Stats
+Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2017-2018/Eintracht-Frankfurt-Stats
+Freiburg,https://fbref.com/en/squads/a486e511/2017-2018/Freiburg-Stats
+Gladbach,https://fbref.com/en/squads/32f3ee20/2017-2018/Monchengladbach-Stats
+Hamburger SV,https://fbref.com/en/squads/26790c6a/2017-2018/Hamburger-SV-Stats
+Hannover 96,https://fbref.com/en/squads/60b5e41f/2017-2018/Hannover-96-Stats
+Hertha BSC,https://fbref.com/en/squads/2818f8bc/2017-2018/Hertha-BSC-Stats
+Hoffenheim,https://fbref.com/en/squads/033ea6b8/2017-2018/Hoffenheim-Stats
+Köln,https://fbref.com/en/squads/bc357bf7/2017-2018/Koln-Stats
+Leverkusen,https://fbref.com/en/squads/c7a9f859/2017-2018/Bayer-Leverkusen-Stats
+Mainz 05,https://fbref.com/en/squads/a224b06a/2017-2018/Mainz-05-Stats
+RB Leipzig,https://fbref.com/en/squads/acbb6a5b/2017-2018/RB-Leipzig-Stats
+Schalke 04,https://fbref.com/en/squads/c539e393/2017-2018/Schalke-04-Stats
+Stuttgart,https://fbref.com/en/squads/598bc722/2017-2018/Stuttgart-Stats
+Werder Bremen,https://fbref.com/en/squads/62add3bf/2017-2018/Werder-Bremen-Stats
+Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2017-2018/Wolfsburg-Stats
+Augsburg,https://fbref.com/en/squads/0cdc4311/2018-2019/Augsburg-Stats
+Bayern Munich,https://fbref.com/en/squads/054efa67/2018-2019/Bayern-Munich-Stats
+Dortmund,https://fbref.com/en/squads/add600ae/2018-2019/Dortmund-Stats
+Düsseldorf,https://fbref.com/en/squads/b1278397/2018-2019/Dusseldorf-Stats
+Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2018-2019/Eintracht-Frankfurt-Stats
+Freiburg,https://fbref.com/en/squads/a486e511/2018-2019/Freiburg-Stats
+Gladbach,https://fbref.com/en/squads/32f3ee20/2018-2019/Monchengladbach-Stats
+Hannover 96,https://fbref.com/en/squads/60b5e41f/2018-2019/Hannover-96-Stats
+Hertha BSC,https://fbref.com/en/squads/2818f8bc/2018-2019/Hertha-BSC-Stats
+Hoffenheim,https://fbref.com/en/squads/033ea6b8/2018-2019/Hoffenheim-Stats
+Leverkusen,https://fbref.com/en/squads/c7a9f859/2018-2019/Bayer-Leverkusen-Stats
+Mainz 05,https://fbref.com/en/squads/a224b06a/2018-2019/Mainz-05-Stats
+Nürnberg,https://fbref.com/en/squads/6f2c108c/2018-2019/Nurnberg-Stats
+RB Leipzig,https://fbref.com/en/squads/acbb6a5b/2018-2019/RB-Leipzig-Stats
+Schalke 04,https://fbref.com/en/squads/c539e393/2018-2019/Schalke-04-Stats
+Stuttgart,https://fbref.com/en/squads/598bc722/2018-2019/Stuttgart-Stats
+Werder Bremen,https://fbref.com/en/squads/62add3bf/2018-2019/Werder-Bremen-Stats
+Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2018-2019/Wolfsburg-Stats
+Augsburg,https://fbref.com/en/squads/0cdc4311/2019-2020/Augsburg-Stats
+Bayern Munich,https://fbref.com/en/squads/054efa67/2019-2020/Bayern-Munich-Stats
+Dortmund,https://fbref.com/en/squads/add600ae/2019-2020/Dortmund-Stats
+Düsseldorf,https://fbref.com/en/squads/b1278397/2019-2020/Dusseldorf-Stats
+Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2019-2020/Eintracht-Frankfurt-Stats
+Freiburg,https://fbref.com/en/squads/a486e511/2019-2020/Freiburg-Stats
+Gladbach,https://fbref.com/en/squads/32f3ee20/2019-2020/Monchengladbach-Stats
+Hertha BSC,https://fbref.com/en/squads/2818f8bc/2019-2020/Hertha-BSC-Stats
+Hoffenheim,https://fbref.com/en/squads/033ea6b8/2019-2020/Hoffenheim-Stats
+Köln,https://fbref.com/en/squads/bc357bf7/2019-2020/Koln-Stats
+Leverkusen,https://fbref.com/en/squads/c7a9f859/2019-2020/Bayer-Leverkusen-Stats
+Mainz 05,https://fbref.com/en/squads/a224b06a/2019-2020/Mainz-05-Stats
+Paderborn 07,https://fbref.com/en/squads/d9f93f02/2019-2020/Paderborn-07-Stats
+RB Leipzig,https://fbref.com/en/squads/acbb6a5b/2019-2020/RB-Leipzig-Stats
+Schalke 04,https://fbref.com/en/squads/c539e393/2019-2020/Schalke-04-Stats
+Union Berlin,https://fbref.com/en/squads/7a41008f/2019-2020/Union-Berlin-Stats
+Werder Bremen,https://fbref.com/en/squads/62add3bf/2019-2020/Werder-Bremen-Stats
+Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2019-2020/Wolfsburg-Stats
+Arminia,https://fbref.com/en/squads/247c4b67/2020-2021/Arminia-Stats
+Augsburg,https://fbref.com/en/squads/0cdc4311/2020-2021/Augsburg-Stats
+Bayern Munich,https://fbref.com/en/squads/054efa67/2020-2021/Bayern-Munich-Stats
+Dortmund,https://fbref.com/en/squads/add600ae/2020-2021/Dortmund-Stats
+Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2020-2021/Eintracht-Frankfurt-Stats
+Freiburg,https://fbref.com/en/squads/a486e511/2020-2021/Freiburg-Stats
+Gladbach,https://fbref.com/en/squads/32f3ee20/2020-2021/Monchengladbach-Stats
+Hertha BSC,https://fbref.com/en/squads/2818f8bc/2020-2021/Hertha-BSC-Stats
+Hoffenheim,https://fbref.com/en/squads/033ea6b8/2020-2021/Hoffenheim-Stats
+Köln,https://fbref.com/en/squads/bc357bf7/2020-2021/Koln-Stats
+Leverkusen,https://fbref.com/en/squads/c7a9f859/2020-2021/Bayer-Leverkusen-Stats
+Mainz 05,https://fbref.com/en/squads/a224b06a/2020-2021/Mainz-05-Stats
+RB Leipzig,https://fbref.com/en/squads/acbb6a5b/2020-2021/RB-Leipzig-Stats
+Schalke 04,https://fbref.com/en/squads/c539e393/2020-2021/Schalke-04-Stats
+Stuttgart,https://fbref.com/en/squads/598bc722/2020-2021/Stuttgart-Stats
+Union Berlin,https://fbref.com/en/squads/7a41008f/2020-2021/Union-Berlin-Stats
+Werder Bremen,https://fbref.com/en/squads/62add3bf/2020-2021/Werder-Bremen-Stats
+Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2020-2021/Wolfsburg-Stats
+Arminia,https://fbref.com/en/squads/247c4b67/2021-2022/Arminia-Stats
+Augsburg,https://fbref.com/en/squads/0cdc4311/2021-2022/Augsburg-Stats
+Bayern Munich,https://fbref.com/en/squads/054efa67/2021-2022/Bayern-Munich-Stats
+Bochum,https://fbref.com/en/squads/b42c6323/2021-2022/Bochum-Stats
+Dortmund,https://fbref.com/en/squads/add600ae/2021-2022/Dortmund-Stats
+Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2021-2022/Eintracht-Frankfurt-Stats
+Freiburg,https://fbref.com/en/squads/a486e511/2021-2022/Freiburg-Stats
+Gladbach,https://fbref.com/en/squads/32f3ee20/2021-2022/Monchengladbach-Stats
+Greuther Fürth,https://fbref.com/en/squads/12192a4c/2021-2022/Greuther-Furth-Stats
+Hertha BSC,https://fbref.com/en/squads/2818f8bc/2021-2022/Hertha-BSC-Stats
+Hoffenheim,https://fbref.com/en/squads/033ea6b8/2021-2022/Hoffenheim-Stats
+Köln,https://fbref.com/en/squads/bc357bf7/2021-2022/Koln-Stats
+Leverkusen,https://fbref.com/en/squads/c7a9f859/2021-2022/Bayer-Leverkusen-Stats
+Mainz 05,https://fbref.com/en/squads/a224b06a/2021-2022/Mainz-05-Stats
+RB Leipzig,https://fbref.com/en/squads/acbb6a5b/2021-2022/RB-Leipzig-Stats
+Stuttgart,https://fbref.com/en/squads/598bc722/2021-2022/Stuttgart-Stats
+Union Berlin,https://fbref.com/en/squads/7a41008f/2021-2022/Union-Berlin-Stats
+Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2021-2022/Wolfsburg-Stats
+Augsburg,https://fbref.com/en/squads/0cdc4311/2022-2023/Augsburg-Stats
+Bayern Munich,https://fbref.com/en/squads/054efa67/2022-2023/Bayern-Munich-Stats
+Bochum,https://fbref.com/en/squads/b42c6323/2022-2023/Bochum-Stats
+Dortmund,https://fbref.com/en/squads/add600ae/2022-2023/Dortmund-Stats
+Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2022-2023/Eintracht-Frankfurt-Stats
+Freiburg,https://fbref.com/en/squads/a486e511/2022-2023/Freiburg-Stats
+Gladbach,https://fbref.com/en/squads/32f3ee20/2022-2023/Monchengladbach-Stats
+Hertha BSC,https://fbref.com/en/squads/2818f8bc/2022-2023/Hertha-BSC-Stats
+Hoffenheim,https://fbref.com/en/squads/033ea6b8/2022-2023/Hoffenheim-Stats
+Köln,https://fbref.com/en/squads/bc357bf7/2022-2023/Koln-Stats
+Leverkusen,https://fbref.com/en/squads/c7a9f859/2022-2023/Bayer-Leverkusen-Stats
+Mainz 05,https://fbref.com/en/squads/a224b06a/2022-2023/Mainz-05-Stats
+RB Leipzig,https://fbref.com/en/squads/acbb6a5b/2022-2023/RB-Leipzig-Stats
+Schalke 04,https://fbref.com/en/squads/c539e393/2022-2023/Schalke-04-Stats
+Stuttgart,https://fbref.com/en/squads/598bc722/2022-2023/Stuttgart-Stats
+Union Berlin,https://fbref.com/en/squads/7a41008f/2022-2023/Union-Berlin-Stats
+Werder Bremen,https://fbref.com/en/squads/62add3bf/2022-2023/Werder-Bremen-Stats
+Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2022-2023/Wolfsburg-Stats
+Augsburg,https://fbref.com/en/squads/0cdc4311/2023-2024/Augsburg-Stats
+Bayern Munich,https://fbref.com/en/squads/054efa67/2023-2024/Bayern-Munich-Stats
+Bochum,https://fbref.com/en/squads/b42c6323/2023-2024/Bochum-Stats
+Darmstadt 98,https://fbref.com/en/squads/6a6967fc/2023-2024/Darmstadt-98-Stats
+Dortmund,https://fbref.com/en/squads/add600ae/2023-2024/Dortmund-Stats
+Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/2023-2024/Eintracht-Frankfurt-Stats
+Freiburg,https://fbref.com/en/squads/a486e511/2023-2024/Freiburg-Stats
+Gladbach,https://fbref.com/en/squads/32f3ee20/2023-2024/Monchengladbach-Stats
+Heidenheim,https://fbref.com/en/squads/18d9d2a7/2023-2024/Heidenheim-Stats
+Hoffenheim,https://fbref.com/en/squads/033ea6b8/2023-2024/Hoffenheim-Stats
+Köln,https://fbref.com/en/squads/bc357bf7/2023-2024/Koln-Stats
+Leverkusen,https://fbref.com/en/squads/c7a9f859/2023-2024/Bayer-Leverkusen-Stats
+Mainz 05,https://fbref.com/en/squads/a224b06a/2023-2024/Mainz-05-Stats
+RB Leipzig,https://fbref.com/en/squads/acbb6a5b/2023-2024/RB-Leipzig-Stats
+Stuttgart,https://fbref.com/en/squads/598bc722/2023-2024/Stuttgart-Stats
+Union Berlin,https://fbref.com/en/squads/7a41008f/2023-2024/Union-Berlin-Stats
+Werder Bremen,https://fbref.com/en/squads/62add3bf/2023-2024/Werder-Bremen-Stats
+Wolfsburg,https://fbref.com/en/squads/4eaa11d7/2023-2024/Wolfsburg-Stats
+Augsburg,https://fbref.com/en/squads/0cdc4311/Augsburg-Stats
+Bayern Munich,https://fbref.com/en/squads/054efa67/Bayern-Munich-Stats
+Bochum,https://fbref.com/en/squads/b42c6323/Bochum-Stats
+Dortmund,https://fbref.com/en/squads/add600ae/Dortmund-Stats
+Eint Frankfurt,https://fbref.com/en/squads/f0ac8ee6/Eintracht-Frankfurt-Stats
+Freiburg,https://fbref.com/en/squads/a486e511/Freiburg-Stats
+Gladbach,https://fbref.com/en/squads/32f3ee20/Monchengladbach-Stats
+Heidenheim,https://fbref.com/en/squads/18d9d2a7/Heidenheim-Stats
+Hoffenheim,https://fbref.com/en/squads/033ea6b8/Hoffenheim-Stats
+Holstein Kiel,https://fbref.com/en/squads/2ac661d9/Holstein-Kiel-Stats
+Leverkusen,https://fbref.com/en/squads/c7a9f859/Bayer-Leverkusen-Stats
+Mainz 05,https://fbref.com/en/squads/a224b06a/Mainz-05-Stats
+RB Leipzig,https://fbref.com/en/squads/acbb6a5b/RB-Leipzig-Stats
+St. Pauli,https://fbref.com/en/squads/54864664/St-Pauli-Stats
+Stuttgart,https://fbref.com/en/squads/598bc722/Stuttgart-Stats
+Union Berlin,https://fbref.com/en/squads/7a41008f/Union-Berlin-Stats
+Werder Bremen,https://fbref.com/en/squads/62add3bf/Werder-Bremen-Stats
+Wolfsburg,https://fbref.com/en/squads/4eaa11d7/Wolfsburg-Stats
+Almería,https://fbref.com/en/squads/78ecf4bb/2010-2011/Almeria-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/2010-2011/Athletic-Club-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/2010-2011/Atletico-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/2010-2011/Barcelona-Stats
+Espanyol,https://fbref.com/en/squads/a8661628/2010-2011/Espanyol-Stats
+Getafe,https://fbref.com/en/squads/7848bd64/2010-2011/Getafe-Stats
+Hércules,https://fbref.com/en/squads/4222a514/2010-2011/Hercules-Stats
+La Coruña,https://fbref.com/en/squads/2a60ed82/2010-2011/Deportivo-La-Coruna-Stats
+Levante,https://fbref.com/en/squads/9800b6a1/2010-2011/Levante-Stats
+Málaga,https://fbref.com/en/squads/1c896955/2010-2011/Malaga-Stats
+Mallorca,https://fbref.com/en/squads/2aa12281/2010-2011/Mallorca-Stats
+Osasuna,https://fbref.com/en/squads/03c57e2b/2010-2011/Osasuna-Stats
+Racing Sant,https://fbref.com/en/squads/dee3bbc8/2010-2011/Racing-Santander-Stats
+Real Madrid,https://fbref.com/en/squads/53a2f082/2010-2011/Real-Madrid-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/2010-2011/Real-Sociedad-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/2010-2011/Sevilla-Stats
+Sporting Gijón,https://fbref.com/en/squads/bb9efd50/2010-2011/Sporting-Gijon-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/2010-2011/Valencia-Stats
+Villarreal,https://fbref.com/en/squads/2a8183b3/2010-2011/Villarreal-Stats
+Zaragoza,https://fbref.com/en/squads/800303a0/2010-2011/Zaragoza-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/2011-2012/Athletic-Club-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/2011-2012/Atletico-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/2011-2012/Barcelona-Stats
+Betis,https://fbref.com/en/squads/fc536746/2011-2012/Real-Betis-Stats
+Espanyol,https://fbref.com/en/squads/a8661628/2011-2012/Espanyol-Stats
+Getafe,https://fbref.com/en/squads/7848bd64/2011-2012/Getafe-Stats
+Granada,https://fbref.com/en/squads/a0435291/2011-2012/Granada-Stats
+Levante,https://fbref.com/en/squads/9800b6a1/2011-2012/Levante-Stats
+Málaga,https://fbref.com/en/squads/1c896955/2011-2012/Malaga-Stats
+Mallorca,https://fbref.com/en/squads/2aa12281/2011-2012/Mallorca-Stats
+Osasuna,https://fbref.com/en/squads/03c57e2b/2011-2012/Osasuna-Stats
+Racing Sant,https://fbref.com/en/squads/dee3bbc8/2011-2012/Racing-Santander-Stats
+Rayo Vallecano,https://fbref.com/en/squads/98e8af82/2011-2012/Rayo-Vallecano-Stats
+Real Madrid,https://fbref.com/en/squads/53a2f082/2011-2012/Real-Madrid-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/2011-2012/Real-Sociedad-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/2011-2012/Sevilla-Stats
+Sporting Gijón,https://fbref.com/en/squads/bb9efd50/2011-2012/Sporting-Gijon-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/2011-2012/Valencia-Stats
+Villarreal,https://fbref.com/en/squads/2a8183b3/2011-2012/Villarreal-Stats
+Zaragoza,https://fbref.com/en/squads/800303a0/2011-2012/Zaragoza-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/2012-2013/Athletic-Club-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/2012-2013/Atletico-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/2012-2013/Barcelona-Stats
+Betis,https://fbref.com/en/squads/fc536746/2012-2013/Real-Betis-Stats
+Celta Vigo,https://fbref.com/en/squads/f25da7fb/2012-2013/Celta-Vigo-Stats
+Espanyol,https://fbref.com/en/squads/a8661628/2012-2013/Espanyol-Stats
+Getafe,https://fbref.com/en/squads/7848bd64/2012-2013/Getafe-Stats
+Granada,https://fbref.com/en/squads/a0435291/2012-2013/Granada-Stats
+La Coruña,https://fbref.com/en/squads/2a60ed82/2012-2013/Deportivo-La-Coruna-Stats
+Levante,https://fbref.com/en/squads/9800b6a1/2012-2013/Levante-Stats
+Málaga,https://fbref.com/en/squads/1c896955/2012-2013/Malaga-Stats
+Mallorca,https://fbref.com/en/squads/2aa12281/2012-2013/Mallorca-Stats
+Osasuna,https://fbref.com/en/squads/03c57e2b/2012-2013/Osasuna-Stats
+Rayo Vallecano,https://fbref.com/en/squads/98e8af82/2012-2013/Rayo-Vallecano-Stats
+Real Madrid,https://fbref.com/en/squads/53a2f082/2012-2013/Real-Madrid-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/2012-2013/Real-Sociedad-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/2012-2013/Sevilla-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/2012-2013/Valencia-Stats
+Valladolid,https://fbref.com/en/squads/17859612/2012-2013/Valladolid-Stats
+Zaragoza,https://fbref.com/en/squads/800303a0/2012-2013/Zaragoza-Stats
+Almería,https://fbref.com/en/squads/78ecf4bb/2013-2014/Almeria-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/2013-2014/Athletic-Club-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/2013-2014/Atletico-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/2013-2014/Barcelona-Stats
+Betis,https://fbref.com/en/squads/fc536746/2013-2014/Real-Betis-Stats
+Celta Vigo,https://fbref.com/en/squads/f25da7fb/2013-2014/Celta-Vigo-Stats
+Elche,https://fbref.com/en/squads/6c8b07df/2013-2014/Elche-Stats
+Espanyol,https://fbref.com/en/squads/a8661628/2013-2014/Espanyol-Stats
+Getafe,https://fbref.com/en/squads/7848bd64/2013-2014/Getafe-Stats
+Granada,https://fbref.com/en/squads/a0435291/2013-2014/Granada-Stats
+Levante,https://fbref.com/en/squads/9800b6a1/2013-2014/Levante-Stats
+Málaga,https://fbref.com/en/squads/1c896955/2013-2014/Malaga-Stats
+Osasuna,https://fbref.com/en/squads/03c57e2b/2013-2014/Osasuna-Stats
+Rayo Vallecano,https://fbref.com/en/squads/98e8af82/2013-2014/Rayo-Vallecano-Stats
+Real Madrid,https://fbref.com/en/squads/53a2f082/2013-2014/Real-Madrid-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/2013-2014/Real-Sociedad-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/2013-2014/Sevilla-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/2013-2014/Valencia-Stats
+Valladolid,https://fbref.com/en/squads/17859612/2013-2014/Valladolid-Stats
+Villarreal,https://fbref.com/en/squads/2a8183b3/2013-2014/Villarreal-Stats
+Almería,https://fbref.com/en/squads/78ecf4bb/2014-2015/Almeria-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/2014-2015/Athletic-Club-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/2014-2015/Atletico-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/2014-2015/Barcelona-Stats
+Celta Vigo,https://fbref.com/en/squads/f25da7fb/2014-2015/Celta-Vigo-Stats
+Córdoba,https://fbref.com/en/squads/6009ff35/2014-2015/Cordoba-Stats
+Eibar,https://fbref.com/en/squads/bea5c710/2014-2015/Eibar-Stats
+Elche,https://fbref.com/en/squads/6c8b07df/2014-2015/Elche-Stats
+Espanyol,https://fbref.com/en/squads/a8661628/2014-2015/Espanyol-Stats
+Getafe,https://fbref.com/en/squads/7848bd64/2014-2015/Getafe-Stats
+Granada,https://fbref.com/en/squads/a0435291/2014-2015/Granada-Stats
+La Coruña,https://fbref.com/en/squads/2a60ed82/2014-2015/Deportivo-La-Coruna-Stats
+Levante,https://fbref.com/en/squads/9800b6a1/2014-2015/Levante-Stats
+Málaga,https://fbref.com/en/squads/1c896955/2014-2015/Malaga-Stats
+Rayo Vallecano,https://fbref.com/en/squads/98e8af82/2014-2015/Rayo-Vallecano-Stats
+Real Madrid,https://fbref.com/en/squads/53a2f082/2014-2015/Real-Madrid-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/2014-2015/Real-Sociedad-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/2014-2015/Sevilla-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/2014-2015/Valencia-Stats
+Villarreal,https://fbref.com/en/squads/2a8183b3/2014-2015/Villarreal-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/2015-2016/Athletic-Club-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/2015-2016/Atletico-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/2015-2016/Barcelona-Stats
+Betis,https://fbref.com/en/squads/fc536746/2015-2016/Real-Betis-Stats
+Celta Vigo,https://fbref.com/en/squads/f25da7fb/2015-2016/Celta-Vigo-Stats
+Eibar,https://fbref.com/en/squads/bea5c710/2015-2016/Eibar-Stats
+Espanyol,https://fbref.com/en/squads/a8661628/2015-2016/Espanyol-Stats
+Getafe,https://fbref.com/en/squads/7848bd64/2015-2016/Getafe-Stats
+Granada,https://fbref.com/en/squads/a0435291/2015-2016/Granada-Stats
+La Coruña,https://fbref.com/en/squads/2a60ed82/2015-2016/Deportivo-La-Coruna-Stats
+Las Palmas,https://fbref.com/en/squads/0049d422/2015-2016/Las-Palmas-Stats
+Levante,https://fbref.com/en/squads/9800b6a1/2015-2016/Levante-Stats
+Málaga,https://fbref.com/en/squads/1c896955/2015-2016/Malaga-Stats
+Rayo Vallecano,https://fbref.com/en/squads/98e8af82/2015-2016/Rayo-Vallecano-Stats
+Real Madrid,https://fbref.com/en/squads/53a2f082/2015-2016/Real-Madrid-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/2015-2016/Real-Sociedad-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/2015-2016/Sevilla-Stats
+Sporting Gijón,https://fbref.com/en/squads/bb9efd50/2015-2016/Sporting-Gijon-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/2015-2016/Valencia-Stats
+Villarreal,https://fbref.com/en/squads/2a8183b3/2015-2016/Villarreal-Stats
+Alavés,https://fbref.com/en/squads/8d6fd021/2016-2017/Alaves-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/2016-2017/Athletic-Club-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/2016-2017/Atletico-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/2016-2017/Barcelona-Stats
+Betis,https://fbref.com/en/squads/fc536746/2016-2017/Real-Betis-Stats
+Celta Vigo,https://fbref.com/en/squads/f25da7fb/2016-2017/Celta-Vigo-Stats
+Eibar,https://fbref.com/en/squads/bea5c710/2016-2017/Eibar-Stats
+Espanyol,https://fbref.com/en/squads/a8661628/2016-2017/Espanyol-Stats
+Granada,https://fbref.com/en/squads/a0435291/2016-2017/Granada-Stats
+La Coruña,https://fbref.com/en/squads/2a60ed82/2016-2017/Deportivo-La-Coruna-Stats
+Las Palmas,https://fbref.com/en/squads/0049d422/2016-2017/Las-Palmas-Stats
+Leganés,https://fbref.com/en/squads/7c6f2c78/2016-2017/Leganes-Stats
+Málaga,https://fbref.com/en/squads/1c896955/2016-2017/Malaga-Stats
+Osasuna,https://fbref.com/en/squads/03c57e2b/2016-2017/Osasuna-Stats
+Real Madrid,https://fbref.com/en/squads/53a2f082/2016-2017/Real-Madrid-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/2016-2017/Real-Sociedad-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/2016-2017/Sevilla-Stats
+Sporting Gijón,https://fbref.com/en/squads/bb9efd50/2016-2017/Sporting-Gijon-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/2016-2017/Valencia-Stats
+Villarreal,https://fbref.com/en/squads/2a8183b3/2016-2017/Villarreal-Stats
+Alavés,https://fbref.com/en/squads/8d6fd021/2017-2018/Alaves-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/2017-2018/Athletic-Club-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/2017-2018/Atletico-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/2017-2018/Barcelona-Stats
+Betis,https://fbref.com/en/squads/fc536746/2017-2018/Real-Betis-Stats
+Celta Vigo,https://fbref.com/en/squads/f25da7fb/2017-2018/Celta-Vigo-Stats
+Eibar,https://fbref.com/en/squads/bea5c710/2017-2018/Eibar-Stats
+Espanyol,https://fbref.com/en/squads/a8661628/2017-2018/Espanyol-Stats
+Getafe,https://fbref.com/en/squads/7848bd64/2017-2018/Getafe-Stats
+Girona,https://fbref.com/en/squads/9024a00a/2017-2018/Girona-Stats
+La Coruña,https://fbref.com/en/squads/2a60ed82/2017-2018/Deportivo-La-Coruna-Stats
+Las Palmas,https://fbref.com/en/squads/0049d422/2017-2018/Las-Palmas-Stats
+Leganés,https://fbref.com/en/squads/7c6f2c78/2017-2018/Leganes-Stats
+Levante,https://fbref.com/en/squads/9800b6a1/2017-2018/Levante-Stats
+Málaga,https://fbref.com/en/squads/1c896955/2017-2018/Malaga-Stats
+Real Madrid,https://fbref.com/en/squads/53a2f082/2017-2018/Real-Madrid-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/2017-2018/Real-Sociedad-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/2017-2018/Sevilla-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/2017-2018/Valencia-Stats
+Villarreal,https://fbref.com/en/squads/2a8183b3/2017-2018/Villarreal-Stats
+Alavés,https://fbref.com/en/squads/8d6fd021/2018-2019/Alaves-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/2018-2019/Athletic-Club-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/2018-2019/Atletico-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/2018-2019/Barcelona-Stats
+Betis,https://fbref.com/en/squads/fc536746/2018-2019/Real-Betis-Stats
+Celta Vigo,https://fbref.com/en/squads/f25da7fb/2018-2019/Celta-Vigo-Stats
+Eibar,https://fbref.com/en/squads/bea5c710/2018-2019/Eibar-Stats
+Espanyol,https://fbref.com/en/squads/a8661628/2018-2019/Espanyol-Stats
+Getafe,https://fbref.com/en/squads/7848bd64/2018-2019/Getafe-Stats
+Girona,https://fbref.com/en/squads/9024a00a/2018-2019/Girona-Stats
+Huesca,https://fbref.com/en/squads/c6c493e6/2018-2019/Huesca-Stats
+Leganés,https://fbref.com/en/squads/7c6f2c78/2018-2019/Leganes-Stats
+Levante,https://fbref.com/en/squads/9800b6a1/2018-2019/Levante-Stats
+Rayo Vallecano,https://fbref.com/en/squads/98e8af82/2018-2019/Rayo-Vallecano-Stats
+Real Madrid,https://fbref.com/en/squads/53a2f082/2018-2019/Real-Madrid-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/2018-2019/Real-Sociedad-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/2018-2019/Sevilla-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/2018-2019/Valencia-Stats
+Valladolid,https://fbref.com/en/squads/17859612/2018-2019/Valladolid-Stats
+Villarreal,https://fbref.com/en/squads/2a8183b3/2018-2019/Villarreal-Stats
+Alavés,https://fbref.com/en/squads/8d6fd021/2019-2020/Alaves-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/2019-2020/Athletic-Club-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/2019-2020/Atletico-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/2019-2020/Barcelona-Stats
+Betis,https://fbref.com/en/squads/fc536746/2019-2020/Real-Betis-Stats
+Celta Vigo,https://fbref.com/en/squads/f25da7fb/2019-2020/Celta-Vigo-Stats
+Eibar,https://fbref.com/en/squads/bea5c710/2019-2020/Eibar-Stats
+Espanyol,https://fbref.com/en/squads/a8661628/2019-2020/Espanyol-Stats
+Getafe,https://fbref.com/en/squads/7848bd64/2019-2020/Getafe-Stats
+Granada,https://fbref.com/en/squads/a0435291/2019-2020/Granada-Stats
+Leganés,https://fbref.com/en/squads/7c6f2c78/2019-2020/Leganes-Stats
+Levante,https://fbref.com/en/squads/9800b6a1/2019-2020/Levante-Stats
+Mallorca,https://fbref.com/en/squads/2aa12281/2019-2020/Mallorca-Stats
+Osasuna,https://fbref.com/en/squads/03c57e2b/2019-2020/Osasuna-Stats
+Real Madrid,https://fbref.com/en/squads/53a2f082/2019-2020/Real-Madrid-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/2019-2020/Real-Sociedad-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/2019-2020/Sevilla-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/2019-2020/Valencia-Stats
+Valladolid,https://fbref.com/en/squads/17859612/2019-2020/Valladolid-Stats
+Villarreal,https://fbref.com/en/squads/2a8183b3/2019-2020/Villarreal-Stats
+Alavés,https://fbref.com/en/squads/8d6fd021/2020-2021/Alaves-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/2020-2021/Athletic-Club-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/2020-2021/Atletico-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/2020-2021/Barcelona-Stats
+Betis,https://fbref.com/en/squads/fc536746/2020-2021/Real-Betis-Stats
+Cádiz,https://fbref.com/en/squads/ee7c297c/2020-2021/Cadiz-Stats
+Celta Vigo,https://fbref.com/en/squads/f25da7fb/2020-2021/Celta-Vigo-Stats
+Eibar,https://fbref.com/en/squads/bea5c710/2020-2021/Eibar-Stats
+Elche,https://fbref.com/en/squads/6c8b07df/2020-2021/Elche-Stats
+Getafe,https://fbref.com/en/squads/7848bd64/2020-2021/Getafe-Stats
+Granada,https://fbref.com/en/squads/a0435291/2020-2021/Granada-Stats
+Huesca,https://fbref.com/en/squads/c6c493e6/2020-2021/Huesca-Stats
+Levante,https://fbref.com/en/squads/9800b6a1/2020-2021/Levante-Stats
+Osasuna,https://fbref.com/en/squads/03c57e2b/2020-2021/Osasuna-Stats
+Real Madrid,https://fbref.com/en/squads/53a2f082/2020-2021/Real-Madrid-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/2020-2021/Real-Sociedad-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/2020-2021/Sevilla-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/2020-2021/Valencia-Stats
+Valladolid,https://fbref.com/en/squads/17859612/2020-2021/Valladolid-Stats
+Villarreal,https://fbref.com/en/squads/2a8183b3/2020-2021/Villarreal-Stats
+Alavés,https://fbref.com/en/squads/8d6fd021/2021-2022/Alaves-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/2021-2022/Athletic-Club-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/2021-2022/Atletico-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/2021-2022/Barcelona-Stats
+Betis,https://fbref.com/en/squads/fc536746/2021-2022/Real-Betis-Stats
+Cádiz,https://fbref.com/en/squads/ee7c297c/2021-2022/Cadiz-Stats
+Celta Vigo,https://fbref.com/en/squads/f25da7fb/2021-2022/Celta-Vigo-Stats
+Elche,https://fbref.com/en/squads/6c8b07df/2021-2022/Elche-Stats
+Espanyol,https://fbref.com/en/squads/a8661628/2021-2022/Espanyol-Stats
+Getafe,https://fbref.com/en/squads/7848bd64/2021-2022/Getafe-Stats
+Granada,https://fbref.com/en/squads/a0435291/2021-2022/Granada-Stats
+Levante,https://fbref.com/en/squads/9800b6a1/2021-2022/Levante-Stats
+Mallorca,https://fbref.com/en/squads/2aa12281/2021-2022/Mallorca-Stats
+Osasuna,https://fbref.com/en/squads/03c57e2b/2021-2022/Osasuna-Stats
+Rayo Vallecano,https://fbref.com/en/squads/98e8af82/2021-2022/Rayo-Vallecano-Stats
+Real Madrid,https://fbref.com/en/squads/53a2f082/2021-2022/Real-Madrid-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/2021-2022/Real-Sociedad-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/2021-2022/Sevilla-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/2021-2022/Valencia-Stats
+Villarreal,https://fbref.com/en/squads/2a8183b3/2021-2022/Villarreal-Stats
+Almería,https://fbref.com/en/squads/78ecf4bb/2022-2023/Almeria-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/2022-2023/Athletic-Club-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/2022-2023/Atletico-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/2022-2023/Barcelona-Stats
+Betis,https://fbref.com/en/squads/fc536746/2022-2023/Real-Betis-Stats
+Cádiz,https://fbref.com/en/squads/ee7c297c/2022-2023/Cadiz-Stats
+Celta Vigo,https://fbref.com/en/squads/f25da7fb/2022-2023/Celta-Vigo-Stats
+Elche,https://fbref.com/en/squads/6c8b07df/2022-2023/Elche-Stats
+Espanyol,https://fbref.com/en/squads/a8661628/2022-2023/Espanyol-Stats
+Getafe,https://fbref.com/en/squads/7848bd64/2022-2023/Getafe-Stats
+Girona,https://fbref.com/en/squads/9024a00a/2022-2023/Girona-Stats
+Mallorca,https://fbref.com/en/squads/2aa12281/2022-2023/Mallorca-Stats
+Osasuna,https://fbref.com/en/squads/03c57e2b/2022-2023/Osasuna-Stats
+Rayo Vallecano,https://fbref.com/en/squads/98e8af82/2022-2023/Rayo-Vallecano-Stats
+Real Madrid,https://fbref.com/en/squads/53a2f082/2022-2023/Real-Madrid-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/2022-2023/Real-Sociedad-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/2022-2023/Sevilla-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/2022-2023/Valencia-Stats
+Valladolid,https://fbref.com/en/squads/17859612/2022-2023/Valladolid-Stats
+Villarreal,https://fbref.com/en/squads/2a8183b3/2022-2023/Villarreal-Stats
+Alavés,https://fbref.com/en/squads/8d6fd021/2023-2024/Alaves-Stats
+Almería,https://fbref.com/en/squads/78ecf4bb/2023-2024/Almeria-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/2023-2024/Athletic-Club-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/2023-2024/Atletico-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/2023-2024/Barcelona-Stats
+Betis,https://fbref.com/en/squads/fc536746/2023-2024/Real-Betis-Stats
+Cádiz,https://fbref.com/en/squads/ee7c297c/2023-2024/Cadiz-Stats
+Celta Vigo,https://fbref.com/en/squads/f25da7fb/2023-2024/Celta-Vigo-Stats
+Getafe,https://fbref.com/en/squads/7848bd64/2023-2024/Getafe-Stats
+Girona,https://fbref.com/en/squads/9024a00a/2023-2024/Girona-Stats
+Granada,https://fbref.com/en/squads/a0435291/2023-2024/Granada-Stats
+Las Palmas,https://fbref.com/en/squads/0049d422/2023-2024/Las-Palmas-Stats
+Mallorca,https://fbref.com/en/squads/2aa12281/2023-2024/Mallorca-Stats
+Osasuna,https://fbref.com/en/squads/03c57e2b/2023-2024/Osasuna-Stats
+Rayo Vallecano,https://fbref.com/en/squads/98e8af82/2023-2024/Rayo-Vallecano-Stats
+Real Madrid,https://fbref.com/en/squads/53a2f082/2023-2024/Real-Madrid-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/2023-2024/Real-Sociedad-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/2023-2024/Sevilla-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/2023-2024/Valencia-Stats
+Villarreal,https://fbref.com/en/squads/2a8183b3/2023-2024/Villarreal-Stats
+Alavés,https://fbref.com/en/squads/8d6fd021/Alaves-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/Athletic-Club-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/Atletico-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/Barcelona-Stats
+Betis,https://fbref.com/en/squads/fc536746/Real-Betis-Stats
+Celta Vigo,https://fbref.com/en/squads/f25da7fb/Celta-Vigo-Stats
+Espanyol,https://fbref.com/en/squads/a8661628/Espanyol-Stats
+Getafe,https://fbref.com/en/squads/7848bd64/Getafe-Stats
+Girona,https://fbref.com/en/squads/9024a00a/Girona-Stats
+Las Palmas,https://fbref.com/en/squads/0049d422/Las-Palmas-Stats
+Leganés,https://fbref.com/en/squads/7c6f2c78/Leganes-Stats
+Mallorca,https://fbref.com/en/squads/2aa12281/Mallorca-Stats
+Osasuna,https://fbref.com/en/squads/03c57e2b/Osasuna-Stats
+Rayo Vallecano,https://fbref.com/en/squads/98e8af82/Rayo-Vallecano-Stats
+Real Madrid,https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/Real-Sociedad-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/Sevilla-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/Valencia-Stats
+Valladolid,https://fbref.com/en/squads/17859612/Valladolid-Stats
+Villarreal,https://fbref.com/en/squads/2a8183b3/Villarreal-Stats
+Bari,https://fbref.com/en/squads/01baa639/2010-2011/Bari-Stats
+Bologna,https://fbref.com/en/squads/1d8099f8/2010-2011/Bologna-Stats
+Brescia,https://fbref.com/en/squads/4ef57aeb/2010-2011/Brescia-Stats
+Cagliari,https://fbref.com/en/squads/c4260e09/2010-2011/Cagliari-Stats
+Catania,https://fbref.com/en/squads/7b046f08/2010-2011/Catania-Stats
+Cesena,https://fbref.com/en/squads/283f2557/2010-2011/Cesena-Stats
+Chievo,https://fbref.com/en/squads/cc919b35/2010-2011/Chievo-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/2010-2011/Fiorentina-Stats
+Genoa,https://fbref.com/en/squads/658bf2de/2010-2011/Genoa-Stats
+Inter,https://fbref.com/en/squads/d609edc0/2010-2011/Internazionale-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/2010-2011/Juventus-Stats
+Lazio,https://fbref.com/en/squads/7213da33/2010-2011/Lazio-Stats
+Lecce,https://fbref.com/en/squads/ffcbe334/2010-2011/Lecce-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/2010-2011/Milan-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/2010-2011/Napoli-Stats
+Palermo,https://fbref.com/en/squads/ee058a17/2010-2011/Palermo-Stats
+Parma,https://fbref.com/en/squads/eab4234c/2010-2011/Parma-Stats
+Roma,https://fbref.com/en/squads/cf74a709/2010-2011/Roma-Stats
+Sampdoria,https://fbref.com/en/squads/8ff9e3b3/2010-2011/Sampdoria-Stats
+Udinese,https://fbref.com/en/squads/04eea015/2010-2011/Udinese-Stats
+Atalanta,https://fbref.com/en/squads/922493f3/2011-2012/Atalanta-Stats
+Bologna,https://fbref.com/en/squads/1d8099f8/2011-2012/Bologna-Stats
+Cagliari,https://fbref.com/en/squads/c4260e09/2011-2012/Cagliari-Stats
+Catania,https://fbref.com/en/squads/7b046f08/2011-2012/Catania-Stats
+Cesena,https://fbref.com/en/squads/283f2557/2011-2012/Cesena-Stats
+Chievo,https://fbref.com/en/squads/cc919b35/2011-2012/Chievo-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/2011-2012/Fiorentina-Stats
+Genoa,https://fbref.com/en/squads/658bf2de/2011-2012/Genoa-Stats
+Inter,https://fbref.com/en/squads/d609edc0/2011-2012/Internazionale-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/2011-2012/Juventus-Stats
+Lazio,https://fbref.com/en/squads/7213da33/2011-2012/Lazio-Stats
+Lecce,https://fbref.com/en/squads/ffcbe334/2011-2012/Lecce-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/2011-2012/Milan-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/2011-2012/Napoli-Stats
+Novara,https://fbref.com/en/squads/6c37111f/2011-2012/Novara-Stats
+Palermo,https://fbref.com/en/squads/ee058a17/2011-2012/Palermo-Stats
+Parma,https://fbref.com/en/squads/eab4234c/2011-2012/Parma-Stats
+Roma,https://fbref.com/en/squads/cf74a709/2011-2012/Roma-Stats
+Siena,https://fbref.com/en/squads/45a2f824/2011-2012/Siena-Stats
+Udinese,https://fbref.com/en/squads/04eea015/2011-2012/Udinese-Stats
+Atalanta,https://fbref.com/en/squads/922493f3/2012-2013/Atalanta-Stats
+Bologna,https://fbref.com/en/squads/1d8099f8/2012-2013/Bologna-Stats
+Cagliari,https://fbref.com/en/squads/c4260e09/2012-2013/Cagliari-Stats
+Catania,https://fbref.com/en/squads/7b046f08/2012-2013/Catania-Stats
+Chievo,https://fbref.com/en/squads/cc919b35/2012-2013/Chievo-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/2012-2013/Fiorentina-Stats
+Genoa,https://fbref.com/en/squads/658bf2de/2012-2013/Genoa-Stats
+Inter,https://fbref.com/en/squads/d609edc0/2012-2013/Internazionale-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/2012-2013/Juventus-Stats
+Lazio,https://fbref.com/en/squads/7213da33/2012-2013/Lazio-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/2012-2013/Milan-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/2012-2013/Napoli-Stats
+Palermo,https://fbref.com/en/squads/ee058a17/2012-2013/Palermo-Stats
+Parma,https://fbref.com/en/squads/eab4234c/2012-2013/Parma-Stats
+Pescara,https://fbref.com/en/squads/b985784c/2012-2013/Pescara-Stats
+Roma,https://fbref.com/en/squads/cf74a709/2012-2013/Roma-Stats
+Sampdoria,https://fbref.com/en/squads/8ff9e3b3/2012-2013/Sampdoria-Stats
+Siena,https://fbref.com/en/squads/45a2f824/2012-2013/Siena-Stats
+Torino,https://fbref.com/en/squads/105360fe/2012-2013/Torino-Stats
+Udinese,https://fbref.com/en/squads/04eea015/2012-2013/Udinese-Stats
+Atalanta,https://fbref.com/en/squads/922493f3/2013-2014/Atalanta-Stats
+Bologna,https://fbref.com/en/squads/1d8099f8/2013-2014/Bologna-Stats
+Cagliari,https://fbref.com/en/squads/c4260e09/2013-2014/Cagliari-Stats
+Catania,https://fbref.com/en/squads/7b046f08/2013-2014/Catania-Stats
+Chievo,https://fbref.com/en/squads/cc919b35/2013-2014/Chievo-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/2013-2014/Fiorentina-Stats
+Genoa,https://fbref.com/en/squads/658bf2de/2013-2014/Genoa-Stats
+Hellas Verona,https://fbref.com/en/squads/0e72edf2/2013-2014/Hellas-Verona-Stats
+Inter,https://fbref.com/en/squads/d609edc0/2013-2014/Internazionale-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/2013-2014/Juventus-Stats
+Lazio,https://fbref.com/en/squads/7213da33/2013-2014/Lazio-Stats
+Livorno,https://fbref.com/en/squads/939201df/2013-2014/Livorno-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/2013-2014/Milan-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/2013-2014/Napoli-Stats
+Parma,https://fbref.com/en/squads/eab4234c/2013-2014/Parma-Stats
+Roma,https://fbref.com/en/squads/cf74a709/2013-2014/Roma-Stats
+Sampdoria,https://fbref.com/en/squads/8ff9e3b3/2013-2014/Sampdoria-Stats
+Sassuolo,https://fbref.com/en/squads/e2befd26/2013-2014/Sassuolo-Stats
+Torino,https://fbref.com/en/squads/105360fe/2013-2014/Torino-Stats
+Udinese,https://fbref.com/en/squads/04eea015/2013-2014/Udinese-Stats
+Atalanta,https://fbref.com/en/squads/922493f3/2014-2015/Atalanta-Stats
+Cagliari,https://fbref.com/en/squads/c4260e09/2014-2015/Cagliari-Stats
+Cesena,https://fbref.com/en/squads/283f2557/2014-2015/Cesena-Stats
+Chievo,https://fbref.com/en/squads/cc919b35/2014-2015/Chievo-Stats
+Empoli,https://fbref.com/en/squads/a3d88bd8/2014-2015/Empoli-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/2014-2015/Fiorentina-Stats
+Genoa,https://fbref.com/en/squads/658bf2de/2014-2015/Genoa-Stats
+Hellas Verona,https://fbref.com/en/squads/0e72edf2/2014-2015/Hellas-Verona-Stats
+Inter,https://fbref.com/en/squads/d609edc0/2014-2015/Internazionale-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/2014-2015/Juventus-Stats
+Lazio,https://fbref.com/en/squads/7213da33/2014-2015/Lazio-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/2014-2015/Milan-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/2014-2015/Napoli-Stats
+Palermo,https://fbref.com/en/squads/ee058a17/2014-2015/Palermo-Stats
+Parma,https://fbref.com/en/squads/eab4234c/2014-2015/Parma-Stats
+Roma,https://fbref.com/en/squads/cf74a709/2014-2015/Roma-Stats
+Sampdoria,https://fbref.com/en/squads/8ff9e3b3/2014-2015/Sampdoria-Stats
+Sassuolo,https://fbref.com/en/squads/e2befd26/2014-2015/Sassuolo-Stats
+Torino,https://fbref.com/en/squads/105360fe/2014-2015/Torino-Stats
+Udinese,https://fbref.com/en/squads/04eea015/2014-2015/Udinese-Stats
+Atalanta,https://fbref.com/en/squads/922493f3/2015-2016/Atalanta-Stats
+Bologna,https://fbref.com/en/squads/1d8099f8/2015-2016/Bologna-Stats
+Carpi,https://fbref.com/en/squads/71f07916/2015-2016/Carpi-Stats
+Chievo,https://fbref.com/en/squads/cc919b35/2015-2016/Chievo-Stats
+Empoli,https://fbref.com/en/squads/a3d88bd8/2015-2016/Empoli-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/2015-2016/Fiorentina-Stats
+Frosinone,https://fbref.com/en/squads/6a7ad59d/2015-2016/Frosinone-Stats
+Genoa,https://fbref.com/en/squads/658bf2de/2015-2016/Genoa-Stats
+Hellas Verona,https://fbref.com/en/squads/0e72edf2/2015-2016/Hellas-Verona-Stats
+Inter,https://fbref.com/en/squads/d609edc0/2015-2016/Internazionale-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/2015-2016/Juventus-Stats
+Lazio,https://fbref.com/en/squads/7213da33/2015-2016/Lazio-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/2015-2016/Milan-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/2015-2016/Napoli-Stats
+Palermo,https://fbref.com/en/squads/ee058a17/2015-2016/Palermo-Stats
+Roma,https://fbref.com/en/squads/cf74a709/2015-2016/Roma-Stats
+Sampdoria,https://fbref.com/en/squads/8ff9e3b3/2015-2016/Sampdoria-Stats
+Sassuolo,https://fbref.com/en/squads/e2befd26/2015-2016/Sassuolo-Stats
+Torino,https://fbref.com/en/squads/105360fe/2015-2016/Torino-Stats
+Udinese,https://fbref.com/en/squads/04eea015/2015-2016/Udinese-Stats
+Atalanta,https://fbref.com/en/squads/922493f3/2016-2017/Atalanta-Stats
+Bologna,https://fbref.com/en/squads/1d8099f8/2016-2017/Bologna-Stats
+Cagliari,https://fbref.com/en/squads/c4260e09/2016-2017/Cagliari-Stats
+Chievo,https://fbref.com/en/squads/cc919b35/2016-2017/Chievo-Stats
+Crotone,https://fbref.com/en/squads/3074d7b1/2016-2017/Crotone-Stats
+Empoli,https://fbref.com/en/squads/a3d88bd8/2016-2017/Empoli-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/2016-2017/Fiorentina-Stats
+Genoa,https://fbref.com/en/squads/658bf2de/2016-2017/Genoa-Stats
+Inter,https://fbref.com/en/squads/d609edc0/2016-2017/Internazionale-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/2016-2017/Juventus-Stats
+Lazio,https://fbref.com/en/squads/7213da33/2016-2017/Lazio-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/2016-2017/Milan-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/2016-2017/Napoli-Stats
+Palermo,https://fbref.com/en/squads/ee058a17/2016-2017/Palermo-Stats
+Pescara,https://fbref.com/en/squads/b985784c/2016-2017/Pescara-Stats
+Roma,https://fbref.com/en/squads/cf74a709/2016-2017/Roma-Stats
+Sampdoria,https://fbref.com/en/squads/8ff9e3b3/2016-2017/Sampdoria-Stats
+Sassuolo,https://fbref.com/en/squads/e2befd26/2016-2017/Sassuolo-Stats
+Torino,https://fbref.com/en/squads/105360fe/2016-2017/Torino-Stats
+Udinese,https://fbref.com/en/squads/04eea015/2016-2017/Udinese-Stats
+Atalanta,https://fbref.com/en/squads/922493f3/2017-2018/Atalanta-Stats
+Benevento,https://fbref.com/en/squads/4fcb34fd/2017-2018/Benevento-Stats
+Bologna,https://fbref.com/en/squads/1d8099f8/2017-2018/Bologna-Stats
+Cagliari,https://fbref.com/en/squads/c4260e09/2017-2018/Cagliari-Stats
+Chievo,https://fbref.com/en/squads/cc919b35/2017-2018/Chievo-Stats
+Crotone,https://fbref.com/en/squads/3074d7b1/2017-2018/Crotone-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/2017-2018/Fiorentina-Stats
+Genoa,https://fbref.com/en/squads/658bf2de/2017-2018/Genoa-Stats
+Hellas Verona,https://fbref.com/en/squads/0e72edf2/2017-2018/Hellas-Verona-Stats
+Inter,https://fbref.com/en/squads/d609edc0/2017-2018/Internazionale-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/2017-2018/Juventus-Stats
+Lazio,https://fbref.com/en/squads/7213da33/2017-2018/Lazio-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/2017-2018/Milan-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/2017-2018/Napoli-Stats
+Roma,https://fbref.com/en/squads/cf74a709/2017-2018/Roma-Stats
+Sampdoria,https://fbref.com/en/squads/8ff9e3b3/2017-2018/Sampdoria-Stats
+Sassuolo,https://fbref.com/en/squads/e2befd26/2017-2018/Sassuolo-Stats
+SPAL,https://fbref.com/en/squads/1d2fe027/2017-2018/SPAL-Stats
+Torino,https://fbref.com/en/squads/105360fe/2017-2018/Torino-Stats
+Udinese,https://fbref.com/en/squads/04eea015/2017-2018/Udinese-Stats
+Atalanta,https://fbref.com/en/squads/922493f3/2018-2019/Atalanta-Stats
+Bologna,https://fbref.com/en/squads/1d8099f8/2018-2019/Bologna-Stats
+Cagliari,https://fbref.com/en/squads/c4260e09/2018-2019/Cagliari-Stats
+Chievo,https://fbref.com/en/squads/cc919b35/2018-2019/Chievo-Stats
+Empoli,https://fbref.com/en/squads/a3d88bd8/2018-2019/Empoli-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/2018-2019/Fiorentina-Stats
+Frosinone,https://fbref.com/en/squads/6a7ad59d/2018-2019/Frosinone-Stats
+Genoa,https://fbref.com/en/squads/658bf2de/2018-2019/Genoa-Stats
+Inter,https://fbref.com/en/squads/d609edc0/2018-2019/Internazionale-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/2018-2019/Juventus-Stats
+Lazio,https://fbref.com/en/squads/7213da33/2018-2019/Lazio-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/2018-2019/Milan-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/2018-2019/Napoli-Stats
+Parma,https://fbref.com/en/squads/eab4234c/2018-2019/Parma-Stats
+Roma,https://fbref.com/en/squads/cf74a709/2018-2019/Roma-Stats
+Sampdoria,https://fbref.com/en/squads/8ff9e3b3/2018-2019/Sampdoria-Stats
+Sassuolo,https://fbref.com/en/squads/e2befd26/2018-2019/Sassuolo-Stats
+SPAL,https://fbref.com/en/squads/1d2fe027/2018-2019/SPAL-Stats
+Torino,https://fbref.com/en/squads/105360fe/2018-2019/Torino-Stats
+Udinese,https://fbref.com/en/squads/04eea015/2018-2019/Udinese-Stats
+Atalanta,https://fbref.com/en/squads/922493f3/2019-2020/Atalanta-Stats
+Bologna,https://fbref.com/en/squads/1d8099f8/2019-2020/Bologna-Stats
+Brescia,https://fbref.com/en/squads/4ef57aeb/2019-2020/Brescia-Stats
+Cagliari,https://fbref.com/en/squads/c4260e09/2019-2020/Cagliari-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/2019-2020/Fiorentina-Stats
+Genoa,https://fbref.com/en/squads/658bf2de/2019-2020/Genoa-Stats
+Hellas Verona,https://fbref.com/en/squads/0e72edf2/2019-2020/Hellas-Verona-Stats
+Inter,https://fbref.com/en/squads/d609edc0/2019-2020/Internazionale-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/2019-2020/Juventus-Stats
+Lazio,https://fbref.com/en/squads/7213da33/2019-2020/Lazio-Stats
+Lecce,https://fbref.com/en/squads/ffcbe334/2019-2020/Lecce-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/2019-2020/Milan-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/2019-2020/Napoli-Stats
+Parma,https://fbref.com/en/squads/eab4234c/2019-2020/Parma-Stats
+Roma,https://fbref.com/en/squads/cf74a709/2019-2020/Roma-Stats
+Sampdoria,https://fbref.com/en/squads/8ff9e3b3/2019-2020/Sampdoria-Stats
+Sassuolo,https://fbref.com/en/squads/e2befd26/2019-2020/Sassuolo-Stats
+SPAL,https://fbref.com/en/squads/1d2fe027/2019-2020/SPAL-Stats
+Torino,https://fbref.com/en/squads/105360fe/2019-2020/Torino-Stats
+Udinese,https://fbref.com/en/squads/04eea015/2019-2020/Udinese-Stats
+Atalanta,https://fbref.com/en/squads/922493f3/2020-2021/Atalanta-Stats
+Benevento,https://fbref.com/en/squads/4fcb34fd/2020-2021/Benevento-Stats
+Bologna,https://fbref.com/en/squads/1d8099f8/2020-2021/Bologna-Stats
+Cagliari,https://fbref.com/en/squads/c4260e09/2020-2021/Cagliari-Stats
+Crotone,https://fbref.com/en/squads/3074d7b1/2020-2021/Crotone-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/2020-2021/Fiorentina-Stats
+Genoa,https://fbref.com/en/squads/658bf2de/2020-2021/Genoa-Stats
+Hellas Verona,https://fbref.com/en/squads/0e72edf2/2020-2021/Hellas-Verona-Stats
+Inter,https://fbref.com/en/squads/d609edc0/2020-2021/Internazionale-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/2020-2021/Juventus-Stats
+Lazio,https://fbref.com/en/squads/7213da33/2020-2021/Lazio-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/2020-2021/Milan-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/2020-2021/Napoli-Stats
+Parma,https://fbref.com/en/squads/eab4234c/2020-2021/Parma-Stats
+Roma,https://fbref.com/en/squads/cf74a709/2020-2021/Roma-Stats
+Sampdoria,https://fbref.com/en/squads/8ff9e3b3/2020-2021/Sampdoria-Stats
+Sassuolo,https://fbref.com/en/squads/e2befd26/2020-2021/Sassuolo-Stats
+Spezia,https://fbref.com/en/squads/68449f6d/2020-2021/Spezia-Stats
+Torino,https://fbref.com/en/squads/105360fe/2020-2021/Torino-Stats
+Udinese,https://fbref.com/en/squads/04eea015/2020-2021/Udinese-Stats
+Atalanta,https://fbref.com/en/squads/922493f3/2021-2022/Atalanta-Stats
+Bologna,https://fbref.com/en/squads/1d8099f8/2021-2022/Bologna-Stats
+Cagliari,https://fbref.com/en/squads/c4260e09/2021-2022/Cagliari-Stats
+Empoli,https://fbref.com/en/squads/a3d88bd8/2021-2022/Empoli-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/2021-2022/Fiorentina-Stats
+Genoa,https://fbref.com/en/squads/658bf2de/2021-2022/Genoa-Stats
+Hellas Verona,https://fbref.com/en/squads/0e72edf2/2021-2022/Hellas-Verona-Stats
+Inter,https://fbref.com/en/squads/d609edc0/2021-2022/Internazionale-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/2021-2022/Juventus-Stats
+Lazio,https://fbref.com/en/squads/7213da33/2021-2022/Lazio-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/2021-2022/Milan-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/2021-2022/Napoli-Stats
+Roma,https://fbref.com/en/squads/cf74a709/2021-2022/Roma-Stats
+Salernitana,https://fbref.com/en/squads/c5577084/2021-2022/Salernitana-Stats
+Sampdoria,https://fbref.com/en/squads/8ff9e3b3/2021-2022/Sampdoria-Stats
+Sassuolo,https://fbref.com/en/squads/e2befd26/2021-2022/Sassuolo-Stats
+Spezia,https://fbref.com/en/squads/68449f6d/2021-2022/Spezia-Stats
+Torino,https://fbref.com/en/squads/105360fe/2021-2022/Torino-Stats
+Udinese,https://fbref.com/en/squads/04eea015/2021-2022/Udinese-Stats
+Venezia,https://fbref.com/en/squads/af5d5982/2021-2022/Venezia-Stats
+Atalanta,https://fbref.com/en/squads/922493f3/2022-2023/Atalanta-Stats
+Bologna,https://fbref.com/en/squads/1d8099f8/2022-2023/Bologna-Stats
+Cremonese,https://fbref.com/en/squads/9aad3a77/2022-2023/Cremonese-Stats
+Empoli,https://fbref.com/en/squads/a3d88bd8/2022-2023/Empoli-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/2022-2023/Fiorentina-Stats
+Hellas Verona,https://fbref.com/en/squads/0e72edf2/2022-2023/Hellas-Verona-Stats
+Inter,https://fbref.com/en/squads/d609edc0/2022-2023/Internazionale-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/2022-2023/Juventus-Stats
+Lazio,https://fbref.com/en/squads/7213da33/2022-2023/Lazio-Stats
+Lecce,https://fbref.com/en/squads/ffcbe334/2022-2023/Lecce-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/2022-2023/Milan-Stats
+Monza,https://fbref.com/en/squads/21680aa4/2022-2023/Monza-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/2022-2023/Napoli-Stats
+Roma,https://fbref.com/en/squads/cf74a709/2022-2023/Roma-Stats
+Salernitana,https://fbref.com/en/squads/c5577084/2022-2023/Salernitana-Stats
+Sampdoria,https://fbref.com/en/squads/8ff9e3b3/2022-2023/Sampdoria-Stats
+Sassuolo,https://fbref.com/en/squads/e2befd26/2022-2023/Sassuolo-Stats
+Spezia,https://fbref.com/en/squads/68449f6d/2022-2023/Spezia-Stats
+Torino,https://fbref.com/en/squads/105360fe/2022-2023/Torino-Stats
+Udinese,https://fbref.com/en/squads/04eea015/2022-2023/Udinese-Stats
+Atalanta,https://fbref.com/en/squads/922493f3/2023-2024/Atalanta-Stats
+Bologna,https://fbref.com/en/squads/1d8099f8/2023-2024/Bologna-Stats
+Cagliari,https://fbref.com/en/squads/c4260e09/2023-2024/Cagliari-Stats
+Empoli,https://fbref.com/en/squads/a3d88bd8/2023-2024/Empoli-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/2023-2024/Fiorentina-Stats
+Frosinone,https://fbref.com/en/squads/6a7ad59d/2023-2024/Frosinone-Stats
+Genoa,https://fbref.com/en/squads/658bf2de/2023-2024/Genoa-Stats
+Hellas Verona,https://fbref.com/en/squads/0e72edf2/2023-2024/Hellas-Verona-Stats
+Inter,https://fbref.com/en/squads/d609edc0/2023-2024/Internazionale-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/2023-2024/Juventus-Stats
+Lazio,https://fbref.com/en/squads/7213da33/2023-2024/Lazio-Stats
+Lecce,https://fbref.com/en/squads/ffcbe334/2023-2024/Lecce-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/2023-2024/Milan-Stats
+Monza,https://fbref.com/en/squads/21680aa4/2023-2024/Monza-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/2023-2024/Napoli-Stats
+Roma,https://fbref.com/en/squads/cf74a709/2023-2024/Roma-Stats
+Salernitana,https://fbref.com/en/squads/c5577084/2023-2024/Salernitana-Stats
+Sassuolo,https://fbref.com/en/squads/e2befd26/2023-2024/Sassuolo-Stats
+Torino,https://fbref.com/en/squads/105360fe/2023-2024/Torino-Stats
+Udinese,https://fbref.com/en/squads/04eea015/2023-2024/Udinese-Stats
+Atalanta,https://fbref.com/en/squads/922493f3/Atalanta-Stats
+Bologna,https://fbref.com/en/squads/1d8099f8/Bologna-Stats
+Cagliari,https://fbref.com/en/squads/c4260e09/Cagliari-Stats
+Como,https://fbref.com/en/squads/28c9c3cd/Como-Stats
+Empoli,https://fbref.com/en/squads/a3d88bd8/Empoli-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/Fiorentina-Stats
+Genoa,https://fbref.com/en/squads/658bf2de/Genoa-Stats
+Hellas Verona,https://fbref.com/en/squads/0e72edf2/Hellas-Verona-Stats
+Inter,https://fbref.com/en/squads/d609edc0/Internazionale-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/Juventus-Stats
+Lazio,https://fbref.com/en/squads/7213da33/Lazio-Stats
+Lecce,https://fbref.com/en/squads/ffcbe334/Lecce-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/Milan-Stats
+Monza,https://fbref.com/en/squads/21680aa4/Monza-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/Napoli-Stats
+Parma,https://fbref.com/en/squads/eab4234c/Parma-Stats
+Roma,https://fbref.com/en/squads/cf74a709/Roma-Stats
+Torino,https://fbref.com/en/squads/105360fe/Torino-Stats
+Udinese,https://fbref.com/en/squads/04eea015/Udinese-Stats
+Venezia,https://fbref.com/en/squads/af5d5982/Venezia-Stats
+Arles-Avignon,https://fbref.com/en/squads/e95faa7f/2010-2011/Arles-Avignon-Stats
+Auxerre,https://fbref.com/en/squads/5ae09109/2010-2011/Auxerre-Stats
+Bordeaux,https://fbref.com/en/squads/123f3efe/2010-2011/Bordeaux-Stats
+Brest,https://fbref.com/en/squads/fb08dbb3/2010-2011/Brest-Stats
+Caen,https://fbref.com/en/squads/74229020/2010-2011/Caen-Stats
+Lens,https://fbref.com/en/squads/fd4e0f7d/2010-2011/Lens-Stats
+Lille,https://fbref.com/en/squads/cb188c0c/2010-2011/Lille-Stats
+Lorient,https://fbref.com/en/squads/d2c87802/2010-2011/Lorient-Stats
+Lyon,https://fbref.com/en/squads/d53c0b06/2010-2011/Lyon-Stats
+Marseille,https://fbref.com/en/squads/5725cc7b/2010-2011/Marseille-Stats
+Monaco,https://fbref.com/en/squads/fd6114db/2010-2011/Monaco-Stats
+Montpellier,https://fbref.com/en/squads/281b0e73/2010-2011/Montpellier-Stats
+Nancy,https://fbref.com/en/squads/e88fc6e5/2010-2011/Nancy-Stats
+Nice,https://fbref.com/en/squads/132ebc33/2010-2011/Nice-Stats
+Paris S-G,https://fbref.com/en/squads/e2d8892c/2010-2011/Paris-Saint-Germain-Stats
+Rennes,https://fbref.com/en/squads/b3072e00/2010-2011/Rennes-Stats
+Saint-Étienne,https://fbref.com/en/squads/d298ef2c/2010-2011/Saint-Etienne-Stats
+Sochaux,https://fbref.com/en/squads/b9cd3c9a/2010-2011/Sochaux-Stats
+Toulouse,https://fbref.com/en/squads/3f8c4b5f/2010-2011/Toulouse-Stats
+Valenciennes,https://fbref.com/en/squads/259d3345/2010-2011/Valenciennes-Stats
+Ajaccio,https://fbref.com/en/squads/7a54bb4f/2011-2012/Ajaccio-Stats
+Auxerre,https://fbref.com/en/squads/5ae09109/2011-2012/Auxerre-Stats
+Bordeaux,https://fbref.com/en/squads/123f3efe/2011-2012/Bordeaux-Stats
+Brest,https://fbref.com/en/squads/fb08dbb3/2011-2012/Brest-Stats
+Caen,https://fbref.com/en/squads/74229020/2011-2012/Caen-Stats
+Dijon,https://fbref.com/en/squads/8dfb7350/2011-2012/Dijon-Stats
+Evian,https://fbref.com/en/squads/633fbb6e/2011-2012/Evian-Stats
+Lille,https://fbref.com/en/squads/cb188c0c/2011-2012/Lille-Stats
+Lorient,https://fbref.com/en/squads/d2c87802/2011-2012/Lorient-Stats
+Lyon,https://fbref.com/en/squads/d53c0b06/2011-2012/Lyon-Stats
+Marseille,https://fbref.com/en/squads/5725cc7b/2011-2012/Marseille-Stats
+Montpellier,https://fbref.com/en/squads/281b0e73/2011-2012/Montpellier-Stats
+Nancy,https://fbref.com/en/squads/e88fc6e5/2011-2012/Nancy-Stats
+Nice,https://fbref.com/en/squads/132ebc33/2011-2012/Nice-Stats
+Paris S-G,https://fbref.com/en/squads/e2d8892c/2011-2012/Paris-Saint-Germain-Stats
+Rennes,https://fbref.com/en/squads/b3072e00/2011-2012/Rennes-Stats
+Saint-Étienne,https://fbref.com/en/squads/d298ef2c/2011-2012/Saint-Etienne-Stats
+Sochaux,https://fbref.com/en/squads/b9cd3c9a/2011-2012/Sochaux-Stats
+Toulouse,https://fbref.com/en/squads/3f8c4b5f/2011-2012/Toulouse-Stats
+Valenciennes,https://fbref.com/en/squads/259d3345/2011-2012/Valenciennes-Stats
+Ajaccio,https://fbref.com/en/squads/7a54bb4f/2012-2013/Ajaccio-Stats
+Bastia,https://fbref.com/en/squads/6283be2c/2012-2013/Bastia-Stats
+Bordeaux,https://fbref.com/en/squads/123f3efe/2012-2013/Bordeaux-Stats
+Brest,https://fbref.com/en/squads/fb08dbb3/2012-2013/Brest-Stats
+Evian,https://fbref.com/en/squads/633fbb6e/2012-2013/Evian-Stats
+Lille,https://fbref.com/en/squads/cb188c0c/2012-2013/Lille-Stats
+Lorient,https://fbref.com/en/squads/d2c87802/2012-2013/Lorient-Stats
+Lyon,https://fbref.com/en/squads/d53c0b06/2012-2013/Lyon-Stats
+Marseille,https://fbref.com/en/squads/5725cc7b/2012-2013/Marseille-Stats
+Montpellier,https://fbref.com/en/squads/281b0e73/2012-2013/Montpellier-Stats
+Nancy,https://fbref.com/en/squads/e88fc6e5/2012-2013/Nancy-Stats
+Nice,https://fbref.com/en/squads/132ebc33/2012-2013/Nice-Stats
+Paris S-G,https://fbref.com/en/squads/e2d8892c/2012-2013/Paris-Saint-Germain-Stats
+Reims,https://fbref.com/en/squads/7fdd64e0/2012-2013/Reims-Stats
+Rennes,https://fbref.com/en/squads/b3072e00/2012-2013/Rennes-Stats
+Saint-Étienne,https://fbref.com/en/squads/d298ef2c/2012-2013/Saint-Etienne-Stats
+Sochaux,https://fbref.com/en/squads/b9cd3c9a/2012-2013/Sochaux-Stats
+Toulouse,https://fbref.com/en/squads/3f8c4b5f/2012-2013/Toulouse-Stats
+Troyes,https://fbref.com/en/squads/54195385/2012-2013/Troyes-Stats
+Valenciennes,https://fbref.com/en/squads/259d3345/2012-2013/Valenciennes-Stats
+Ajaccio,https://fbref.com/en/squads/7a54bb4f/2013-2014/Ajaccio-Stats
+Bastia,https://fbref.com/en/squads/6283be2c/2013-2014/Bastia-Stats
+Bordeaux,https://fbref.com/en/squads/123f3efe/2013-2014/Bordeaux-Stats
+Evian,https://fbref.com/en/squads/633fbb6e/2013-2014/Evian-Stats
+Guingamp,https://fbref.com/en/squads/d41b5f53/2013-2014/Guingamp-Stats
+Lille,https://fbref.com/en/squads/cb188c0c/2013-2014/Lille-Stats
+Lorient,https://fbref.com/en/squads/d2c87802/2013-2014/Lorient-Stats
+Lyon,https://fbref.com/en/squads/d53c0b06/2013-2014/Lyon-Stats
+Marseille,https://fbref.com/en/squads/5725cc7b/2013-2014/Marseille-Stats
+Monaco,https://fbref.com/en/squads/fd6114db/2013-2014/Monaco-Stats
+Montpellier,https://fbref.com/en/squads/281b0e73/2013-2014/Montpellier-Stats
+Nantes,https://fbref.com/en/squads/d7a486cd/2013-2014/Nantes-Stats
+Nice,https://fbref.com/en/squads/132ebc33/2013-2014/Nice-Stats
+Paris S-G,https://fbref.com/en/squads/e2d8892c/2013-2014/Paris-Saint-Germain-Stats
+Reims,https://fbref.com/en/squads/7fdd64e0/2013-2014/Reims-Stats
+Rennes,https://fbref.com/en/squads/b3072e00/2013-2014/Rennes-Stats
+Saint-Étienne,https://fbref.com/en/squads/d298ef2c/2013-2014/Saint-Etienne-Stats
+Sochaux,https://fbref.com/en/squads/b9cd3c9a/2013-2014/Sochaux-Stats
+Toulouse,https://fbref.com/en/squads/3f8c4b5f/2013-2014/Toulouse-Stats
+Valenciennes,https://fbref.com/en/squads/259d3345/2013-2014/Valenciennes-Stats
+Bastia,https://fbref.com/en/squads/6283be2c/2014-2015/Bastia-Stats
+Bordeaux,https://fbref.com/en/squads/123f3efe/2014-2015/Bordeaux-Stats
+Caen,https://fbref.com/en/squads/74229020/2014-2015/Caen-Stats
+Evian,https://fbref.com/en/squads/633fbb6e/2014-2015/Evian-Stats
+Guingamp,https://fbref.com/en/squads/d41b5f53/2014-2015/Guingamp-Stats
+Lens,https://fbref.com/en/squads/fd4e0f7d/2014-2015/Lens-Stats
+Lille,https://fbref.com/en/squads/cb188c0c/2014-2015/Lille-Stats
+Lorient,https://fbref.com/en/squads/d2c87802/2014-2015/Lorient-Stats
+Lyon,https://fbref.com/en/squads/d53c0b06/2014-2015/Lyon-Stats
+Marseille,https://fbref.com/en/squads/5725cc7b/2014-2015/Marseille-Stats
+Metz,https://fbref.com/en/squads/f83960ae/2014-2015/Metz-Stats
+Monaco,https://fbref.com/en/squads/fd6114db/2014-2015/Monaco-Stats
+Montpellier,https://fbref.com/en/squads/281b0e73/2014-2015/Montpellier-Stats
+Nantes,https://fbref.com/en/squads/d7a486cd/2014-2015/Nantes-Stats
+Nice,https://fbref.com/en/squads/132ebc33/2014-2015/Nice-Stats
+Paris S-G,https://fbref.com/en/squads/e2d8892c/2014-2015/Paris-Saint-Germain-Stats
+Reims,https://fbref.com/en/squads/7fdd64e0/2014-2015/Reims-Stats
+Rennes,https://fbref.com/en/squads/b3072e00/2014-2015/Rennes-Stats
+Saint-Étienne,https://fbref.com/en/squads/d298ef2c/2014-2015/Saint-Etienne-Stats
+Toulouse,https://fbref.com/en/squads/3f8c4b5f/2014-2015/Toulouse-Stats
+Angers,https://fbref.com/en/squads/69236f98/2015-2016/Angers-Stats
+Bastia,https://fbref.com/en/squads/6283be2c/2015-2016/Bastia-Stats
+Bordeaux,https://fbref.com/en/squads/123f3efe/2015-2016/Bordeaux-Stats
+Caen,https://fbref.com/en/squads/74229020/2015-2016/Caen-Stats
+Gazélec Ajaccio,https://fbref.com/en/squads/73905dde/2015-2016/Gazelec-Ajaccio-Stats
+Guingamp,https://fbref.com/en/squads/d41b5f53/2015-2016/Guingamp-Stats
+Lille,https://fbref.com/en/squads/cb188c0c/2015-2016/Lille-Stats
+Lorient,https://fbref.com/en/squads/d2c87802/2015-2016/Lorient-Stats
+Lyon,https://fbref.com/en/squads/d53c0b06/2015-2016/Lyon-Stats
+Marseille,https://fbref.com/en/squads/5725cc7b/2015-2016/Marseille-Stats
+Monaco,https://fbref.com/en/squads/fd6114db/2015-2016/Monaco-Stats
+Montpellier,https://fbref.com/en/squads/281b0e73/2015-2016/Montpellier-Stats
+Nantes,https://fbref.com/en/squads/d7a486cd/2015-2016/Nantes-Stats
+Nice,https://fbref.com/en/squads/132ebc33/2015-2016/Nice-Stats
+Paris S-G,https://fbref.com/en/squads/e2d8892c/2015-2016/Paris-Saint-Germain-Stats
+Reims,https://fbref.com/en/squads/7fdd64e0/2015-2016/Reims-Stats
+Rennes,https://fbref.com/en/squads/b3072e00/2015-2016/Rennes-Stats
+Saint-Étienne,https://fbref.com/en/squads/d298ef2c/2015-2016/Saint-Etienne-Stats
+Toulouse,https://fbref.com/en/squads/3f8c4b5f/2015-2016/Toulouse-Stats
+Troyes,https://fbref.com/en/squads/54195385/2015-2016/Troyes-Stats
+Angers,https://fbref.com/en/squads/69236f98/2016-2017/Angers-Stats
+Bastia,https://fbref.com/en/squads/6283be2c/2016-2017/Bastia-Stats
+Bordeaux,https://fbref.com/en/squads/123f3efe/2016-2017/Bordeaux-Stats
+Caen,https://fbref.com/en/squads/74229020/2016-2017/Caen-Stats
+Dijon,https://fbref.com/en/squads/8dfb7350/2016-2017/Dijon-Stats
+Guingamp,https://fbref.com/en/squads/d41b5f53/2016-2017/Guingamp-Stats
+Lille,https://fbref.com/en/squads/cb188c0c/2016-2017/Lille-Stats
+Lorient,https://fbref.com/en/squads/d2c87802/2016-2017/Lorient-Stats
+Lyon,https://fbref.com/en/squads/d53c0b06/2016-2017/Lyon-Stats
+Marseille,https://fbref.com/en/squads/5725cc7b/2016-2017/Marseille-Stats
+Metz,https://fbref.com/en/squads/f83960ae/2016-2017/Metz-Stats
+Monaco,https://fbref.com/en/squads/fd6114db/2016-2017/Monaco-Stats
+Montpellier,https://fbref.com/en/squads/281b0e73/2016-2017/Montpellier-Stats
+Nancy,https://fbref.com/en/squads/e88fc6e5/2016-2017/Nancy-Stats
+Nantes,https://fbref.com/en/squads/d7a486cd/2016-2017/Nantes-Stats
+Nice,https://fbref.com/en/squads/132ebc33/2016-2017/Nice-Stats
+Paris S-G,https://fbref.com/en/squads/e2d8892c/2016-2017/Paris-Saint-Germain-Stats
+Rennes,https://fbref.com/en/squads/b3072e00/2016-2017/Rennes-Stats
+Saint-Étienne,https://fbref.com/en/squads/d298ef2c/2016-2017/Saint-Etienne-Stats
+Toulouse,https://fbref.com/en/squads/3f8c4b5f/2016-2017/Toulouse-Stats
+Amiens,https://fbref.com/en/squads/25622401/2017-2018/Amiens-Stats
+Angers,https://fbref.com/en/squads/69236f98/2017-2018/Angers-Stats
+Bordeaux,https://fbref.com/en/squads/123f3efe/2017-2018/Bordeaux-Stats
+Caen,https://fbref.com/en/squads/74229020/2017-2018/Caen-Stats
+Dijon,https://fbref.com/en/squads/8dfb7350/2017-2018/Dijon-Stats
+Guingamp,https://fbref.com/en/squads/d41b5f53/2017-2018/Guingamp-Stats
+Lille,https://fbref.com/en/squads/cb188c0c/2017-2018/Lille-Stats
+Lyon,https://fbref.com/en/squads/d53c0b06/2017-2018/Lyon-Stats
+Marseille,https://fbref.com/en/squads/5725cc7b/2017-2018/Marseille-Stats
+Metz,https://fbref.com/en/squads/f83960ae/2017-2018/Metz-Stats
+Monaco,https://fbref.com/en/squads/fd6114db/2017-2018/Monaco-Stats
+Montpellier,https://fbref.com/en/squads/281b0e73/2017-2018/Montpellier-Stats
+Nantes,https://fbref.com/en/squads/d7a486cd/2017-2018/Nantes-Stats
+Nice,https://fbref.com/en/squads/132ebc33/2017-2018/Nice-Stats
+Paris S-G,https://fbref.com/en/squads/e2d8892c/2017-2018/Paris-Saint-Germain-Stats
+Rennes,https://fbref.com/en/squads/b3072e00/2017-2018/Rennes-Stats
+Saint-Étienne,https://fbref.com/en/squads/d298ef2c/2017-2018/Saint-Etienne-Stats
+Strasbourg,https://fbref.com/en/squads/c0d3eab4/2017-2018/Strasbourg-Stats
+Toulouse,https://fbref.com/en/squads/3f8c4b5f/2017-2018/Toulouse-Stats
+Troyes,https://fbref.com/en/squads/54195385/2017-2018/Troyes-Stats
+Amiens,https://fbref.com/en/squads/25622401/2018-2019/Amiens-Stats
+Angers,https://fbref.com/en/squads/69236f98/2018-2019/Angers-Stats
+Bordeaux,https://fbref.com/en/squads/123f3efe/2018-2019/Bordeaux-Stats
+Caen,https://fbref.com/en/squads/74229020/2018-2019/Caen-Stats
+Dijon,https://fbref.com/en/squads/8dfb7350/2018-2019/Dijon-Stats
+Guingamp,https://fbref.com/en/squads/d41b5f53/2018-2019/Guingamp-Stats
+Lille,https://fbref.com/en/squads/cb188c0c/2018-2019/Lille-Stats
+Lyon,https://fbref.com/en/squads/d53c0b06/2018-2019/Lyon-Stats
+Marseille,https://fbref.com/en/squads/5725cc7b/2018-2019/Marseille-Stats
+Monaco,https://fbref.com/en/squads/fd6114db/2018-2019/Monaco-Stats
+Montpellier,https://fbref.com/en/squads/281b0e73/2018-2019/Montpellier-Stats
+Nantes,https://fbref.com/en/squads/d7a486cd/2018-2019/Nantes-Stats
+Nice,https://fbref.com/en/squads/132ebc33/2018-2019/Nice-Stats
+Nîmes,https://fbref.com/en/squads/1cbf5f9e/2018-2019/Nimes-Stats
+Paris S-G,https://fbref.com/en/squads/e2d8892c/2018-2019/Paris-Saint-Germain-Stats
+Reims,https://fbref.com/en/squads/7fdd64e0/2018-2019/Reims-Stats
+Rennes,https://fbref.com/en/squads/b3072e00/2018-2019/Rennes-Stats
+Saint-Étienne,https://fbref.com/en/squads/d298ef2c/2018-2019/Saint-Etienne-Stats
+Strasbourg,https://fbref.com/en/squads/c0d3eab4/2018-2019/Strasbourg-Stats
+Toulouse,https://fbref.com/en/squads/3f8c4b5f/2018-2019/Toulouse-Stats
+Amiens,https://fbref.com/en/squads/25622401/2019-2020/Amiens-Stats
+Angers,https://fbref.com/en/squads/69236f98/2019-2020/Angers-Stats
+Bordeaux,https://fbref.com/en/squads/123f3efe/2019-2020/Bordeaux-Stats
+Brest,https://fbref.com/en/squads/fb08dbb3/2019-2020/Brest-Stats
+Dijon,https://fbref.com/en/squads/8dfb7350/2019-2020/Dijon-Stats
+Lille,https://fbref.com/en/squads/cb188c0c/2019-2020/Lille-Stats
+Lyon,https://fbref.com/en/squads/d53c0b06/2019-2020/Lyon-Stats
+Marseille,https://fbref.com/en/squads/5725cc7b/2019-2020/Marseille-Stats
+Metz,https://fbref.com/en/squads/f83960ae/2019-2020/Metz-Stats
+Monaco,https://fbref.com/en/squads/fd6114db/2019-2020/Monaco-Stats
+Montpellier,https://fbref.com/en/squads/281b0e73/2019-2020/Montpellier-Stats
+Nantes,https://fbref.com/en/squads/d7a486cd/2019-2020/Nantes-Stats
+Nice,https://fbref.com/en/squads/132ebc33/2019-2020/Nice-Stats
+Nîmes,https://fbref.com/en/squads/1cbf5f9e/2019-2020/Nimes-Stats
+Paris S-G,https://fbref.com/en/squads/e2d8892c/2019-2020/Paris-Saint-Germain-Stats
+Reims,https://fbref.com/en/squads/7fdd64e0/2019-2020/Reims-Stats
+Rennes,https://fbref.com/en/squads/b3072e00/2019-2020/Rennes-Stats
+Saint-Étienne,https://fbref.com/en/squads/d298ef2c/2019-2020/Saint-Etienne-Stats
+Strasbourg,https://fbref.com/en/squads/c0d3eab4/2019-2020/Strasbourg-Stats
+Toulouse,https://fbref.com/en/squads/3f8c4b5f/2019-2020/Toulouse-Stats
+Angers,https://fbref.com/en/squads/69236f98/2020-2021/Angers-Stats
+Bordeaux,https://fbref.com/en/squads/123f3efe/2020-2021/Bordeaux-Stats
+Brest,https://fbref.com/en/squads/fb08dbb3/2020-2021/Brest-Stats
+Dijon,https://fbref.com/en/squads/8dfb7350/2020-2021/Dijon-Stats
+Lens,https://fbref.com/en/squads/fd4e0f7d/2020-2021/Lens-Stats
+Lille,https://fbref.com/en/squads/cb188c0c/2020-2021/Lille-Stats
+Lorient,https://fbref.com/en/squads/d2c87802/2020-2021/Lorient-Stats
+Lyon,https://fbref.com/en/squads/d53c0b06/2020-2021/Lyon-Stats
+Marseille,https://fbref.com/en/squads/5725cc7b/2020-2021/Marseille-Stats
+Metz,https://fbref.com/en/squads/f83960ae/2020-2021/Metz-Stats
+Monaco,https://fbref.com/en/squads/fd6114db/2020-2021/Monaco-Stats
+Montpellier,https://fbref.com/en/squads/281b0e73/2020-2021/Montpellier-Stats
+Nantes,https://fbref.com/en/squads/d7a486cd/2020-2021/Nantes-Stats
+Nice,https://fbref.com/en/squads/132ebc33/2020-2021/Nice-Stats
+Nîmes,https://fbref.com/en/squads/1cbf5f9e/2020-2021/Nimes-Stats
+Paris S-G,https://fbref.com/en/squads/e2d8892c/2020-2021/Paris-Saint-Germain-Stats
+Reims,https://fbref.com/en/squads/7fdd64e0/2020-2021/Reims-Stats
+Rennes,https://fbref.com/en/squads/b3072e00/2020-2021/Rennes-Stats
+Saint-Étienne,https://fbref.com/en/squads/d298ef2c/2020-2021/Saint-Etienne-Stats
+Strasbourg,https://fbref.com/en/squads/c0d3eab4/2020-2021/Strasbourg-Stats
+Angers,https://fbref.com/en/squads/69236f98/2021-2022/Angers-Stats
+Bordeaux,https://fbref.com/en/squads/123f3efe/2021-2022/Bordeaux-Stats
+Brest,https://fbref.com/en/squads/fb08dbb3/2021-2022/Brest-Stats
+Clermont Foot,https://fbref.com/en/squads/d9676424/2021-2022/Clermont-Foot-Stats
+Lens,https://fbref.com/en/squads/fd4e0f7d/2021-2022/Lens-Stats
+Lille,https://fbref.com/en/squads/cb188c0c/2021-2022/Lille-Stats
+Lorient,https://fbref.com/en/squads/d2c87802/2021-2022/Lorient-Stats
+Lyon,https://fbref.com/en/squads/d53c0b06/2021-2022/Lyon-Stats
+Marseille,https://fbref.com/en/squads/5725cc7b/2021-2022/Marseille-Stats
+Metz,https://fbref.com/en/squads/f83960ae/2021-2022/Metz-Stats
+Monaco,https://fbref.com/en/squads/fd6114db/2021-2022/Monaco-Stats
+Montpellier,https://fbref.com/en/squads/281b0e73/2021-2022/Montpellier-Stats
+Nantes,https://fbref.com/en/squads/d7a486cd/2021-2022/Nantes-Stats
+Nice,https://fbref.com/en/squads/132ebc33/2021-2022/Nice-Stats
+Paris S-G,https://fbref.com/en/squads/e2d8892c/2021-2022/Paris-Saint-Germain-Stats
+Reims,https://fbref.com/en/squads/7fdd64e0/2021-2022/Reims-Stats
+Rennes,https://fbref.com/en/squads/b3072e00/2021-2022/Rennes-Stats
+Saint-Étienne,https://fbref.com/en/squads/d298ef2c/2021-2022/Saint-Etienne-Stats
+Strasbourg,https://fbref.com/en/squads/c0d3eab4/2021-2022/Strasbourg-Stats
+Troyes,https://fbref.com/en/squads/54195385/2021-2022/Troyes-Stats
+Ajaccio,https://fbref.com/en/squads/7a54bb4f/2022-2023/Ajaccio-Stats
+Angers,https://fbref.com/en/squads/69236f98/2022-2023/Angers-Stats
+Auxerre,https://fbref.com/en/squads/5ae09109/2022-2023/Auxerre-Stats
+Brest,https://fbref.com/en/squads/fb08dbb3/2022-2023/Brest-Stats
+Clermont Foot,https://fbref.com/en/squads/d9676424/2022-2023/Clermont-Foot-Stats
+Lens,https://fbref.com/en/squads/fd4e0f7d/2022-2023/Lens-Stats
+Lille,https://fbref.com/en/squads/cb188c0c/2022-2023/Lille-Stats
+Lorient,https://fbref.com/en/squads/d2c87802/2022-2023/Lorient-Stats
+Lyon,https://fbref.com/en/squads/d53c0b06/2022-2023/Lyon-Stats
+Marseille,https://fbref.com/en/squads/5725cc7b/2022-2023/Marseille-Stats
+Monaco,https://fbref.com/en/squads/fd6114db/2022-2023/Monaco-Stats
+Montpellier,https://fbref.com/en/squads/281b0e73/2022-2023/Montpellier-Stats
+Nantes,https://fbref.com/en/squads/d7a486cd/2022-2023/Nantes-Stats
+Nice,https://fbref.com/en/squads/132ebc33/2022-2023/Nice-Stats
+Paris S-G,https://fbref.com/en/squads/e2d8892c/2022-2023/Paris-Saint-Germain-Stats
+Reims,https://fbref.com/en/squads/7fdd64e0/2022-2023/Reims-Stats
+Rennes,https://fbref.com/en/squads/b3072e00/2022-2023/Rennes-Stats
+Strasbourg,https://fbref.com/en/squads/c0d3eab4/2022-2023/Strasbourg-Stats
+Toulouse,https://fbref.com/en/squads/3f8c4b5f/2022-2023/Toulouse-Stats
+Troyes,https://fbref.com/en/squads/54195385/2022-2023/Troyes-Stats
+Brest,https://fbref.com/en/squads/fb08dbb3/2023-2024/Brest-Stats
+Clermont Foot,https://fbref.com/en/squads/d9676424/2023-2024/Clermont-Foot-Stats
+Le Havre,https://fbref.com/en/squads/5c2737db/2023-2024/Le-Havre-Stats
+Lens,https://fbref.com/en/squads/fd4e0f7d/2023-2024/Lens-Stats
+Lille,https://fbref.com/en/squads/cb188c0c/2023-2024/Lille-Stats
+Lorient,https://fbref.com/en/squads/d2c87802/2023-2024/Lorient-Stats
+Lyon,https://fbref.com/en/squads/d53c0b06/2023-2024/Lyon-Stats
+Marseille,https://fbref.com/en/squads/5725cc7b/2023-2024/Marseille-Stats
+Metz,https://fbref.com/en/squads/f83960ae/2023-2024/Metz-Stats
+Monaco,https://fbref.com/en/squads/fd6114db/2023-2024/Monaco-Stats
+Montpellier,https://fbref.com/en/squads/281b0e73/2023-2024/Montpellier-Stats
+Nantes,https://fbref.com/en/squads/d7a486cd/2023-2024/Nantes-Stats
+Nice,https://fbref.com/en/squads/132ebc33/2023-2024/Nice-Stats
+Paris S-G,https://fbref.com/en/squads/e2d8892c/2023-2024/Paris-Saint-Germain-Stats
+Reims,https://fbref.com/en/squads/7fdd64e0/2023-2024/Reims-Stats
+Rennes,https://fbref.com/en/squads/b3072e00/2023-2024/Rennes-Stats
+Strasbourg,https://fbref.com/en/squads/c0d3eab4/2023-2024/Strasbourg-Stats
+Toulouse,https://fbref.com/en/squads/3f8c4b5f/2023-2024/Toulouse-Stats
+Angers,https://fbref.com/en/squads/69236f98/Angers-Stats
+Auxerre,https://fbref.com/en/squads/5ae09109/Auxerre-Stats
+Brest,https://fbref.com/en/squads/fb08dbb3/Brest-Stats
+Le Havre,https://fbref.com/en/squads/5c2737db/Le-Havre-Stats
+Lens,https://fbref.com/en/squads/fd4e0f7d/Lens-Stats
+Lille,https://fbref.com/en/squads/cb188c0c/Lille-Stats
+Lyon,https://fbref.com/en/squads/d53c0b06/Lyon-Stats
+Marseille,https://fbref.com/en/squads/5725cc7b/Marseille-Stats
+Monaco,https://fbref.com/en/squads/fd6114db/Monaco-Stats
+Montpellier,https://fbref.com/en/squads/281b0e73/Montpellier-Stats
+Nantes,https://fbref.com/en/squads/d7a486cd/Nantes-Stats
+Nice,https://fbref.com/en/squads/132ebc33/Nice-Stats
+Paris S-G,https://fbref.com/en/squads/e2d8892c/Paris-Saint-Germain-Stats
+Reims,https://fbref.com/en/squads/7fdd64e0/Reims-Stats
+Rennes,https://fbref.com/en/squads/b3072e00/Rennes-Stats
+Saint-Étienne,https://fbref.com/en/squads/d298ef2c/Saint-Etienne-Stats
+Strasbourg,https://fbref.com/en/squads/c0d3eab4/Strasbourg-Stats
+Toulouse,https://fbref.com/en/squads/3f8c4b5f/Toulouse-Stats
