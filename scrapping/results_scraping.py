@@ -58,26 +58,34 @@ for league_name, base_url in leagues.items():
             if len(value)<x:
                 x = len(value)
 
+        x = min(len(col) for col in data.values()
+
         for i in range(0,x):
             league = league_name 
             game_week = data['game-week'][i].text.strip()
             day_of_week = data['day-of-week'][i].text.strip()
             start_time = data['start-time'][i].text.strip()
             home_team = data['home-team'][i].text.strip()
-            home_xg = data['home-xg'][i].text.strip()
             score = data['score'][i].text.strip()
-            away_xg = data['away-xg'][i].text.strip()
             away_team = data['away-team'][i].text.strip()
             attendance = data['attendance'][i].text.strip()
             venue = data['venue'][i].text.strip()
             date_find = data['date'][i].find('a')
+
+            if data['home-xg'][i].text.strip() != "":
+                home_xg = data['home-xg'][i].text.strip()
+                away_xg = data['away-xg'][i].text.strip()
+            else: 
+                home_xg = "X"
+                away_xg = "X"
+        
             if date_find:
                 game_date = date_find.text.strip()
+                
 
                 if game_week == "" or  day_of_week == "":
                     break
-
-                else:
+                else:                    
                     results.append({
                         'league': league,
                         'game-week': game_week,
@@ -92,7 +100,6 @@ for league_name, base_url in leagues.items():
                         'attendance' : attendance,
                         'venue' : venue
                         })
-print(len(results))
 
 df = pd.DataFrame(results)
 df.to_csv('teams_results_all_seasons.csv', index=False)
