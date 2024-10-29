@@ -4,11 +4,11 @@ import pandas as pd
 import time
 
 leagues = {
-    #'Premier League': 'https://fbref.com/en/comps/9/',
-    'Bundesliga': 'https://fbref.com/en/comps/20/'
-    #'La Liga': 'https://fbref.com/en/comps/12/',
-    #'Serie A': 'https://fbref.com/en/comps/11/',
-    #'Ligue 1': 'https://fbref.com/en/comps/13/'
+    'Premier League': 'https://fbref.com/en/comps/9/',
+    'Bundesliga': 'https://fbref.com/en/comps/20/',
+    'La Liga': 'https://fbref.com/en/comps/12/',
+    'Serie A': 'https://fbref.com/en/comps/11/',
+    'Ligue 1': 'https://fbref.com/en/comps/13/'
 }
 
 results = []
@@ -83,6 +83,7 @@ for league_name, base_url in leagues.items():
                 url_match_tag = data['url-match'][i].find('a')
                 if url_match_tag is not None:
                     url_match = 'https://fbref.com' + url_match_tag['href']
+                    tag_match = url_match.split('/matches/')[1].split('/')[0]
                 else:
                     url_match = "X" 
 
