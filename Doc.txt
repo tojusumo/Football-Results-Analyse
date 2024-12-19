@@ -1,14 +1,19 @@
-Player
+ * * * Player * * * 
 
 player_id: int (Primary Key)
 name: string
+first_name: string
 date_of_birth: date
+age: float
+height: float
 position: string
 nationality: string
-current_club: FK to Club
+current_club_tag: FK to Club
 contract_start_date: date
 contract_end_date: date
-Club
+
+
+ * * * Club * * * 
 
 club_id: int (Primary Key)
 club_name: string
@@ -17,7 +22,9 @@ stadium: string
 city: string
 country: string
 competitions: Association with Competition (Many-to-Many)
-Competition
+
+
+ * * * Competition * * * 
 
 competition_id: int (Primary Key)
 name: string
@@ -25,7 +32,9 @@ type: string (e.g., "Domestic", "International")
 season_start: date
 season_end: date
 clubs: Association with Club (Many-to-Many)
-Match
+
+
+ * * * Match * * * 
 
 match_id: int (Primary Key)
 date: date
@@ -35,7 +44,9 @@ away_team: FK to Club (association)
 competition_id: FK to Competition (association)
 home_team_score: int
 away_team_score: int
-PlayerPerformance (Link between Match and Player)
+
+
+ * * * PlayerPerformance (Link between Match and Player) * * * 
 
 performance_id: int (Primary Key)
 match_id: FK to Match (association)
