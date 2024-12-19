@@ -1,0 +1,21 @@
+* * * PLANNING * * *
+~~~~ Théo ~~~~
+- Tentative d'automatisation du scraping teams / competitions via FireBase et Google Cloud Scheduler (utilisation de Node.js) /// DEADLINE 24/12/2024 ///
+
+~~~~ Otmane ~~~~
+- 
+
+* * * QUESTIONS * * * 
+
+- Comment scraper les joueurs ? 
+  - Prendre le lien de chaque équipe et scraper le lien du joueur (pas reprendre si déjà dans la base) ? 
+  - Autre méthode
+
+* * * LIENS * * * 
+- Carte mentale du projet : https://miro.com/welcomeonboard/TXNaMXBKNFEreU9MaHBlUnZzU09OTGJQbXB3cGlxTVRkRGhMWDl3ektnb3IyUTR6ZmVjajVhbDk1amN1cVMrb2xxcGpZalA5alhKWitoaGVkbzc1bGk1OEVRbS8vZncxcjY4RFZVeTFVQ2JzV3NLSkFHZHRhNEx0T2Q1cjJtdWEhZQ==?share_link_id=445260092926
+
+
+* * * ARTICLES * * *
+
+
+* * * VIDEOS * * * 
