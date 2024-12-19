@@ -1,6 +1,6 @@
 * * * PLANNING * * *
 ~~~~ Théo ~~~~
-- Tentative d'automatisation du scraping teams / competitions via FireBase et Google Cloud Scheduler (utilisation de Node.js) /// DEADLINE 24/12/2024 ///
+- Tentative d'automatisation du scraping teams / competitions via Supabase /// DEADLINE 24/12/2024 ///
 
 ~~~~ Otmane ~~~~
 - 
