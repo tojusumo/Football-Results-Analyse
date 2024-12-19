@@ -18,6 +18,7 @@ seasons = [f"{year}-{year + 1}" for year in range(2010, current_year + 1)]
 
 # Initialize a list to hold team data
 clubs = []
+competitions = []
 
 # Request counter
 request_counter = 0
@@ -43,6 +44,12 @@ for league_name, base_url in leagues.items():
             continue
 
         soup = BeautifulSoup(response.text, 'html.parser')
+
+        competitions.append({
+                        'season': season,
+                        'competition_name': league_name,
+                        'competition_link': url
+                    })
 
         # Find all <th> tags with data-stat="team"
         team_cells = soup.find_all('th', {'data-stat': 'team'})
@@ -74,4 +81,8 @@ for league_name, base_url in leagues.items():
 df = pd.DataFrame(clubs)
 df.to_csv('teams_info_all_seasons.csv', index=False)
 
+df = pd.DataFrame(competitions)
+df.to_csv('competitions_info_all_seasons.csv', index=False)
+
 print("Team URLs scraped and saved to teams_info_all_seasons.csv")
+print("Competition URLs scraped and saved to competitions_info_all_seasons.csv")
